@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=0"/>
+     <!-- font awesome -->
+     <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"/>
+      <!-- common style -->
+     <link rel="stylesheet" href="assets/style/vetina/css/style.css" />
+  </head>
+  <body>
+    <div class="loader"></div>
+    <!-- header start -->
+    <div id="header"></div>
+    <!-- header end -->
+     
+    <!-- free sample start -->
+    <div id="freeSample"></div>
+    <!-- free sample end -->
+
+    <!--Contact Section--> 
+    <div class="contact-section mt-nav">
+      <div class="c-bg-image">
+        <img src="assets/img/contact/contact-bg.jpg" alt="Contact image"/>
+      </div>
+      <div class="container">
+        <div class="col-sm-12 u-mob-padd-h-none">
+          <div class=" c-form-address-block">
+          <div class="col-sm-7 u-mob-padd-h-none">
+              <form action="vetbuddycontact.php" method="POST">
+                  <div class="col-sm-6">
+                      <input type="text" name="fname" id="fname" onkeypress=" return isChar(event)" placeholder="First Name" required>
+                  </div>
+                
+                <div class="col-sm-6">
+                    <input type="text" name="lname" id="lname" onkeypress=" return isChar(event)" placeholder="Last Name" required>
+               </div>
+
+               <div class="col-sm-6 ">
+                  <input type="text" name="mobileNo" id="mobileNo" onkeypress=" return isNumber(event)"
+                minlength="10" maxlength="13" placeholder="Mobile No" required>
+               </div>
+              <div class="col-sm-6">
+                <input type="email" name="email" id="email" placeholder="Email ID" required>
+              </div>
+
+               <div class="col-sm-12 clearside">
+                 <textarea id="message" name="message" placeholder="Message" required></textarea>
+                 </div>
+
+                 <div class="col-sm-12">
+                   <button class="btn-primary btn-c-send" id="contact_submit">Send</button>
+                 </div>
+              </form>
+          </div>
+          <div class="col-sm-5 c-info-details">
+            <h4 class="mb-20">Contact Information</h4>
+              <ul class="pl-0">
+                  <li><img src="assets/img/contact/location.svg" alt="location Icon">
+                      <span>Vetina Healthcare LLP,
+                          401-B, Town Square,
+                          Viman Nagar,Pune, India – 411014</span>
+                    </li>
+                    <li>
+                      <img src="assets/img/contact/mail-icon.svg" alt="Email Icon">
+                      <span>customerservice@vetina.com</span>
+                    </li>
+                    <li>
+                      <img src="assets/img/contact/call-icon.svg" alt="Phone Icon">
+                      <span>(020) 2663 3615 / 07506562266</span>
+                    </li>
+                    <li>
+                        <img src="assets/img/contact/clock-icon.svg" alt="Phone Icon">
+                        <span>Mon-Sat: 9:30am - 6:30pm</span>
+                      </li>
+                </ul>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+    <!--/Contact Us section--> 
+    <!-- footer start -->
+    <div id="footer">
+    <!-- footer end -->
+
+    <!-- owl carousel js link -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="assets/js/vetina/main.js"></script>
+    <script src="assets/js/vetina/validation.js"></script>
+    
+
+    <script>
+        $("#contact_submit").click(() => {
+            $.ajax({
+                url: 'vetbuddycontact.php',
+                type: 'POST',
+                data: {
+                    fname: $('#fname').val(),
+                    lname: $('#lname').val(),
+                    mobileNo: $('#mobileNo').val(),
+                    email: $('#email').val(),
+                    message: $('#message').val()
+                },
+                success: function() {
+
+                },
+                error: function() {
+
+
+                }
+            });
+        })
+    </script>
+  </body>
+</html>

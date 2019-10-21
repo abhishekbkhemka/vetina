@@ -1,0 +1,95 @@
+// this file contains style for footer
+// changes here will effect on footer all over the website
+
+// ----------------------------- Footer
+footer {
+  font-size: @font-size-small - 2;
+  background-image: url("../../../../assets/img/footer/footer-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  padding: 48px 0px 135px;
+  z-index: 1;
+  .overlay {
+    position: absolute;
+    .size(100%, 100%);
+    background-color: #36231b;
+    .opacity(0.59);
+  } //overlay
+} //footer
+
+.footer-list-heading {
+  color: #ce7c29;
+  font-size: @font-size-small - 2;
+} //footer-list-heading
+
+.unordered-footer-list {
+  li {
+    list-style-type: initial;
+    color: #e7e1e1;
+    a {
+      color: @light-color;
+    }
+  }
+} //unordered-footer-list
+
+.footer-links {
+  margin-top: @space / 2;
+  li {
+    padding: 2px 0px;
+    a {
+      color: #ce7c29;
+    }
+  }
+} //footer-links
+
+.footer-right-section {
+  p {
+    color: @light-color;
+    padding-bottom: @space / 4 - 1;
+  }
+} //footer-right-section
+
+.footer-copy-section {
+  background-color: rgba(216, 216, 216, 0.06);
+  width: 100%;
+  p {
+    font-size: @font-size-small - 2;
+    color: #bebbbb;
+  }
+} //footer-copy-section
+
+.rating-star {
+  color: @light-color;
+  // float: right;
+  &:before {
+    margin: 0px 1px;
+    font-size: @font-size-small - 2;
+    font-family: FontAwesome;
+    display: inline-block;
+    content: "\f005";
+  }
+
+  &.checked {
+    color: #efce4a;
+    // content: "\f005";
+  }
+}
+.half:before {
+  content: "\f089";
+  position: absolute;
+}
+
+.join-team-details {
+  padding-top: @space * 2;
+  p {
+    font-size: @font-size-small - 2;
+    color: @light-color;
+    line-height: 1;
+    span {
+      font-size: @font-size-small;
+      color: @light-color;
+      padding-right: @space / 4;
+    }
+  }
+}

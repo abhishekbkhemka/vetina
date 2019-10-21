@@ -1,0 +1,62 @@
+<!-- ask for free sample start -->
+<div class="i-free-sample fixed absolute left-center m-tb-auto">
+  <div class="overlay absolute center"></div>
+  <div class="i-free-sample-block">
+    <form class="i-free-sample-form">
+      <input
+        type="text"
+        name="name"
+        placeholder="Name"
+        class="i-free-sample-sm-inp pull-left"
+      />
+      <input
+        type="email"
+        name="email"
+        placeholder="Email"
+        class="i-free-sample-sm-inp pull-right"
+      />
+      <input
+        type="text"
+        name="contact"
+        placeholder="Contact"
+        class="i-free-sample-sm-inp pull-left"
+      />
+      <input
+        type="text"
+        name="pincode"
+        placeholder="Pincode"
+        class="i-free-sample-sm-inp pull-right"
+      />
+      <input
+        type="text"
+        name="address"
+        placeholder="Address"
+        classs="i-free-sample-lg-inp pull-left"
+      />
+      <input
+        type="text"
+        name="sample_req"
+        placeholder="Sample Requirement"
+        classs="i-free-sample-lg-inp pull-left"
+      />
+      <div class=" text-center">
+        <button class="btn btn-send mt-4">Send Message</button>
+      </div>
+    </form>
+    <span class="i-free-ask-sample-btn">Ask for Free Sample</span>
+  </div>
+</div>
+<!-- ask for free sample end -->
+
+<!-- form open js start -->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".i-free-ask-sample-btn").click(function() {
+      $(".i-free-sample").toggleClass("open-form");
+    });
+    $(".i-free-sample .overlay").click(function() {
+      $(".i-free-sample").removeClass("open-form");
+    });
+  });
+</script>
+<!-- form open js end -->

@@ -1,0 +1,75 @@
+.accordian {
+  width: 100%;
+  // box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+  margin: 22px auto 36px;
+  color: #b5b5b5;
+  .title {
+    color: #3b3937;
+    cursor: pointer;
+    padding: @space - 2 @space - 4;
+    margin: 0;
+    font-weight: normal;
+    transition: all 0.25s ease;
+    border: solid 1px #979797;
+    background-color: #ffffff;
+    .border-radius(2px);
+    position: relative;
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.005);
+    }
+  }
+}
+
+.accordian-list {
+  li {
+    margin-bottom: @space - 2;
+  }
+}
+
+.accordian-content {
+  display: none;
+  padding: 0px @space - 2;
+  color: #3b3937;
+}
+
+.accordian-add-icon,
+.accordian-minus-icon {
+  position: absolute;
+  right: 0;
+  margin-right: 14px;
+  height: 17px;
+  top: 0px;
+  bottom: 0px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.accordian-minus-icon {
+  display: none;
+}
+
+.accordian ul ul li a {
+  // display: block;
+  // background-color: #eee;
+  // padding: 1rem;
+  // color: #777;
+  // border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  // transition: all 0.25s ease;
+}
+.accordian ul ul li a:hover {
+  // background-color: #55acee;
+  // color: #fff;
+}
+
+.open {
+  transition: all 0.25s ease;
+}
+
+.accordian-add-icon.open {
+  display: none;
+}
+
+.accordian-minus-icon.open {
+  display: block;
+  height: auto;
+}
