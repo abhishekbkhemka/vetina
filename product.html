@@ -378,13 +378,19 @@
     <!-- footer end -->
     <!---  modal -->
 
-    <div id="open-modal" class="modal-window"></div>
+    <div id="open-modal" class="modal modal-window">
+      <div class="modal-backdrop" onclick="closeModal()"></div>
+      <a
+        onclick="closeModal()"
+        id="close-modal"
+        title="Close"
+        class="modal-close"
+        ><img src="assets/img/product/cross-icon.png" /><span>Close</span></a
+      >
+      <div class="p-modal-details" id="product-modal-content"></div>
+    </div>
 
-    <div
-      id="vetina-product-iframe-modal"
-      class="modal fade"
-      role="dialog"
-    ></div>
+    
 
     <!-- owl carousel js link -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>

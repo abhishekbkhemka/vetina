@@ -8,7 +8,7 @@
         "name": "Cardio Support",
         "imageUrl": "<img src='assets/img/product/360-icon.svg' class='iframe-360-icon' onclick='vetninIframeModal()'><img src='http://www.vetina.com/wp-content/uploads/2018/02/CARDIO_SUPPORT_3D.jpg'/>",
         
-        "body": "<div class='modal-backdrop' onclick='closeFrameModal()'></div><div class='modal-dialog'> <div class='modal-content vetina-iframe-holder'><div class='modal-close iframe-close-btn' onclick='closeFrameModal()'><img src='assets/img/product/cross-icon.png'></div> <iframe title='A 3D model' width='100%' height='100%' src='https://sketchfab.com/models/d0d84be75ac245d18b7d71789f164bfb/embed' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true' ></iframe> </div> </div>"
+        "body": "<iframe title='A 3D model' width='100%' height='400' src='https://sketchfab.com/models/d0d84be75ac245d18b7d71789f164bfb/embed' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true' ></iframe> "
       },
       {
         "id": "petfood-2",
@@ -16,7 +16,7 @@
         "category":"Pet_Food",
         "name": "Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil",
         "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg' /></div> <h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>"
+        "body": "<div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg' /></div> <h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>"
       },
       {
         "id": "petfood-3",

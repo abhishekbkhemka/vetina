@@ -1,5 +1,5 @@
 
-var jsonPath = "/assets/js/products.php/";
+var jsonPath = "/vetina/assets/js/products.php/";
 var productdata = ''
 var companion = ''
 // For Companion
@@ -113,7 +113,6 @@ function searchCompanion(data){
     for(let j=0;j<allValues.length;j++){
       let name = allValues[j].name;
       if(name.toUpperCase().indexOf(serachValue) > -1){
-        console.log("THE VALUES ARE MATCh",allValues[j])
         prodArr.push(allValues[j]);
       }
     }
@@ -129,31 +128,18 @@ var listInfo = '';
  listInfo= data.getElementsByTagName("input")[0].value;
  spanInfo= data.getElementsByTagName("span")[0].innerHTML;
  categoryInfo= data.getElementsByTagName("span")[1].innerHTML;
- if(spanInfo == 'frame'){
-  var frameModal= document.getElementById("vetina-product-iframe-modal");
+  var openModal = document.getElementById("open-modal");
+  var addModalCont = document.getElementById("product-modal-content");
   for(let comp in companion){
     if(comp == categoryInfo){
         for(let y of companion[comp]){
           if(y.id == listInfo){
-            frameModal.classList.add("modal-open");
-            frameModal.innerHTML = y.body;
-          }
-        }
-     }
-   }
- }else{
-  var openModal = document.getElementById("open-modal");
- for(let comp in companion){
-    if(comp == categoryInfo){
-        for(let y of companion[comp]){
-          if(y.id == listInfo){
             openModal.classList.add("open");
-            openModal.innerHTML = y.body;
+            addModalCont.innerHTML = y.body;
           }
         }
      }
    }
- }
 }
 
 
@@ -259,40 +245,24 @@ function searchRuminion(data){
 
 
 function getSingleProductRuminant(data){
-  console.log("THE RUMINANT DATA IS HERE--->>>",data)
 var listInfo = '';
  listInfo= data.getElementsByTagName("input")[0].value;
  spanInfo= data.getElementsByTagName("span")[0].innerHTML;
  categoryInfo= data.getElementsByTagName("span")[1].innerHTML;
- let ruminantData = productdata.ruminant
- if(spanInfo == 'frame'){
-  var frameModal= document.getElementById("vetina-product-iframe-modal");
+ let ruminantData = productdata.ruminant;
+  var frameModal= document.getElementById("open-modal");
+  var frameModalCont= document.getElementById("product-modal-content");
   for(let rumi in ruminantData){
     if(rumi == categoryInfo){
         for(let y of ruminantData[rumi]){
           if(y.id == listInfo){
-            frameModal.classList.add("modal-open");
-            frameModal.innerHTML = y.body;
+            frameModal.classList.add("open");
+            frameModalCont.innerHTML = y.body;
           }
         }
      }
    }
- }else{
-  var openModal = document.getElementById("open-modal");
- for(let rumi in ruminantData){
-    if(rumi == categoryInfo){
-        for(let y of ruminantData[rumi]){
-          if(y.id == listInfo){
-            openModal.classList.add("open");
-            openModal.innerHTML = y.body;
-          }
-        }
-     }
-   }
- }
 }
-
-
 
 
 // For poultry and Aqua
@@ -397,36 +367,20 @@ var listInfo = '';
  spanInfo= data.getElementsByTagName("span")[0].innerHTML;
  categoryInfo= data.getElementsByTagName("span")[1].innerHTML;
  let poultryData = productdata.poultry;
- if(spanInfo == 'frame'){
-  var frameModal= document.getElementById("vetina-product-iframe-modal");
-  // var closeframeModal= document.getElementsByClassName("iframe-close-btn");
+ 
+  var frameModal= document.getElementById("open-modal");
+  var frameModalCont= document.getElementById("product-modal-content");
   for(let pol in poultryData){
     if(pol == categoryInfo){
         for(let y of poultryData[pol]){
           if(y.id == listInfo){
-            frameModal.classList.add("modal-open");
-            // closeframeModal.classList.remove("modal-open");
-            frameModal.innerHTML = y.body;
+            frameModal.classList.add("open");
+            frameModalCont.innerHTML = y.body;
           }
         }
      }
    }
- }else{
-  var openModal = document.getElementById("open-modal");
- for(let pol in poultryData){
-    if(pol == categoryInfo){
-        for(let y of poultryData[pol]){
-          if(y.id == listInfo){
-            openModal.classList.add("open");
-            openModal.innerHTML = y.body;
-          }
-        }
-     }
-   }
- }
 }
-
-
 
 
 // For Swine
@@ -531,30 +485,17 @@ var listInfo = '';
  spanInfo= data.getElementsByTagName("span")[0].innerHTML;
  categoryInfo= data.getElementsByTagName("span")[1].innerHTML;
  let swineData = productdata.swine;
- if(spanInfo == 'frame'){
-  var frameModal= document.getElementById("vetina-product-iframe-modal");
+  var frameModal= document.getElementById("open-modal");
+  var frameModalCont= document.getElementById("product-modal-content");
   for(let pol in swineData){
     if(pol == categoryInfo){
         for(let y of swineData[pol]){
           if(y.id == listInfo){
-            frameModal.classList.add("modal-open");
-            frameModal.innerHTML = y.body;
+            frameModal.classList.add("open");
+            frameModalCont.innerHTML = y.body;
           }
         }
      }
    }
- }else{
-  var openModal = document.getElementById("open-modal");
- for(let pol in swineData){
-    if(pol == categoryInfo){
-        for(let y of swineData[pol]){
-          if(y.id == listInfo){
-            openModal.classList.add("open");
-            openModal.innerHTML = y.body;
-          }
-        }
-     }
-   }
- }
 }
 

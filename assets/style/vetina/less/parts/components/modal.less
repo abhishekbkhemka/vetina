@@ -263,27 +263,32 @@
     opacity: 1;
     pointer-events: auto;
     width: 100%;
-    .p-modal-details {
-      width: 430px;
-    }
+    display: block;
   }
   .p-modal-details {
-    width: 0px;
-    height: 100%;
+    width: 70%;
+    height: 80vh;
     overflow-y: auto;
     position: absolute;
-    top: 0%;
+    top: 0;
     right: 0;
-    transition: width 0.3s;
+    left: 0;
+    bottom: 0;
+    margin: 48px auto;
+    // transition: width 0.3s;
 
     // transform: translate(-50%, -50%);
     padding: 2em;
     background: #ffffff;
+    z-index: @zindex-extra-small;
+    img {
+      height: auto;
+    }
   }
   .overlay {
     background-color: rgba(0, 0, 0, 0.8196078431372549);
-    left: 0;
-    width: 100%;
+    // left: 0;
+    // width: 100%;
   }
 }
 
@@ -291,22 +296,23 @@
   cursor: pointer;
   z-index: 1;
   color: #aaa;
-  line-height: 32px;
-  font-size: 80%;
   position: absolute;
   right: 0;
   text-align: center;
   top: 0;
-  .circle(34px);
-  margin-right: 445px;
+  margin-right: 15%;
   margin-top: 12px;
-  background-color: rgba(255, 255, 255, 0.54);
+  // background-color: rgba(255, 255, 255, 0.54);
   text-decoration: none;
-  &:hover {
-    color: black;
-  }
+  z-index: @zindex-extra-small;
   img {
-    height: 14px;
+    height: 13px;
+  }
+  span {
+    color: @light-color;
+    vertical-align: middle;
+    padding-left: 6px;
+    font-size: 17px;
   }
 }
 
