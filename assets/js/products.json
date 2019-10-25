@@ -1,6 +1,6 @@
 {
   "companion": {
-    "Pet_Food": [
+    "Pet_Food": [ 
       {
         "id": "petfood-1",
         "type":"frame",
@@ -15,16 +15,16 @@
         "type":"pic",
         "category":"Pet_Food",
         "name": "Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg'/>",
+        "imageUrl": "<img src='\\assets\\img\\product\\product-images\\Companion\\Medical Devices\\Feline-Urine-Collection-Kit.png'/>",
         "body": "<div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg' /></div> <h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>"
       },
       {
         "id": "petfood-3",
         "type":"pic",
         "category":"Pet_Food",
-        "name": "Calibra Dog Hypoallergenic Adult Large Breed / Chicken & Rice",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed.jpg' /></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Adult Large Breed / Chicken & Rice</h5> <p>Complete dry food for large breed (over 30kg) adult dogs</p> <p> User Friendly adult large and giant dog breeds weighing over 30kg </p> <div class='p-center-align'> <span></span> </div> <h5>Features</h5> <ul class='pl-0 mb-12'> <li>Highly digestible hypoallergic recipe(0% wheat, 0% soy, 0% maize)</li> <li>Extra joint nutrition to protect the musculoskeletal system of large breeds</li> <li>Salmon oil as a source of omega-3 unsaturated fatty acids for healthy skin and coat</li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Contents and Packing</h5> <ul class='pl-0 mb-12'> <li> Kit includes Hydrophobhic sand, Disposal tray, Vial, Pipette and disposing bag </li> <li> 1x300g sand x 1vial x 1 pipette x 1 disposal tray </li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Instructions for use</h5> <p> Spread all of the sand into a clean and empty litter tray, and let the cat freely urinate onto the sand. The cat’s urine will stay on the top allowing you to collect the urine using the pipette and vial that is included into the kit. The entire content of one bag is require to collect a single urine sample. If required, use more than one bag of sand. </p> </div>"
+        "name": "Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil",
+        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg'/>",
+        "body": "<div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg' /></div> <h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>"
       },
       {
         "id": "petfood-4",
@@ -37,66 +37,170 @@
     ],
     "Medical_Devices": [
       {
-        "id": "petfood-15",
+        "id":"medicaldevices-1",
         "type":"pic",
         "category":"Medical_Devices",
-        "name": "Pet identification Chip",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/pet-identification-chip.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/pet-identification-chip.png' /></div> <h5 class='text-center'>Pet identification Chip</h5> <p>One implant for lifetime, provides ownership proof</p> <p>HS pet identification chip is ready to use application system (RFID) with unique 15-digit number for the electronic identification of animals. It is manufactured in accordance to ISO standard 11784/85 FDX B and accepted globally.</p> <div class='p-center-align'> <span></span> </div> <h5>Features</h5> <ul class='pl-0 mb-12'> <li>Absolutely safe with no side effects</li> <li>Anti-migration coating and painless insertion process</li> <li>Provides unique Lifetime ID</li> <li>Can’t be lost or altered</li><li>No Geographical boundaries</li></ul> <div class='p-center-align'> <span></span> </div> <h5>Contents and Packing</h5> <ul class='pl-0 mb-12'> <li> Kit includes Hydrophobhic sand, Disposal tray, Vial, Pipette and disposing bag </li> <li> 1x300g sand x 1vial x 1 pipette x 1 disposal tray </li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Instructions for use</h5> <p> Spread all of the sand into a clean and empty litter tray, and let the cat freely urinate onto the sand. The cat’s urine will stay on the top allowing you to collect the urine using the pipette and vial that is included into the kit. The entire content of one bag is require to collect a single urine sample. If required, use more than one bag of sand. </p> </div>"
+        "name":"Bandages",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Medical Devices/bandages.png'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Medical Devices/bandages.png' /></div><h5 class='text-center'>Bandages</h5><div class='ezcol ezcol-one-half'><p style='text-align:center;'><img class='alignnone size-full wp-image-1649' src='http://www.vetina.com/wp-content/uploads/2019/05/Proplast.png' sizes='(max-width: 786px) 100vw, 786px' srcset='http://www.vetina.com/wp-content/uploads/2019/05/Proplast-300x223.png 300w,http://www.vetina.com/wp-content/uploads/2019/05/Proplast-768x570.png 768w,http://www.vetina.com/wp-content/uploads/2019/05/Proplast.png 786w' alt='Proplast' width='786' height='583' /></p><h3 style='text-align: center;'><strong>Proplast</strong></h3></div><div class='ezcol ezcol-one-half ezcol-last'><p style='text-align:center;'><img class='alignnone size-full wp-image-1650' src='http://www.vetina.com/wp-content/uploads/2019/05/Prowrap.jpg' sizes='(max-width: 714px) 100vw, 714px' srcset='http://www.vetina.com/wp-content/uploads/2019/05/Prowrap-300x252.jpg 300w, http://www.vetina.com/wp-content/uploads/2019/05/Prowrap.jpg 714w' alt='Prowrap' width='714' height='600' /></p><h3 style='text-align: center;'><strong>Prowrap</strong></h3></div><p><strong>Usage – Prowrap and Proplast</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><thead><tr><th style='text-align: center;' scope='col'><strong>Prowrap</strong></th><th style='text-align: center;' scope='col'><strong>Proplast</strong></th></tr></thead><tbody><tr><td>Cohesive bandages</td><td>Adhesive bandage</td></tr><tr><td>Holding dressings in place</td><td>Strong level of adhesion with minimum residue</td></tr><tr><td>Easy to tear</td><td>Strong adhesive</td></tr><tr><td>Water resistant</td><td>Provides compression for healing after surgery</td></tr><tr><td>Allow skin to breathe</td><td>Support the joints to avoid sprains and strains</td></tr><tr><td>Hold wound dressings in place</td><td></td></tr><tr><td>Provides compression for healing after surgery</td><td></td></tr><tr><td>Support the joints to avoid sprains and strains</td><td></td></tr><tr><td>Individually wrapped</td><td>Individually wrapped</td></tr><tr><td>Colors available- multiple</td><td>Colors available</td></tr><tr><td>5, 7.5 cm, 10 cm</td><td>White</td></tr></tbody></table>"
       },
       {
-        "id": "petfood-16",
-        "type":"pic",
-        "category":"Medical_Devices",
-        "name": "Microchip Ring Reader",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2016/11/scanner.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2016/11/scanner.png' /></div> <h5 class='text-center'>Microchip Ring Reader</h5> <p>Scanner is versatile, reads all FDX-B 15 digit and FDX A (FECAVA) 10 digit microchips (all brands), It is in compliance with ROHS, CE and ISO 11784 norms, convenient and portable scanner, Ergonomically designed, Lightweight, robust to use and rechargeable via a USB cable to laptop or PC</p> <div class='p-center-align'> <span></span> </div> <h5>Features</h5> <ul class='pl-0 mb-12'> <li>In compliance with ROHS, CE and ISO 11784 norms</li> <li>Ergonomically designed</li> <li>Lightweight and robust</li> <li>Rechargeable via a USB cable to laptop or PC</li></ul> <div class='p-center-align'> <span></span> </div> <h5>Technical details</h5> <ul class='pl-0 mb-12'> <li>In compliance with ROHS, CE and ISO 11784 norms</li> <li>Ergonomically designed</li> <li>Lightweight and robust</li> <li>Rechargeable via a USB cable to laptop or PC</li></ul> <h5>Contents and Packing</h5> <ul class='pl-0 mb-12'> <li> Dimensions: 135mm diameter x 33mm</li> <li>Weight: 163g</li><li>Scans per charge: 8 second scans x 1000</li><li>Standby Time: 2 months (typically)</li><li>3 hours charge time</li><li>LCD 2 lines x 16 characters display</li></ul> </div>"
-      },
-      {
-        "id": "petfood-17",
-        "type":"pic",
-        "category":"Medical_Devices",
-        "name": "Hot and Cold Pack",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2016/11/hs-pack.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2016/11/hs-pack.jpg' /></div> <h5 class='text-center'>Hot and Cold Pack</h5> <p>Reusable and convenient pack for Dual purpose therapy</p> <div class='p-center-align'> <span></span> </div> <h5>Applications</h5> <ul class='pl-0 mb-12'> <li>Cold pack is generally recommended for first 48 hours following injury. Relieves inflammation, swelling and pain</li> <li>Hot pack is generally recommended 48 hours after injury. Improves flexibility of tendons, ligaments, reduce muscle spasm and alleviate pain.</li> <li>Can be used at multiple sites (Knee, thigh, hip, back, shoulder, neck etc.)</li> <li>Economical and easy method</li><li>Suitable for continuous treatment, if needed</li></ul> <div class='p-center-align'> <span></span> </div> <h5>Contents and Packing</h5> <ul class='pl-0 mb-12'> <li>1X1 unit</li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Implantation sites</h5> <p>The implantation sites in Canines and Felines are</p><ul><li>The Transponder is implanted subcutaneous on the dorsal midline just cranial to the shoulder blades or scapula</li><li>The Transponder is implanted subcutaneously in the midway region of left neck</li></ul></div>"
-      },
-      {
-        "id": "petfood-18",
+        "id":"medicaldevices-2",
         "type":"pic",
         "category":"Medical_Devices",
         "name": "Feline Urine Collection kit",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/Feline-Urine-Collection-Kit.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/Feline-Urine-Collection-Kit.png' /></div> <h5 class='text-center'>Feline Urine Collection kit</h5> <p>Feline urine collection kit is a unique hydrophobic sand with biodegradable and safe coating.</p> <p>User Friendly for Cats, Pet owners, Vets and Technicians</p> <div class='p-center-align'> <span></span> </div> <h5>Features</h5> <ul class='pl-0 mb-12'> <li>Clean uncontaminated sample</li> <li>Safe & Economical</li> <li>Non invasive</li> <li>Natural & Biodegradable</li><li>Veterinarian recommended</li></ul> <div class='p-center-align'> <span></span> </div> <h5>Contents and Packing</h5> <ul class='pl-0 mb-12'> <li> Kit includes Hydrophobhic sand, Disposal tray, Vial, Pipette and disposing bag </li> <li> 1x300g sand x 1vial x 1 pipette x 1 disposal tray </li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Instructions for use</h5> <p> Spread all of the sand into a clean and empty litter tray, and let the cat freely urinate onto the sand. The cat’s urine will stay on the top allowing you to collect the urine using the pipette and vial that is included into the kit. The entire content of one bag is require to collect a single urine sample. If required, use more than one bag of sand. </p> </div>"
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Medical Devices/Feline-Urine-Collection-Kit.png'>",
+        "body": "<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Medical Devices/Feline-Urine-Collection-Kit.png'/></div> <h5 class='text-center'>Feline Urine Collection kit</h5><p>Feline urine collection kit is a unique hydrophobic sand with biodegradable and safe coating.</p><p>User Friendly for Cats, Pet owners, Vets and Technicians</p><p><strong>Features</strong></p><ul><li>Clean uncontaminated sample</li><li>Safe &amp; Economical</li><li>Non invasive</li><li>Natural &amp; Biodegradable</li><li>Veterinarian recommended</li></ul><p><strong>Contents and Packing</strong></p><ul><li>Kit includes Hydrophobhic sand, Disposal tray, Vial, Pipette and disposing bag</li><li>1x300g sand x 1vial x 1 pipette x 1 disposal tray</li></ul><p>Painless procedure with ease and convenience of urine collection<br /><p class='text-center'><img src='http://www.vetina.com/e-com/image/data/Vetina/uck1.png' alt=''/></p></p><p class='text-center'><img src='http://www.vetina.com/e-com/image/data/Vetina/fck.jpg' alt='' /></p><p>&nbsp;</p><p><strong>Instructions for use:</strong></p><p>Spread all of the sand into a clean and empty litter tray, and let the cat freely urinate onto the sand. The cat’s urine will stay on the top allowing you to collect the urine using the pipette and vial that is included into the kit. The entire content of one bag is require to collect a single urine sample. If required, use more than one bag of sand.</p><p>&nbsp;</p>"
       },
       {
-        "id": "petfood-18",
+        "id":"medicaldevices-3",
         "type":"pic",
         "category":"Medical_Devices",
-        "name": "Bandages",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/06/bandages.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2016/11/hs-pack.jpg' /></div> <h5 class='text-center'>Hot and Cold Pack</h5><h5>Prowrap Bandage Usage</h5> <ul class='pl-0 mb-12'> <li>Cohesive bandages</li> <li>Holding dressings in place</li> <li>Easy to tear</li> <li>Water resistant</li><li>Allow skin to breathe</li><li>Hold wound dressings in place</li><li>Provides compression for healing after surgery</li><li>Support the joints to avoid sprains and strains</li><li>Individually wrapped</li><li>Colors available- multiple</li><li>5, 7.5 cm, 10 cm</li></ul> <div class='p-center-align'> <span></span> </div> <h5>Proplast Bandage Usage</h5> <ul class='pl-0 mb-12'> <li>Adhesive bandage</li><li>Strong level of adhesion with minimum residue</li><li>Strong adhesive</li><li>Provides compression for healing after surgery</li><li>Support the joints to avoid sprains and strains</li><li>Individually wrapped</li><li>Colors available</li><li>White</li></ul></div>"
-      }
-    ],
-    "Catheter": [
+        "name": "Hot and Cold Pack",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Medical Devices/Hot And Cold Gel Pack.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Medical Devices/Hot And Cold Gel Pack.jpg'/></div><h5 class='text-center'>Hot and Cold Pack</h5><p><strong>Reusable and convenient pack for Dual purpose therapy</strong></p><p><strong>Applications:</strong></p><ol><li>Cold pack is generally recommended for first 48 hours following injury. Relieves inflammation, swelling and pain</li><li>Hot pack is generally recommended 48 hours after injury. Improves flexibility of tendons, ligaments, reduce muscle spasm and alleviate pain.</li><li>Can be used at multiple sites (Knee, thigh, hip, back, shoulder, neck etc.)</li><li>Economical and easy method</li><li>Suitable for continuous treatment, if needed</li></ol><p><strong>Instructions for use:</strong></p><p><strong>For cold use</strong>:</p><p>Place pack in the freezer for up to 2 hours before use. Wrap in a cloth or protective sleeve before applying directly to the skin. Use pack in short intervals no longer than 20 mins. Remove pack if feels uncomfortable</p><p><strong>For hot use</strong>:</p><p>Place pack in the microwave for 20 seconds at 600W. Increase heating time in 10 second intervals to reach desired temperature if needed. Times should be reduced for microwaves with higher power ratings. If pack expands like balloon, stop heating, let it cool and then use. Remove pack carefully from microwave and knead to distribute heat evenly for desired temperature. Wrap in a cloth or protective sleeve before applying directly to the skin. Use pack in short intervals no longer than 20 mins. Remove pack if feels uncomfortable.</p><p><strong>Packing</strong></p><p>1X1 unit</p>"
+      }, 
       {
-        "id": "Catheter-1",
+        "id":"medicaldevices-4",
         "type":"pic",
-        "category":"Catheter",
-        "name": "Cat Catheter",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/Cat-Catheter.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/Cat-Catheter.png' /></div> <h5 class='text-center'>Cat Catheter</h5> <p>Urinal catheters for cats with and without stylet made from polyethylene with luer fitting.</p></div>"
-      }
-    ],
-    "Hair_Ball_Remover": [
+        "category":"Medical_Devices",
+        "name": "Microchip Ring Reader",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Medical Devices/microchip-ring-reader.png'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Medical Devices/microchip-ring-reader.png'/></div> <h5 class='text-center'>Microchip Ring Reader</h5><p><strong>Microchip Ring Reader</strong></p><p>Scanner is versatile, reads all FDX-B 15 digit and FDX A (FECAVA) 10 digit microchips (all brands), It is in compliance with ROHS, CE and ISO 11784 norms, convenient and portable scanner, Ergonomically designed, Lightweight, robust to use and rechargeable via a USB cable to laptop or PC</p><p><strong>Features</strong></p><ul><li>In compliance with ROHS, CE and ISO 11784 norms</li><li>Ergonomically designed</li><li>Lightweight and robust</li><li>Rechargeable via a USB cable to laptop or PC</li></ul><p><strong>Technical details</strong></p><ol><li>Dimensions: 135mm diameter x 33mm</li><li>Weight: 163g</li><li>Scans per charge: 8 second scans x 1000</li><li>Standby Time: 2 months (typically)</li><li>3 hours charge time</li><li>LCD 2 lines x 16 characters display</li></ol>"
+      },
+      {
+        "id":"medicaldevices-5",
+        "type":"pic",
+        "category":"Medical_Devices",
+        "name": "Pet identification Chip",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Medical Devices/pet-identification-chip.png'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Medical Devices/pet-identification-chip.png'></div> <h5 class='text-center'>Pet identification Chip</h5><p><strong>Pet Identification Chip</strong></p><p>One implant for lifetime, provides ownership proof</p><p>HS pet identification chip is ready to use application system (RFID) with unique 15-digit number for the electronic identification of animals. It is manufactured in accordance to ISO standard 11784/85 FDX B and accepted globally.</p><p><strong>Features of Microchip:</strong></p><ol><li>Absolutely safe with no side effects</li><li>Anti-migration coating and painless insertion process</li><li>Provides unique Lifetime ID</li><li>Can&#8217;t be lost or altered</li><li>No Geographical boundaries</li></ol><p><strong>Implantation sites</strong></p><p>The implantation sites in Canines and Felines are:</p><ul><li>The Transponder is implanted subcutaneous on the dorsal midline just cranial to the shoulder blades or scapula</li><li>The Transponder is implanted subcutaneously in the midway region of left neck</li></ul><p><strong>Dimensions and Packing</strong></p><p>These are available in two dimensions:</p><ul><li>2.12 X 12mm</li><li>1.5 X 9 mm</li></ul><p><strong>Each unit contains</strong></p><p>1X10 units</p>"
+       }
+     ],
+     "Hair_Ball_Remover": [
       {
         "id": "Hair_Ball_Remover-1",
         "type":"pic",
         "category":"Hair_Ball_Remover",
         "name": "Cat Laxative",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/Cat-Laxative.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/Cat-Laxative.png' /></div> <h5 class='text-center'>Cat Laxative</h5> <h5>Indications for Use</h5><p>Hairball removal and prevention</p><div class='p-center-align'> <span></span> </div><h5>Applications</h5> <p>Most cats will take the laxative directly from the tube or from your finger, alternatively place the cat laxative on to the front paw or on the nozzle where the cat can lick it off.</p><h5>To prevent hairballs: </h5><p>Kittens (over 6 months): 3-6mm (0.12-0.24in) weekly, Cats: 6-13mm (0.24-0.5in) weekly</p><h5>To remove hairballs:</h5> <p>Kittens (over 6 months): 13mm (0.5in) daily for 3 days, Cats: 25mm (1in) daily for 3 days.</p></div>"
+        "imageUrl": "<img src='/assets/img/product/product-images/Companion/Hair Ball Remover/Cat-Laxative.png'>",
+        "body": "<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Hair Ball Remover/Cat-Laxative.png'/></div><h5 class='text-center'>Cat Laxative</h5><p><strong>Indications for Use</strong></p><p>Hairball removal and prevention</p><p><strong>Composition</strong></p><p>Cereals, oils and fats:</p><p><strong>Nutritional Additives:</strong></p><p>α-tocopherol acetate (Vitamin E) 10mg/kg</p><p>Analytical Constituents:</p><p>Crude protein – 2.2%</p><p>Crude fibre – 1.0%</p><p>Crude fats – 34.1%</p><p>Crude Ash – 1.3%</p><p>Moisture – 11.9%</p><p><strong>Application</strong></p><p>Most cats will take the laxative directly from the tube or from your finger, alternatively place the cat laxative on to the front paw or on the nozzle where the cat can lick it off.</p><p><strong>To prevent hairballs: </strong></p><p>Kittens (over 6 months): 3-6mm (0.12-0.24in) weekly, Cats: 6-13mm (0.24-0.5in) weekly</p><p><strong>To remove hairballs:</strong></p><p>Kittens (over 6 months): 13mm (0.5in) daily for 3 days, Cats: 25mm (1in) daily for 3 days.</p>"
+       }
+    ],
+    "Hepatic_Supplement":[
+      {
+        "id":"Hepatic_Supplement-1",
+        "type":"frame",
+        "category":"Hepatic_Supplement",
+        "name":"HEPA SUPPORT TABLETS",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Hepatic Supplement/HEPA_SUPPORT_3D.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Hepatic Supplement/HEPA_SUPPORT_3D.jpg'/></div> <h5 class='text-center'>HEPA SUPPORT TABLETS</h5><p>Liver is a very busy organ for Companion animal as toxic components easily finds their way through food, water and environment</p><p>Unique combination of all these ingredients supports phase I and phase II detoxification process</p><p><strong>Composition:</strong></p><p>Each tablet contains:</p><table width='289'><tbody><tr><td width='151'>L methionine</td><td width='130'>100 mg</td></tr><tr><td width='151'>N-Acetyl L -cysteine</td><td width='139'>100 mg</td></tr><tr><td width='151'>Dimethylglycine HCl </td><td width='139'>50 mg</td></tr><tr><td width='151'>Milk Thistle Extract</td><td width='139'>50 mg</td></tr><tr><td width='151'>Curcumin root Extract</td><td width='139'>25 mg</td></tr><tr><td width='151'>Inositol</td><td width='139'>20 mg</td></tr><tr><td width='375'>Phosphatidylcholine Complex</td><td width='125'>70 mg</td></tr><tr><td width='151'>Vitamin B6</td><td width='139'>5 mg</td></tr><tr><td width='151'>Vitamin B12</td><td width='139'>50 mcg</td></tr></tbody></table><p><strong>Helps to:</strong></p><p>Protects hepatic cells</p><ul><li>Supports Phase I and II detoxification process</li><li>Supports and maintain healthy Glutathione levels</li><li>Fat mobilization by highly absorbable Curcumin Phosphatidylcholine complex</li></ul><p><strong> </strong><strong>Dosage &amp; Administration:</strong></p><p><strong>For Dogs</strong></p><p>Up to 10 Kg – 1 Tab daily</p><p>If giving more than 1 tab, divide amount between AM and PM</p><p><strong>For Cats </strong></p><p>1- 5 Kg – 1/2 Tabs daily</p><p>Given orally or Mix in daily food.</p><p>Or</p><p>As advised by Veterinarian</p><p><strong>USP</strong></p><ul><li>Hepa support contains L Methionine, N Acetyl Cysteine, Milk Thistle plant, Inositol with power of DMG and unique complex of Phosphatidylcholine</li><li>Curcumin which enhances the body’s natural antioxidant system, in turn increases Glutathione levels, aiding in hepatic detoxification.</li></ul>"
       }
     ],
+    "Habit_Breaking_Formula":[
+      {
+        "id":"Habit_Breaking_Formula-1",
+        "type":"pic",
+        "category":"Habit_Breaking_Formula",
+        "name":"Fecal Deterrent Tablet",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Habit breaking Formula/Fecal-Deterrent-Bottle-F-1.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Habit breaking Formula/Fecal-Deterrent-Bottle-F-1.jpg' /></div> <h5 class='text-center'>Fecal Deterrent Tablet</h5><p><b style='font-weight:bold'>Causes of Coprophagia:</b></p><ul><li>Attention</li><li>Deficiency</li><li>Frustration</li><li>Habit</li><li>Guilt</li><li>Disgust</li><li>Instinct</li><li>Curiosity</li><li>Boredom</li></ul><p><b style='font-weight:bold'>Composition:</b></p><table dir='ltr' width='276' cellspacing='0' cellpadding='7' align='left'><colgroup><col width='181' /><col width='67' /> </colgroup><tbody><tr valign='bottom'><td bgcolor='#ffffff' width='181' height='6'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><b>Active ingredient per tablet</b></span></span></td><td bgcolor='#ffffff' width='67'></td></tr></tbody><tbody><tr valign='bottom'><td bgcolor='#ffffff' width='181' height='6'><span style='color: #000000;'><span style='font-family: Calibri,serif;'>Monosodium Glutamate (MSG)</span></span></td><td bgcolor='#ffffff' width='67'><span style='color: #000000;'><span style='font-family: Calibri,serif;'>200 mg</span></span></td></tr></tbody><tbody><tr valign='bottom'><td bgcolor='#ffffff' width='200' height='6'><span style='color: #000000;'><span style='font-family: Calibri,serif;'>Oleoresin Capsicum</span></span></td><td bgcolor='#ffffff' width='67'><span style='color: #000000;'><span style='font-family: Calibri,serif;'>0.021 mg</span></span></td></tr><br>;</tbody></table><p>&nbsp;</p><p><b style='font-weight:bold'>Features:</b></p><ul><li>Palatable chicken flavor coprophagia deterrent for finicky eaters</li><li>Chewable easy, consistent dosing- no more uncertainty</li><li>Acceptable for dogs and cats</li></ul><p><b>Benefits:</b></p><ul><li><p align='justify'>Supports the reduction of Stool eating in dogs, puppies, and untrained dogs</p></li><li><p align='justify'>Imparts forbidden taste to excrement</p></li><li><p align='justify'>Deters dogs and cats from eating feces</p></li><li><p align='justify'>Deter dogs from litter box raiding</p></li><li><p align='justify'>Cost effective for pet owner and veterinarian</p></li></ul><p><b style='font-weight:bold'>Dosage and Administration:</b></p><p>Upto 5 kg- 1 tab daily</p><p>5-10 kg- 2 tab daily</p><p>10-15 kg- 3 tab daily</p><p>15-20 kg- 4 tab daily</p><p>Over 20 kg- 4 tab daily</p><p><a name='_GoBack'></a> Or as advised by veterinarian</p><p><b style='font-weight:bold'>Presentation: –</b></p><p>1X30 tabs</p><p>&nbsp;</p>"
+      }
+    ],
+    "Ear_Care":[
+      {
+        "id":"Ear_Care-1",
+        "type":"pic",
+        "category":"Ear_Care",
+        "name":"Oxyfresh Ear Cleaner",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Eye Care/oxy-ear-cleaner.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Eye Care/oxy-ear-cleaner.jpg'></div> <h5 class='text-center'>Oxyfresh Ear Cleaner</h5><p>Oxygene® works quickly to neutralize odor-causing bacteria while also gently cleaning deep into the ear canal to help remove wax buildup, ear mites, dirt, etc. ,helping to prevent infections and costly vet bills</p><p><strong>Composition</strong></p><p>Water,(AQUA),</p><p>Decyl Glucoside,</p><p>Stabilized Chlorine Dioxide,(Oxygene),</p><p>Hydroxypropyl Methylcellulose,</p><p>Potassium Phosphate,</p><p>Sodium Hydroxide ,</p><p>Methylparaben,</p><p>Propylparaben .</p><p><strong>Indications</strong></p><ul><li>Neutralizes Odors.</li><li>Removes wax , Dirt &amp; Mites.</li><li>Gentle &amp; Soothing,</li><li>100% Safe &amp; Non Toxic</li><li>Alcohol Free.</li></ul><p><strong>Presentation</strong></p><p>237 ml</p><p><strong>Usage</strong></p><p>Add 10-15 drops into each ear,<br />Massage the ears at the base,<br />Let pet shake its head, gently wipe away debris.</p><p><strong>Benefits</strong></p><ul><li>IT WORKS -To remove wax buildup, dirt and mites. Never stings, burns or irritates.</li><li>ITCH RELIEF – Total care for raw, itchy and smelly dog and cat ears that will have them grinning ear to ear.</li><li>SOOTHES EAR INFECTIONS – It helps reduce bacterial growth and soothe sensitive pet ears.</li><li>ELIMINATES ODORS – We don’t just mask odors, we eliminate them at the source.</li><li>NO ALCOHOL – No harsh chemicals, so it won’t dry out the sensitive ear canal,.</li><li>NON-IRRITATING – Pets love it because it soothes and doesn’t sting.</li><li>HASSLE FREE – No need to deal with the hassle and extra step of rinsing after treatment that is needed with other ear products.</li><li>SAFE, EFFECTIVE &amp; NON-TOXIC – Best way to manage and clean dirty pet ears without harsh chemicals, additives or fragrances that can irritate sensitive ears.</li></ul><p>&nbsp;</p>"
+      },
+      {
+        "id":"Ear_Care-2",
+        "type":"pic",
+        "category":"Ear_Care",
+        "name":"Vetramil Auris",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Eye Care/Vetramail-Auris.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Eye Care/Vetramail-Auris.jpg' /></div> <h5 class='text-center'>Vetramil Auris</h5><p><strong>Composition</strong></p><p>Honey</p><p>Propylene glycol,</p><p>polysorbate 80,</p><p>No antibiotics or corticosteroids.</p><p><strong>Packaging </strong></p><p>50 ml with canule</p><p><strong>Usage</strong></p><ul><li>For Non acute cases</li><li>Control of infection for High risk dogs.</li><li>To use on dogs that swim Regularly.</li><li>2-3 drops twice or thrice a day .</li></ul><p><strong>Features</strong></p><ul><li>Otitis is one of the most common diseases in our dogs.</li><li>Vetramil Auris supports the regenerative power of the sensitive and irritated skin of the ear canal.</li><li>Vetramil Auris is a unique formula that strengthen the treatment of inflammation of the ears and the irritated skin caused by an otitis externa and eczema in the ear .</li><li>The bactericidal activity of Dela honey protect the skin from our pampering them and their antioxidant capacity will help reduce the redness and itching.</li><li>Vetramil Auris contains propylene glycol, a liquid carrier which clean ear wax from the ear canal of the dog.</li><li>Vetramil Auris helps to reduce the application of antibiotics and corticosteroid.</li></ul>"
+      }
+    ],
+    "Dewormers":[
+      {
+        "id":"Dewormers-1",
+        "type":"pic",
+        "category":"Dewormers",
+        "name":"Canworm Oral Suspension - Fenbendazole 10%w/v",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Dewormers/Canworm Suspension.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Dewormers/Canworm Suspension.jpg'/></div> <h5 class='text-center'>Canworm Oral Suspension - Fenbendazole 10%w/v</h5><p><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> Broad spectrum de-wormer effective against Tapeworm, Hookworm, Roundworm, Whip worm and Giardia</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>-Effective against mature and immature stages of worm infestation</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>-Broad spectrum anthelmintic for: Dogs, cats, puppies, Kittens, sheep, Goat, swine, rabbit and birds</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> -Canworm has wide safety margin and can be used effectively against worm infestation in unweaned puppies, kittens, pregnant and nursing animals</span></span></span></p><p><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>Symptoms of worm infestation:</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'></span></span></span></p><p><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>-Weight loss</span></span></span></p><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>– Dull coat, Dry hairs</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>– Swollen belly</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>– Lack of appetite</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>– Anemia</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>– Lethargy</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>-Worms in stool</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>– Vomiting and sporadic diarrhea</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'> </span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>-General poor appearance</span></span></span> <span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>Contents: Fenbendazole IP- 100 mg</span></span></span> <span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>Presentation:- 30 ml bottle</span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'><br /></span></span></span><span style='color: #000000;'><span style='font-family: Arial,serif;'><span style='font-size: small;'>Dose rate :- Please refer pack insert</span></span></span></p><p>&nbsp;</p>"
+    
+      },
+      {
+        "id":"Dewormers-2",
+        "type":"pic",
+        "category":"Dewormers",
+        "name":"CanWorm Tablet",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Dewormers/CanWorm Tablet.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Dewormers/CanWorm Tablet.jpg' /></div> <h5 class='text-center'>CanWorm Tablet</h5><p>Canworm tablets, for control and elimination of Roundworm, Hookworm, Tapeworm and Whipworm infestations in dogs</p><p><strong>Indications</strong></p><p>Active ingredients are:<br />Praziquantel: 50 mg<br />Pyrantel Pamoate IP: 144mg<br />Febantel IP (vet) :150 mg</p><p>Single dose multiwormer for dogs</p><p style='text-align: left;'><strong>Composition</strong> –<br />Active Ingredients are:</p><p style='text-align: left;'>Praziquantel – 50 mg<br />Pyrantel Pamoate IP – 144mg<br />Febantel IP (Vet) – 150 mg</p><p style='text-align: left;'><strong>Dosage</strong> –<br />1 Tablet per 10 kg<br />body weight orally</p><p style='text-align: left;'><strong>Packing</strong> –<br />1x10Tabs</p><p style='text-align: left;'>"
+      }
+    ],
+    "Immunity_Booster":[
+      {
+        "id":"Immunity_Booster-1",
+        "type":"pic",
+        "category":"Immunity_Booster",
+        "name":"Vet DMG",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Immunity Booster/Vet-DMG-125.png'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Immunity Booster/Vet-DMG-125.png'/></div><h5 class='text-center'>Vet DMG</h5><p>Supports Performance</p><p><strong>Composition</strong></p><p>Each ml contains:</p><p>N,N Dimethylglycine (DMG) 125 mg</p><p>Excipients Q.s.</p><p><strong>Suggested for</strong></p><ul><li>Immune Support System</li><li>Cardiovascular and skin health</li><li>Improve liver metabolism and normal detoxification</li><li>Improves performance and stamina (Proper circulation, O2 utilization)</li><li>Help lower lactic acid build-up, assist with muscle recover</li></ul><p><strong>Dosage</strong></p><p>Dogs and Cats:</p><ul><li>up to 5 kg : 0.25 ml</li><li>5 to 10 kg : 0.5 ml</li><li>10 to 20 kg : 1.0 ml</li><li>20 to 35 kg : 1.5 ml</li><li>35 to 45 kg : 2.0 ml</li><li>over 45 Kg : 3.0 ml</li></ul><p>Give suggested level twice per day for two weeks, then once per day. For best results, divide daily amount between AM and PM.</p><p><strong>Packing</strong></p><p>1X 30 ml</p><p>&nbsp;</p>"
+      }
+    ],
+    "Joint_Supplements":[
+      {
+        "id":"Joint_Supplements-1",
+        "type":"pic",
+        "category":"Joint_Supplements",
+        "name":"Cooling spray for sport injuries",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Joint Supplements/HS-spray.jpg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Joint Supplements/HS-spray.jpg'/></div><h5 class='text-center'>Cooling spray for sport injuries</h5><p><strong>Indications &amp; MOA</strong></p><p><strong>Alleviates pain associated with:</strong></p><ul><li>Cramps</li><li>Joints injury</li><li>Pulled muscles</li><li>Tendon complaints</li><li>Sprains</li><li>Canine/Felines sports injuries are common. Early treatment reduces the risk of pet getting badly hurt and further damage</li><li>Its active ingredient gives a rapid intense cold sensation, produces a short-acting reduction in skin temperature without damaging cells</li><li>It cools up to 10 degree Celsius and healing process starts effectively.</li></ul><p><strong>Usage</strong></p><p>Spray into the inflammation site 15cm (6 inch) distance for about 10 seconds. Wait for 1 minute before repeat treatment. Treatment can be repeated as per severity of the case</p><p><strong>Contents</strong></p><p>Propane, Butane, Ethanol</p><p>1 X 200 ml</p>"
+      },
+      {
+        "id":"Joint_Supplements-2",
+        "type":"pic",
+        "category":"Joint_Supplements",
+        "name":"Stride Plus Feline",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Joint Supplements/TRM-Stride-Plus-Feline-160ml-box_preview.jpeg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Joint Supplements/TRM-Stride-Plus-Feline-160ml-box_preview.jpeg'/></div><h5 class='text-center'>Stride Plus Feline</h5><ul><li>Easy to Feed Liquid Formulation for addition to Dog’s Food.</li><li>Contains no ingredients of animal origin and is certified 100% Vegan.</li><li>Palatable natural yeast flavoring, Proven in practice.</li><li>No possibility of presence of animal prions or viruses.</li><li>All ingredients from reliable and reproducible sources with highest purity.</li></ul><p>&nbsp;</p><p><strong>Composition per 100 ml</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><tbody><tr><td> Glucosamine HCI</td><td>16,675 mg</td></tr><tr><td> MSM</td><td>10,000 mg</td></tr><tr><td>Chondroitin Sulphate</td><td>3,325 mg</td></tr><tr><td>Sodium Hyaluronate</td><td>79,000 mcg</td></tr><tr><td>(Equivalent Hyaluronic Acid 74,500 mcg/100ml)</td><td></td></tr></tbody></table><p>&nbsp;</p><p><strong>Analytical Constituents:</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><tbody><tr><td>Crude Protein</td><td>7.2%</td></tr><tr><td>Crude Oil</td><td>0.4%</td></tr><tr><td>Crude Fibre</td><td>0.3%</td></tr><tr><td>Moisture</td><td> 80%</td></tr></tbody></table><p><strong><br />Dosage</strong></p><p>&nbsp;</p><p><strong>Instructions for proper use:</strong></p><p>Mix <strong>STRIDE PLUS FELINE</strong> well into the feed. Feed each cat individually.</p><p><strong>Feeding Instructions first 30 days: </strong></p><p>4ml per day. (2 pump strokes).</p><p><strong>Feeding Instructions thereafter for maintenance: </strong></p><p>2ml per day. (1 pump stroke).</p><p>The dosing pump attached to this container dispenses 2ml.</p><p><strong>Presentation</strong>: 200 ml</p><p><strong>USP</strong></p><ul><li>Easy to Feed Liquid Formulation for addition to Dog’s Food.</li><li>Contains no ingredients of animal origin.</li><li>Palatable natural yeast flavoring.</li><li>Proven in practice.</li><li>No possibility of presence of animal prions or viruses, all ingredients from reliable and reproducible sources with highest purity.</li><li>Chondroitin Sulphate in the formula has clinically proven bioavailability, and substantial absence of unusually sulphated and over-sulfated disaccharides – made up of more than 75% C6S.</li></ul>"
+      },
+      {
+        "id":"Joint_Supplements-3",
+        "type":"pic",
+        "category":"Joint_Supplements",
+        "name":"Stride Plus (Canine)",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Joint Supplements/TRM-Stride-Plus-for-Dogs-200ml-box.jpeg'>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Joint Supplements/TRM-Stride-Plus-for-Dogs-200ml-box.jpeg'/></div><h5 class='text-center'>Stride Plus (Canine)</h5><ul><li>Easy to Feed Liquid Formulation for addition to Dog&#8217;s Food.</li><li>Contains no ingredients of animal origin and is certified 100% Vegan.</li><li>Palatable natural yeast flavoring, Proven in practice.</li><li>No possibility of presence of animal prions or viruses.</li><li>All ingredients from reliable and reproducible sources with highest purity.</li></ul><p>&nbsp;</p><p><strong>Composition per 100 ml</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><tbody><tr><td> Glucosamine HCI</td><td>16,675 mg</td></tr><tr><td> MSM</td><td>10,000 mg</td></tr><tr><td>Chondroitin Sulphate</td><td>3,325 mg</td></tr><tr><td>Sodium Hyaluronate</td><td>79,000 mcg</td></tr><tr><td>(Equivalent Hyaluronic Acid 74,500 mcg/100ml)</td><td></td></tr></tbody></table><p>&nbsp;</p><p><strong>Analytical Constituents:</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><tbody><tr><td>Crude Protein</td><td>7.2%</td></tr><tr><td>Crude Oil</td><td>0.4%</td></tr><tr><td>Crude Fibre</td><td>0.3%</td></tr><tr><td>Moisture</td><td> 80%</td></tr></tbody></table><p><strong><br />Dosage</strong></p><p><strong>Instructions for proper use</strong>:</p><p>Mix STRIDE PLUS well into the feed. Feed each dog individually.</p><p><strong>Feeding Instructions first 14 days</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><tbody><tr><td>Small dogs (up to 10kg):</td><td>4 ml</td></tr><tr><td>Medium dogs (10-25kgs):</td><td>8 ml</td></tr><tr><td>Large dogs (25-40kgs):</td><td>12 ml</td></tr><tr><td>Very large dogs (over 40kgs):</td><td>16 ml</td></tr></tbody></table><p><strong>Feeding Instructions Long Term</strong></p><table class='table table-striped' style='height: 100%;' width='100%'><tbody><tr><td>Small dogs (up to 10kg):</td><td>2 ml</td></tr><tr><td>Medium dogs (10.25kgs):</td><td>4 ml</td></tr><tr><td>Large dogs (25-40kgs):</td><td>6 ml</td></tr><tr><td>Very large dogs (over 40kgs):</td><td>8 ml</td></tr></tbody></table><p>The dosing pump attached to this container dispenses 2 ml.</p><p><strong>Presentation</strong>: 200 ml</p><p><strong>USP</strong></p><ul><li>Easy to Feed Liquid Formulation for addition to Dog’s Food.</li><li>Contains no ingredients of animal origin.</li><li>Palatable natural yeast flavoring.</li><li>Proven in practice.</li><li>No possibility of presence of animal prions or viruses, all ingredients from reliable and reproducible sources with highest purity.</li><li>Chondroitin Sulphate in the formula has clinically proven bioavailability, and substantial absence of unusually sulphated and over-sulfated disaccharides – made up of more than 75% C6S.</li></ul>"
+      }
+    ],
+    "Catheter": [
+      {
+        "id":"Catheter-1",
+        "type":"pic",
+        "category":"Catheter",
+        "name": "Cat Catheter",
+        "imageUrl":"<img src='/assets/img/product/product-images/Companion/Catheter/Cat-Catheter.png'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Catheter/Cat-Catheter.png'/></div> <h5 class='text-center'>Cat Catheter</h5><p>Cat catheters with Stylet and without stylet<br />3FG, 4FG (1.33x130mm), (1.0x130mm)</p><p>Urinal catheters for cats with and without stylet made from polyethylene with luer fitting.</p>" 
+      }
+    ],
+    "Cardiac_Supplement": [
+      {
+        "id":"Cardiac_Supplement-1",
+        "type":"frame",
+        "category":"Cardiac_Supplement",
+        "name":"Cardio Support",
+        "imageUrl":"<img src='assets/img/product/360-icon.svg' class='iframe-360-icon' onclick='vetninIframeModal()'><img src='http://www.vetina.com/wp-content/uploads/2018/02/CARDIO_SUPPORT_3D.jpg'/>",
+        "body":"<iframe title='A 3D model' width='100%' height='400' src='https://sketchfab.com/models/d0d84be75ac245d18b7d71789f164bfb/embed' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true' ></iframe><p><strong>Composition:</strong></p><p>Each tablet contains:</p><table style='height: 517px;' width='245'><tbody><tr><td width='151'>L Carnitine Tartrate</td><td width='139'>140 mg</td></tr><tr><td width='151'>Taurine</td><td width='139'>140 mg</td></tr><tr><td width='151'>Hawthorn Extract</td><td width='139'>70 mg</td></tr><tr><td width='151'>Eleuthero Extract</td><td width='139'>70 mg</td></tr><tr><td width='151'>Vitamin E</td><td width='139'>60 mg</td></tr><tr><td width='151'>Coenzyme Q10</td><td width='139'>20 mg</td></tr><tr><td width='151'>Arjuna Extract</td><td width='139'>35 mg</td></tr><tr><td width='151'>Magnesium (Citrate- Malate)</td><td width='139'>1 mg</td></tr><tr><td width='151'>Potassium (Citrate- Malate)</td><td width='139'>0.5 mg</td></tr></tbody></table><p><strong>Ingredients</strong></p><ul><li>L-carnitine supports the use of fat for energy and oxygen utilization while also supporting fat metabolism and helping the body balance triglyceride and cholesterol levels. Improve appetite and exercise tolerance in dogs</li><li>L-Taurine supports a regular heartbeat, minimizes the loss of potassium and allows for proper electrolyte utilization, particularly in cats population</li><li>Vitamin E provides essential antioxidant activity in fat soluble tissues</li><li>Potassium and Magnesium are essential for cardiac contractility and healthy heart rthym. Def of these two minerals occur concurrently so better to replete them</li><li>Coenzyme Q10 support heart tissue oxygenation and support heart muscle strength</li><li>Hawthorn extract is useful for erratic, weak heart beat useful for dogs suffering from heart failure and weakness</li><li>Eleuthero extract is an adaptogen to support physical stamina</li><li>Arjuna extract contributes to healthy heart functioning</li></ul><p><strong><br />Helps to:</strong></p><ul><li>Supports Cardiac muscle functions</li><li>Promotes oxygen utilization</li><li>Regularize Heart beat</li><li>Supports cardiac stress in geriatric dogs and cats</li><li>Helps to support overall cardiovascular health and functions</li></ul><p><strong>Dosage &amp; Administrations:</strong></p><ul><li>For Dogs</li></ul><p>Up to 10 Kg – 1 Tab daily</p><p>If giving more than 1 tab, divide between AM and PM</p><ul><li>For Cats 1- 5 Kg – 1/2 Tabs daily</li></ul><p>Give orally or mix in daily food</p><p><strong>USP</strong></p><p>Cardio-support is a unique combination of L- Carnitine, Taurine, Coenzyme, Hawthorn ext., Eleuthero and Arjuna ext. which supports overall cardiovascular health of dogs and cats.</p><p>&nbsp;</p>"
+      }
+    ],
+
     "Skin_Care_Range": [
       {
         "id": "Skin_Care_Range-1",
@@ -166,369 +270,363 @@
         "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/02/TRM-Canigest-Syringe-15ml_preview.jpeg'/>",
         "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/04/vetramail-oinment.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
       }
-    ],
-    "Immunity_Booster": [
-      {
-        "id": "Immunity_Booster-1",
-        "type":"pic",
-        "category":"Immunity_Booster",
-        "name": "Vet DMG",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/Vet-DMG-125.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/04/vetramail-oinment.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
     ]
   },
 
-  "ruminant": {
-    "Feed_Supplements": [
-      {
-        "id": "Feed_Supplements-1",
-        "type":"pic",
-        "category":"Feed_Supplements",
-        "name": "CALPHOS CHELATED 1 LIT – Chelated Ca and P Liq",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Feed_Supplements-2",
-        "type":"pic",
-        "category":"Feed_Supplements",
-        "name": "MN VITA",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2017/11/MN-VITA.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Feed_Supplements-3",
-        "type":"pic",
-        "category":"Feed_Supplements",
-        "name": "RUMEN PLUS",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Dewormers": [
-      {
-        "id": "Dewormers-1",
-        "type":"pic",
-        "category":"Dewormers",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Antibiotics": [
-      {
-        "id": "Antibiotics-1",
-        "type":"pic",
-        "category":"Antibiotics",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Antibiotics-1",
-        "type":"pic",
-        "category":"Antibiotics",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Antihistaminic_drug": [
-      {
-        "id": "Antihistaminic_drug-1",
-        "type":"pic",
-        "category":"Antihistaminic_drug",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Non_Steroidal_Anti_Inflammatory_drugs": [
-      {
-        "id": "Non_Steroidal_Anti_Inflammatory_drugs-1",
-        "type":"pic",
-        "category":"Non_Steroidal_Anti_Inflammatory_drugs",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Non_Steroidal_Anti_Inflammatory_drugs-2",
-        "type":"pic",
-        "category":"Non_Steroidal_Anti_Inflammatory_drugs",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Hormonal": [
-      {
-        "id": "Hormonal-1",
-        "type":"pic",
-        "category":"Hormonal",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Hormonal-2",
-        "type":"pic",
-        "category":"Hormonal",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Hormonal-3",
-        "type":"pic",
-        "category":"Hormonal",
-        "name": "OXYLEVA 90 ML BOX",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ]
-  },
+"ruminant": {
+  "Feed_Supplements": [
+    {
+      "id": "Feed_Supplements-1",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name": "CALPHOS CHELATED 1 LIT – Chelated Ca and P Liq",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Feed_Supplements-2",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name": "MN VITA",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2017/11/MN-VITA.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Feed_Supplements-3",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name": "RUMEN PLUS",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Dewormers": [
+    {
+      "id": "Dewormers-1",
+      "type":"pic",
+      "category":"Dewormers",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Antibiotics": [
+    {
+      "id": "Antibiotics-1",
+      "type":"pic",
+      "category":"Antibiotics",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Antibiotics-1",
+      "type":"pic",
+      "category":"Antibiotics",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Antihistaminic_drug": [
+    {
+      "id": "Antihistaminic_drug-1",
+      "type":"pic",
+      "category":"Antihistaminic_drug",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Non_Steroidal_Anti_Inflammatory_drugs": [
+    {
+      "id": "Non_Steroidal_Anti_Inflammatory_drugs-1",
+      "type":"pic",
+      "category":"Non_Steroidal_Anti_Inflammatory_drugs",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Non_Steroidal_Anti_Inflammatory_drugs-2",
+      "type":"pic",
+      "category":"Non_Steroidal_Anti_Inflammatory_drugs",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Hormonal": [
+    {
+      "id": "Hormonal-1",
+      "type":"pic",
+      "category":"Hormonal",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Hormonal-2",
+      "type":"pic",
+      "category":"Hormonal",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Hormonal-3",
+      "type":"pic",
+      "category":"Hormonal",
+      "name": "OXYLEVA 90 ML BOX",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ]
+},
 
-  "poultry": {
-    "Emerald": [
-      {
-        "id": "Emerald-1",
-        "type":"pic",
-        "category":"Emerald",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Igusafe_WS": [
-      {
-        "id": "Igusafe_WS-1",
-        "type":"pic",
-        "category":"Igusafe_WS",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Igusafe": [
-      {
-        "id": "Igusafe-1",
-        "type":"pic",
-        "category":"Igusafe",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Solvance_Pro": [
-      {
-        "id": "Solvance_Pro-1",
-        "type":"pic",
-        "category":"Solvance_Pro",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Solvance_Bind": [
-      {
-        "id": "Solvance_Bind-1",
-        "type":"pic",
-        "category":"Solvance_Bind",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ]
-  },
+"poultry": {
+  "Emerald": [
+    {
+      "id": "Emerald-1",
+      "type":"pic",
+      "category":"Emerald",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Igusafe_WS": [
+    {
+      "id": "Igusafe_WS-1",
+      "type":"pic",
+      "category":"Igusafe_WS",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Igusafe": [
+    {
+      "id": "Igusafe-1",
+      "type":"pic",
+      "category":"Igusafe",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Solvance_Pro": [
+    {
+      "id": "Solvance_Pro-1",
+      "type":"pic",
+      "category":"Solvance_Pro",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Solvance_Bind": [
+    {
+      "id": "Solvance_Bind-1",
+      "type":"pic",
+      "category":"Solvance_Bind",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ]
+},
 
-  "swine": {
-    "Pet_Food_swine": [
-      {
-        "id": "Pet_Food_swine-1",
-        "type":"pic",
-        "category":"Pet_Food_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Pet_Food_swine-2",
-        "type":"pic",
-        "category":"Pet_Food_swine",
-        "name": "Vetramail Sprayyyyyy",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Sprayyyyyyyy</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Pet_Food_swine-3",
-        "type":"pic",
-        "category":"Pet_Food_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Medical_Devices_swine": [
-      {
-        "id": "Medical_Devices_swine-1",
-        "type":"pic",
-        "category":"Medical_Devices_swine",
-        "name": "ppVetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Medical_Devices_swine-2",
-        "type":"pic",
-        "category":"Medical_Devices_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Medical_Devices_swine-3",
-        "type":"pic",
-        "category":"Medical_Devices_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Medical_Devices_swine-4",
-        "type":"pic",
-        "category":"Medical_Devices_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Skin_Care_Range_swine": [
-      {
-        "id": "Skin_Care_Range_swine-1",
-        "type":"pic",
-        "category":"Skin_Care_Range_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Skin_Care_Range_swine-2",
-        "type":"pic",
-        "category":"Skin_Care_Range_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Skin_Care_Range_swine-3",
-        "type":"pic",
-        "category":"Skin_Care_Range_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Skin_Care_Range_swine-4",
-        "type":"pic",
-        "category":"Skin_Care_Range_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Skin_Care_Range_swine-5",
-        "type":"pic",
-        "category":"Skin_Care_Range_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Nutritional_Supplements_swine": [
-      {
-        "id": "Nutritional_Supplements_swine-1",
-        "type":"pic",
-        "category":"Nutritional_Supplements_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Nutritional_Supplements_swine-2",
-        "type":"pic",
-        "category":"Nutritional_Supplements_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Nutritional_Supplements_swine-3",
-        "type":"pic",
-        "category":"Nutritional_Supplements_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Nutritional_Supplements_swine-4",
-        "type":"pic",
-        "category":"Nutritional_Supplements_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Nutritional_Supplements_swine-5",
-        "type":"pic",
-        "category":"Nutritional_Supplements_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ],
-    "Probiotic_swine": [
-      {
-        "id": "Probiotic_swine-1",
-        "type":"pic",
-        "category":"Probiotic_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Probiotic_swine-2",
-        "type":"pic",
-        "category":"Probiotic_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Probiotic_swine-3",
-        "type":"pic",
-        "category":"Probiotic_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Probiotic_swine-4",
-        "type":"pic",
-        "category":"Probiotic_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      },
-      {
-        "id": "Probiotic_swine-5",
-        "type":"pic",
-        "category":"Probiotic_swine",
-        "name": "Vetramail Spray",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-      }
-    ]
-  }
+"swine": {
+  "Pet_Food_swine": [
+    {
+      "id": "Pet_Food_swine-1",
+      "type":"pic",
+      "category":"Pet_Food_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Pet_Food_swine-2",
+      "type":"pic",
+      "category":"Pet_Food_swine",
+      "name": "Vetramail Sprayyyyyy",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Sprayyyyyyyy</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Pet_Food_swine-3",
+      "type":"pic",
+      "category":"Pet_Food_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Medical_Devices_swine": [
+    {
+      "id": "Medical_Devices_swine-1",
+      "type":"pic",
+      "category":"Medical_Devices_swine",
+      "name": "ppVetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Medical_Devices_swine-2",
+      "type":"pic",
+      "category":"Medical_Devices_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Medical_Devices_swine-3",
+      "type":"pic",
+      "category":"Medical_Devices_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Medical_Devices_swine-4",
+      "type":"pic",
+      "category":"Medical_Devices_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Skin_Care_Range_swine": [
+    {
+      "id": "Skin_Care_Range_swine-1",
+      "type":"pic",
+      "category":"Skin_Care_Range_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Skin_Care_Range_swine-2",
+      "type":"pic",
+      "category":"Skin_Care_Range_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Skin_Care_Range_swine-3",
+      "type":"pic",
+      "category":"Skin_Care_Range_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Skin_Care_Range_swine-4",
+      "type":"pic",
+      "category":"Skin_Care_Range_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Skin_Care_Range_swine-5",
+      "type":"pic",
+      "category":"Skin_Care_Range_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Nutritional_Supplements_swine": [
+    {
+      "id": "Nutritional_Supplements_swine-1",
+      "type":"pic",
+      "category":"Nutritional_Supplements_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Nutritional_Supplements_swine-2",
+      "type":"pic",
+      "category":"Nutritional_Supplements_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Nutritional_Supplements_swine-3",
+      "type":"pic",
+      "category":"Nutritional_Supplements_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Nutritional_Supplements_swine-4",
+      "type":"pic",
+      "category":"Nutritional_Supplements_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Nutritional_Supplements_swine-5",
+      "type":"pic",
+      "category":"Nutritional_Supplements_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ],
+  "Probiotic_swine": [
+    {
+      "id": "Probiotic_swine-1",
+      "type":"pic",
+      "category":"Probiotic_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Probiotic_swine-2",
+      "type":"pic",
+      "category":"Probiotic_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Probiotic_swine-3",
+      "type":"pic",
+      "category":"Probiotic_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Probiotic_swine-4",
+      "type":"pic",
+      "category":"Probiotic_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    },
+    {
+      "id": "Probiotic_swine-5",
+      "type":"pic",
+      "category":"Probiotic_swine",
+      "name": "Vetramail Spray",
+      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
+      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+    }
+  ]
+ } 
 }
+
+  
+  
+
