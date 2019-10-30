@@ -1,7 +1,8 @@
 
-var jsonPath = "/assets/js/products.php/";
+var jsonPath = "/vetina/assets/js/products.php/";
 var productdata = ''
 var companion = ''
+
 // For Companion
 
 function getAllData(){
@@ -13,10 +14,10 @@ function getAllData(){
       companion = productdata.companion
       listCategories(companion)
       let prodArr = []
-      for(let i in companion){
-        let allValues = companion[i]
-        for(let j=0;j<allValues.length;j++){
-          prodArr.push(allValues[j])
+      for(let com in companion){
+        let allValues = companion[com]
+        for(let prod=0;prod<allValues.length;prod++){
+          prodArr.push(allValues[prod])
         }
       }
       getProducts(prodArr)
@@ -33,13 +34,12 @@ function getCompanionData(){
   $("#productId").empty();
   $("#product-subcategory-list").empty();
  let compnionData = productdata.companion;
- console.log("THE COMPANION TYPE IS HERE-->>>",typeof compnionData)
  listCategories(compnionData);
  let prodArr = []
- for(let i in compnionData){
-  let allValues = compnionData[i]
-  for(let j=0;j<allValues.length;j++){
-    prodArr.push(allValues[j])
+ for(let com in compnionData){
+  let allValues = compnionData[com]
+  for(let prod=0;prod<allValues.length;prod++){
+    prodArr.push(allValues[prod])
   }
 }
 getProducts(prodArr)
@@ -51,9 +51,8 @@ function getProducts(prod){
   }else{
     $("#companionID").hide()
   }
-  for (var i of prod){
-    console.log("THE ID ISNHERE-->>>>",i.imageUrl)
-      $("#productId").append('<div class="col-md-4 product-blocks" ><div class="img-product-blocks" onclick="getSingleProductCompanion(this)"> '+i.imageUrl+' <span style="display:none">'+i.type+'</span> <span style="display:none">'+i.category+'</span><input type="hidden" value="'+i.id+'"></div><h6>' + i.name + '</h6><div class="listLayoutViewBtn" onclick="getSingleProductCompanion(this)"><span style="display:none">'+i.type+'</span> <span style="display:none">'+i.category+'</span><input type="hidden" value="'+i.id+'">View More</div></div>')
+  for (var pd of prod){
+      $("#productId").append('<div class="col-md-4 product-blocks" ><div class="img-product-blocks" onclick="getSingleProductCompanion(this)"> '+pd.imageUrl+' <span style="display:none">'+pd.type+'</span> <span style="display:none">'+pd.category+'</span><input type="hidden" value="'+pd.id+'"></div><h6>' + pd.name + '</h6><div class="listLayoutViewBtn" onclick="getSingleProductCompanion(this)"><span style="display:none">'+pd.type+'</span> <span style="display:none">'+pd.category+'</span><input type="hidden" value="'+pd.id+'">View More</div></div>')
   }
 }
 
@@ -63,25 +62,29 @@ function listCategories(category){
   Object.keys(category).forEach(function (key) {
     result[key.replace(/_/g, ' ')] = category[key];
   });
-  for (var i in result) {
-    var res = i.replace(/ /g, '_');
-      $('#product-subcategory-list').append('<li class="checkbox-wrapper" ><input type="checkbox" name="companion" class="'+res+'" onclick="companionCheck()" id="' + i + '" value="' + i + '"><label for="' + i + '">' + i +'('+category[res].length+')'+'</label></li>');
+  for (var op in result) {
+    var res = op.replace(/ /g, '_');
+      $('#product-subcategory-list').append('<li class="checkbox-wrapper" ><input type="checkbox" name="companion" class="'+res+'" onclick="companionCheck()" id="' + op + '" value="' + op + '"><label for="' + op + '">' + op +'('+category[res].length+')'+'</label></li>');
   }
 }
 
 
 var productArray = []
+var getChecked = []
+var checkedVal = ''
+var is_checked_com = ''
 function companionCheck(){
  $("#productId").empty();
  $('input[type="checkbox"]').off('change' );
  $('input[type="checkbox"]').on('change', function() {
    let type = this.value;
-   let result = type.replace(/ /g, '_');
-   let is_checked = $('.'+result).prop('checked');
-   if(is_checked){
+   checkedVal = type.replace(/ /g, '_');
+   getChecked.push(checkedVal);
+   is_checked_com = $('.'+checkedVal).prop('checked');
+   if(is_checked_com){
      for(let i in companion){
      var allValues = companion[i];
-     if(result == i){
+     if(checkedVal == i){
        for(let j=0;j<allValues.length;j++){
          productArray.push(allValues[j]);
        }
@@ -89,15 +92,19 @@ function companionCheck(){
    }
    getProducts(productArray);
    }else{
-     for(let p in companion){
-       if(p === result){
-         for(let y of companion[p]){
+     for(let com in companion){
+       if(com === checkedVal){
+         for(let y of companion[com]){
            let index = productArray.findIndex(x => x === y);
-          var arrr =  productArray.splice(index,1)
+               productArray.splice(index,1)
          }
        }
      }
-     getProducts(productArray);
+     if(productArray.length == 0){
+      getCompanionData()
+     }else{
+      getProducts(productArray);
+     }
    }
  });
 }
@@ -117,9 +124,26 @@ function searchCompanion(data){
       }
     }
   }
-  
-  getProducts(prodArr)
-  
+  if(inputValue.length == 0 && checkedVal){
+    getCheckSearch()
+  }else{
+    getProducts(prodArr)
+  }
+}
+
+function getCheckSearch(){
+  productArray=[]
+    for(let com in companion){
+      for(let check of getChecked){
+      var allValues = companion[check];
+      if(check == com){
+        for(let prod=0;prod<allValues.length;prod++){
+          productArray.push(allValues[prod]);
+        }
+       }
+      }
+    }
+    getProducts(productArray);
 }
 
 
@@ -145,17 +169,16 @@ var listInfo = '';
 
 // For ruminant
 
-function ruminant(value){
+function ruminant(){
   $("#ruminantId").empty();
   $("#ruminant-subcategory-list").empty();
   let ruminionData = productdata.ruminant;
-  console.log("INSIDE ruminant",ruminionData)
   listCategoriesRuminian(ruminionData);
   let prodArr = []
-  for(let i in ruminionData){
-    let allruminionData = ruminionData[i]
-    for(let j=0;j<allruminionData.length;j++){
-      prodArr.push(allruminionData[j])
+  for(let rumi in ruminionData){
+    let allruminionData = ruminionData[rumi]
+    for(let prod=0;prod<allruminionData.length;prod++){
+      prodArr.push(allruminionData[prod])
     }
   }
   getProductsRuminian(prodArr)
@@ -170,8 +193,8 @@ function getProductsRuminian(prod){
   }else{
     $("#ruminantID").hide()
   }
-  for (var i of prod){
-      $("#ruminantId").append('<div class="col-md-4 product-blocks" ><div class="img-product-blocks" onclick="getSingleProductRuminant(this)">'+i.imageUrl+'<span style="display:none">'+i.type+'</span> <span style="display:none">'+i.category+'</span><input type="hidden" value="'+i.id+'"></div> <h6>' + i.name + '</h6><div class="listLayoutViewBtn" onclick="getSingleProductRuminant(this)"><span style="display:none">'+i.type+'</span> <span style="display:none">'+i.category+'</span><input type="hidden" value="'+i.id+'">View More</div></div>')
+  for (var op of prod){
+      $("#ruminantId").append('<div class="col-md-4 product-blocks" ><div class="img-product-blocks" onclick="getSingleProductRuminant(this)">'+op.imageUrl+'<span style="display:none">'+op.type+'</span> <span style="display:none">'+op.category+'</span><input type="hidden" value="'+op.id+'"></div> <h6>' + op.name + '</h6><div class="listLayoutViewBtn" onclick="getSingleProductRuminant(this)"><span style="display:none">'+op.type+'</span> <span style="display:none">'+op.category+'</span><input type="hidden" value="'+op.id+'">View More</div></div>')
   }
 }
 
@@ -190,35 +213,39 @@ function listCategoriesRuminian(category){
 
 
 var ruminantArray = []
+var rumChecked = ''
 function ruminantCheck(){
  $("#ruminantId").empty();
  $('input[type="checkbox"]').off('change' );
  $('input[type="checkbox"]').on('change', function() {
    let type = this.value;
-   let result = type.replace(/ /g, '_');
-   let is_checked = $('.'+result).prop('checked');
-   let ruminantData = productdata.ruminant
-   console.log("THIS VALUE IS HEER--->>>",$('.'+result).length,is_checked)
-   if(is_checked){
-     for(let i in ruminantData){
-     var allValues = ruminantData[i];
-     if(result == i){
-       for(let j=0;j<allValues.length;j++){
-         ruminantArray.push(allValues[j]);
+       rumChecked = type.replace(/ /g, '_');
+   let is_checked = $('.'+rumChecked).prop('checked');
+   let ruminantData = productdata.ruminant;
+     if(is_checked){
+     for(let rumi in ruminantData){
+     var allValues = ruminantData[rumi];
+     if(rumChecked == rumi){
+       for(let prod=0;prod<allValues.length;prod++){
+         ruminantArray.push(allValues[prod]);
        }
      }
    }
    getProductsRuminian(ruminantArray);
    }else{
-     for(let p in ruminantData){
-       if(p === result){
-         for(let y of ruminantData[p]){
-           let index = ruminantArray.findIndex(x => x === y);
-          var arrr =  ruminantArray.splice(index,1)
+     for(let rumi in ruminantData){
+       if(rumi === rumChecked){
+         for(let prod of ruminantData[rumi]){
+           let index = ruminantArray.findIndex(prodVal => prodVal === prod);
+               ruminantArray.splice(index,1)
          }
        }
      }
-     getProductsRuminian(ruminantArray);
+     if(ruminantArray.length == 0 && rumChecked){
+      ruminant()
+     }else{
+      getProductsRuminian(ruminantArray);
+     }
    }
  });
 }
@@ -235,7 +262,7 @@ function searchRuminion(data){
     let allValues = ruminantData[i]
     for(let j=0;j<allValues.length;j++){
       let name = allValues[j].name;
-      if(title.toUpperCase().indexOf(serachValue) > -1 || name.toUpperCase().indexOf(serachValue) > -1){
+      if(name.toUpperCase().indexOf(serachValue) > -1){
         prodArr.push(allValues[j]);
       }
     }
@@ -336,7 +363,13 @@ function poultryCheck(){
          }
        }
      }
-     getProductsPoultry(poultryArray);
+
+     if(poultryArray.length == 0){
+      poultryCheck()
+     }else{
+      getProductsPoultry(poultryArray);
+     }
+     
    }
  });
 }
@@ -385,7 +418,7 @@ var listInfo = '';
 
 // For Swine
 
-function swine(value){
+function swine(){
   $("#swineId").empty();
   $("#swine-subcategory-list").empty();
   let swineData = productdata.swine;
@@ -454,7 +487,13 @@ function swineCheck(){
          }
        }
      }
-     getProductsSwine(swineArray);
+
+     if(swineArray.length == 0){
+      swine()
+     }else{
+      getProductsSwine(swineArray);
+     }
+     
    }
  });
 }
