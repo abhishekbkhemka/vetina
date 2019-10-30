@@ -2,28 +2,365 @@
   "companion": {
     "Pet_Food": [ 
      {
-        "id": "petfood-2",
+        "id":"Pet_Food-1",
         "type":"pic",
         "category":"Pet_Food",
-        "name": "Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil",
-        "imageUrl": "<img src='\\assets\\img\\product\\product-images\\Companion\\Medical Devices\\Feline-Urine-Collection-Kit.png'/>",
-        "body": "<div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg' /></div> <h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>"
+        "name":"Calibra Canine Veterinary Diet Dog Hepatic",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diet Dog Hepatic.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diet Dog Hepatic.jpg'/></div><h5 class='text-center'>Calibra Canine Veterinary Diet Dog Hepatic</h5><p><img class='size-full wp-image-822 alignleft' src='http://www.vetina.com/wp-content/uploads/2018/07/hepatic-details.jpg' sizes='(max-width: 676px) 100vw, 676px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/hepatic-details-300x237.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/hepatic-details.jpg 676w' alt='hepatic details' width='676' height='534'/></p>"
       },
       {
-        "id": "petfood-3",
+        "id":"Pet_Food-2",
         "type":"pic",
         "category":"Pet_Food",
-        "name": "Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg'/>",
-        "body": "<div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/Cannedcatsterilisedturkey.jpg' /></div> <h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>"
+        "name":"Calibra Canine Veterinary Diets Dog Hypoallergenic Skin And Coat Support",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Hypoallergenic Skin And Coat Support.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Hypoallergenic Skin And Coat Support.jpg'/></div> <h5 class='text-center'>Calibra Canine Veterinary Diets Dog Hypoallergenic Skin And Coat Support</h5><p><img class='size-full wp-image-824 alignleft' src='http://www.vetina.com/wp-content/uploads/2018/07/hypoallergenic-details.jpg' sizes='(max-width: 674px) 100vw, 674px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/hypoallergenic-details-300x269.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/hypoallergenic-details.jpg 674w' alt='hypoallergenic details' width='674' height='604'/></p>" 
       },
       {
-        "id": "petfood-4",
+        "id":"Pet_Food-3",
         "type":"pic",
         "category":"Pet_Food",
-        "name": "Calibra Dog Hypoallergenic Adult Medium Breed / Lamb & Rice",
-        "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-lamb.jpg'/>",
-        "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-lamb.jpg' /></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Adult Medium Breed / Lamb & Rice</h5> <p>Complete dry food for medium breed (10-30kg) adult dogs</p> <p> User Friendly for adult large weighing between 10 and 30kg </p> <div class='p-center-align'> <span></span> </div> <h5>Features</h5> <ul class='pl-0 mb-12'> <li>High lamb meat content, low grain content (only rice)</li> <li>Highly digestible hypoallergenic recipe(0% wheat,0% soy, 0% maize)</li> <li>Salmon oil as a source of omega-3 unsaturated fatty acids for healthy skin and coat</li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Contents and Packing</h5> <ul class='pl-0 mb-12'> <li> Kit includes Hydrophobhic sand, Disposal tray, Vial, Pipette and disposing bag </li> <li> 1x300g sand x 1vial x 1 pipette x 1 disposal tray </li> </ul> <div class='p-center-align'> <span></span> </div> <h5>Instructions for use</h5> <p> Spread all of the sand into a clean and empty litter tray, and let the cat freely urinate onto the sand. The cat’s urine will stay on the top allowing you to collect the urine using the pipette and vial that is included into the kit. The entire content of one bag is require to collect a single urine sample. If required, use more than one bag of sand. </p> </div>"
+        "name":"Calibra Canine Veterinary Diets Dog Diabetes / Obesity",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Diabetes - Obesity.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Diabetes - Obesity.jpg'/></div><h5 class='text-center'>Calibra Canine Veterinary Diets Dog Diabetes / Obesity</h5><p><img class='alignleft size-full wp-image-826' src='http://www.vetina.com/wp-content/uploads/2018/07/diabetes-details.jpg' sizes='(max-width: 704px) 100vw, 704px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/diabetes-details-300x241.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/diabetes-details.jpg 704w' alt='diabetes details' width='704' height='566' /></p>"
+     },
+     {
+        "id":"Pet_Food-4",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog Gastrointestinal And Pancreas",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Gastrointestinal And Pancreas.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Gastrointestinal And Pancreas.jpg'/></div><h5 class='text-center'>Calibra Canine Veterinary Diets Dog Gastrointestinal And Pancreas</h5><p><img class='alignleft size-full wp-image-828' src='http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-details.jpg' sizes='(max-width: 695px) 100vw, 695px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-details-300x236.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-details.jpg 695w' alt='gastrointestinal details' width='695' height='546' /></p>" 
+      },
+      {
+        "id":"Pet_Food-5",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog Struvite / Oxalate Management",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Struvite-Oxalate Management.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Struvite-Oxalate Management.jpg'/></div><h5 class='text-center'>Calibra Canine Veterinary Diets Dog Struvite / Oxalate Management</h5><p><img class='alignleft size-full wp-image-830' src='http://www.vetina.com/wp-content/uploads/2018/07/struvite-details.jpg' sizes='(max-width: 684px) 100vw, 684px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/struvite-details-300x272.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/struvite-details.jpg 684w' alt='struvite details' width='684' height='621' /></p>" 
+      },
+      {
+        "id":"Pet_Food-6",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog Renal / Cardiac",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Renal - Cardiac.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Renal - Cardiac.jpg' /></div> <h5 class='text-center'>Calibra Canine Veterinary Diets Dog Renal / Cardiac</h5><p><img class='alignleft size-full wp-image-831' src='http://www.vetina.com/wp-content/uploads/2018/07/Renal-Cardiac-Calibra-Veterinary-Diets.jpg' sizes='(max-width: 282px) 100vw, 282px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Renal-Cardiac-Calibra-Veterinary-Diets-150x300.jpg 150w, http://www.vetina.com/wp-content/uploads/2018/07/Renal-Cardiac-Calibra-Veterinary-Diets.jpg 282w' alt='Renal Cardiac Calibra Veterinary Diets' width='282' height='564' /><img class='alignleft size-full wp-image-832' src='http://www.vetina.com/wp-content/uploads/2018/07/renal-details.jpg' sizes='(max-width: 702px) 100vw, 702px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/renal-details-300x234.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/renal-details.jpg 702w' alt='renal details' width='702' height='548' /></p>" 
+      },
+      {
+        "id":"Pet_Food-7",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog Hepatic",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Hepatic.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Hepatic.jpg'/></div><h5 class='text-center'>Calibra Canine Veterinary Diets Dog Hepatic</h5><p><img class='alignleft size-full wp-image-834' src='http://www.vetina.com/wp-content/uploads/2018/07/hepatic-wet-details.jpg' sizes='(max-width: 706px) 100vw, 706px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/hepatic-wet-details-300x236.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/hepatic-wet-details.jpg 706w' alt='hepatic wet details' width='706' height='555' /></p>" 
+      },
+      {
+        "id":"Pet_Food-8",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog Gastrointestinal",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Gastrointestinal.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Gastrointestinal.jpg'/></div> <h5 class='text-center'>Calibra Canine Veterinary Diets Dog Gastrointestinal</h5><p><img class='alignleft size-full wp-image-836' src='http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-wet-details.jpg' sizes='(max-width: 698px) 100vw, 698px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-wet-details-300x241.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-wet-details.jpg 698w' alt='gastrointestinal wet details' width='698' height='561' /></p>" 
+      },
+      {
+        "id":"Pet_Food-9",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog Renal",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Renal.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog Renal.jpg'/></div> <h5 class='text-center'>Calibra Canine Veterinary Diets Dog Renal</h5><p><img class='alignleft size-full wp-image-837' src='http://www.vetina.com/wp-content/uploads/2018/07/Renal-wet-diet.jpg' sizes='(max-width: 328px) 100vw, 328px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Renal-wet-diet-184x300.jpg 184w, http://www.vetina.com/wp-content/uploads/2018/07/Renal-wet-diet.jpg 328w' alt='Renal wet diet' width='328' height='535' /><img class='alignleft size-full wp-image-838' src='http://www.vetina.com/wp-content/uploads/2018/07/renal-wet-details.jpg' sizes='(max-width: 706px) 100vw, 706px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/renal-wet-details-300x258.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/renal-wet-details.jpg 706w' alt='renal wet details' width='706' height='606' /></p>" 
+      },
+      {
+        "id":"Pet_Food-10",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Canine Veterinary Diets Dog / Cat Recovery",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog -Cat Recovery.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Canine Veterinary Diets Dog -Cat Recovery.jpg'/></div> <h5 class='text-center'>Calibra Canine Veterinary Diets Dog / Cat Recovery</h5><p><img class='alignleft size-full wp-image-840' src='http://www.vetina.com/wp-content/uploads/2018/07/recovery-wet-details.jpg' sizes='(max-width: 712px) 100vw, 712px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/recovery-wet-details-300x246.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/recovery-wet-details.jpg 712w' alt='recovery wet details' width='712' height='585' /></p>"
+      },
+      {
+        "id":"Pet_Food-11",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary diets Cat Diabetes / Obesity",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary diets Cat Diabetes - Obesity.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary diets Cat Diabetes - Obesity.jpg'/></div> <h5 class='text-center'>Feline Veterinary diets Cat Diabetes / Obesity</h5><p><img class='alignleft size-full wp-image-842' src='http://www.vetina.com/wp-content/uploads/2018/07/Diabetes-feline-wet-details.jpg' sizes='(max-width: 709px) 100vw, 709px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Diabetes-feline-wet-details-300x239.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Diabetes-feline-wet-details.jpg 709w' alt='Diabetes feline wet details' width='709' height='565' /></p>"
+      },
+      {
+        "id":"Pet_Food-12",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary Diets Cat Gastrointestinal and Pancreas",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Gastrointestinal and Pancreas.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Gastrointestinal and Pancreas.jpg'/></div> <h5 class='text-center'>Feline Veterinary Diets Cat Gastrointestinal and Pancreas</h5><p><img class='alignleft size-full wp-image-844' src='http://www.vetina.com/wp-content/uploads/2018/07/Gastrointestinal-and-pancreas-feline-details.jpg' sizes='(max-width: 679px) 100vw, 679px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Gastrointestinal-and-pancreas-feline-details-300x273.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Gastrointestinal-and-pancreas-feline-details.jpg 679w' alt='Gastrointestinal and pancreas feline details' width='679' height='619' /></p>"
+      },
+      {
+        "id":"Pet_Food-13",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary Diets Cat Struvite Oxalate Management",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Struvite Oxalate Management.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Struvite Oxalate Management.jpg'/></div> <h5 class='text-center'>Feline Veterinary Diets Cat Struvite Oxalate Management</h5><p><img class='alignleft size-full wp-image-846' src='http://www.vetina.com/wp-content/uploads/2018/07/struvite-oxalate-management-feline-details.jpg' sizes='(max-width: 728px) 100vw, 728px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/struvite-oxalate-management-feline-details-300x230.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/struvite-oxalate-management-feline-details.jpg 728w' alt='struvite oxalate management feline details' width='728' height='557' /></p>"
+      },
+      {
+        "id":"Pet_Food-14",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary Diets Cat Renal / Cardiac",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Renal - Cardiac.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Renal - Cardiac.jpg' /></div> <h5 class='text-center'>Feline Veterinary Diets Cat Renal / Cardiac</h5><p><img class='alignleft size-full wp-image-848' src='http://www.vetina.com/wp-content/uploads/2018/07/Renal-Cardiac-feline-details.jpg' sizes='(max-width: 697px) 100vw, 697px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Renal-Cardiac-feline-details-300x269.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Renal-Cardiac-feline-details.jpg 697w' alt='Renal Cardiac feline details' width='697' height='625' /></p>"
+      },
+      {
+        "id":"Pet_Food-15",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary Diets Cat Gastrointestinal",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Gastrointestinal.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Gastrointestinal.jpg'/></div> <h5 class='text-center'>Feline Veterinary Diets Cat Gastrointestinal</h5><p><img class='alignleft size-full wp-image-850' src='http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-feline-details.jpg' sizes='(max-width: 726px) 100vw, 726px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-feline-details-300x187.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/gastrointestinal-feline-details.jpg 726w' alt='gastrointestinal feline details' width='726' height='452' /></p>"
+      },
+      {
+        "id":"Pet_Food-16",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary Diet Cat Renal",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diet Cat Renal.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diet Cat Renal.jpg'/></div> <h5 class='text-center'>Feline Veterinary Diet Cat Renal</h5><p><img class='alignleft size-full wp-image-852' src='http://www.vetina.com/wp-content/uploads/2018/07/Renal-feline-wet-details.jpg' sizes='(max-width: 696px) 100vw, 696px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Renal-feline-wet-details-300x244.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Renal-feline-wet-details.jpg 696w' alt='Renal feline wet details' width='696' height='566' /></p>"
+      },
+      {
+        "id":"Pet_Food-17",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Feline Veterinary Diets Cat Struvite Management",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Struvite Management.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Feline Veterinary Diets Cat Struvite Management.jpg'/></div><h5 class='text-center'>Feline Veterinary Diets Cat Struvite Management</h5><p><img class='alignleft size-full wp-image-854' src='http://www.vetina.com/wp-content/uploads/2018/07/Struvite-management-feline-wet-details.jpg' sizes='(max-width: 672px) 100vw, 672px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Struvite-management-feline-wet-details-300x254.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Struvite-management-feline-wet-details.jpg 672w' alt='Struvite management feline wet details' width='672' height='568' /></p>"
+      },
+      {
+        "id":"Pet_Food-18",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Starter & Puppy / Lamb & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Starter & Puppy -Lamb & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Starter & Puppy -Lamb & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Starter & Puppy / Lamb & Rice</h5><p><img class='alignleft size-full wp-image-856' src='http://www.vetina.com/wp-content/uploads/2018/07/Starter-Puppy-details.jpg' sizes='(max-width: 685px) 100vw, 685px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Starter-Puppy-details-300x239.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Starter-Puppy-details.jpg 685w' alt='Starter &amp; Puppy details' width='685' height='546' /></p>" 
+      },
+      {
+        "id":"Pet_Food-19",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Junior Medium Breed / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Medium Breed -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Medium Breed -Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Junior Medium Breed / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-860' src='http://www.vetina.com/wp-content/uploads/2018/07/Junior-medium-details.jpg' sizes='(max-width: 688px) 100vw, 688px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Junior-medium-details-300x242.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Junior-medium-details.jpg 688w' alt='Junior medium details' width='688' height='555' /></p>" 
+      },
+      {
+        "id":"Pet_Food-20",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Callibra Dog Hypoallergenic Junior Medium Breed / Lamb & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Callibra Dog Hypoallergenic Junior Medium Breed -Lamb & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Callibra Dog Hypoallergenic Junior Medium Breed -Lamb & Rice.jpg'/></div> <h5 class='text-center'>Callibra Dog Hypoallergenic Junior Medium Breed / Lamb & Rice</h5><p><img class='alignleft size-full wp-image-862' src='http://www.vetina.com/wp-content/uploads/2018/07/lamb-rice-details.jpg' sizes='(max-width: 707px) 100vw, 707px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/lamb-rice-details-300x227.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/lamb-rice-details.jpg 707w' alt='lamb &amp; rice details' width='707' height='534' /></p>" 
+      },
+      {
+        "id":"Pet_Food-21",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Junior Large Breed / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Large Breed -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Large Breed -Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Junior Large Breed / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-864' src='http://www.vetina.com/wp-content/uploads/2018/07/junior-large-breed-details.jpg' sizes='(max-width: 706px) 100vw, 706px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/junior-large-breed-details-300x257.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/junior-large-breed-details.jpg 706w' alt='junior large breed details' width='706' height='605' /></p>" 
+      },
+      {
+        "id":"Pet_Food-22",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Junior Large Breed / Lamb & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Large Breed -Lamb & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Large Breed -Lamb & Rice.jpg'/></div><h5 class='text-center'>Calibra Dog Hypoallergenic Junior Large Breed / Lamb & Rice</h5><p><img class='alignleft size-full wp-image-866' src='http://www.vetina.com/wp-content/uploads/2018/07/junior-large-breed-lamb-rice-details.jpg' sizes='(max-width: 698px) 100vw, 698px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/junior-large-breed-lamb-rice-details-300x265.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/junior-large-breed-lamb-rice-details.jpg 698w' alt='junior large breed lamb &amp; rice details' width='698' height='616' /></p>" 
+      },
+      {
+        "id":"Pet_Food-23",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Adult Small Breed / Chicken Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Small Breed -Chicken Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Small Breed -Chicken Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Adult Small Breed / Chicken Rice</h5><p><img class='alignleft size-full wp-image-868' src='http://www.vetina.com/wp-content/uploads/2018/07/adult-small-breed-details.jpg' sizes='(max-width: 682px) 100vw, 682px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/adult-small-breed-details-300x248.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/adult-small-breed-details.jpg 682w' alt='adult small breed details' width='682' height='564' /></p>" 
+      },
+      {
+        "id":"Pet_Food-24",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Expert Nutrition Energy / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Energy - Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Energy - Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Expert Nutrition Energy / Chicken &Rice</h5><p><img class='alignleft size-full wp-image-870' src='http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-energy-details.jpg' sizes='(max-width: 692px) 100vw, 692px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-energy-details-300x251.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-energy-details.jpg 692w' alt='expert nutrition energy details' width='692' height='580' /></p>" 
+      },
+      {
+        "id":"Pet_Food-25",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Expert Nutrition Light / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Light -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Light -Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Expert Nutrition Light / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-872' src='http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-light-details.jpg' sizes='(max-width: 706px) 100vw, 706px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-light-details-300x244.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-light-details.jpg 706w' alt='expert nutrition light details' width='706' height='574' /></p>"
+      },
+      {
+        "id":"Pet_Food-26",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Expert Nutrition Mobility / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Mobility -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Mobility -Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Expert Nutrition Mobility / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-874' src='http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-mobility-details.jpg' sizes='(max-width: 695px) 100vw, 695px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-mobility-details-300x262.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/expert-nutrition-mobility-details.jpg 695w' alt='expert nutrition mobility details' width='695' height='607' /></p>"
+      },
+      {
+        "id":"Pet_Food-27",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Expert Nutrition Oral Care / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Oral Care - Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Oral Care - Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Expert Nutrition Oral Care / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-876' src='http://www.vetina.com/wp-content/uploads/2018/07/Expert-nutrition-oral-care.jpg' sizes='(max-width: 720px) 100vw, 720px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Expert-nutrition-oral-care-300x252.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Expert-nutrition-oral-care.jpg 720w' alt='Expert nutrition oral care' width='720' height='605' /></p>"
+      },
+      {
+        "id":"Pet_Food-28",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Expert Nutrition Sensitive / Salmon & Potato",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Sensitive -Salmon & Potato.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Expert Nutrition Sensitive -Salmon & Potato.jpg'/></div> <h5 class='text-center'>Calibra Dog Expert Nutrition Sensitive / Salmon & Potato</h5><p><img class='alignleft size-full wp-image-879' src='http://www.vetina.com/wp-content/uploads/2018/07/Expert-nutrition-sensitive-details.jpg' sizes='(max-width: 687px) 100vw, 687px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/Expert-nutrition-sensitive-details-300x257.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/Expert-nutrition-sensitive-details.jpg 687w' alt='Expert nutrition sensitive details' width='687' height='589' /></p>" 
+      },
+      {
+        "id":"Pet_Food-29",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Junior Small Breed / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Small Breed -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Junior Small Breed -Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Junior Small Breed / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-881' src='http://www.vetina.com/wp-content/uploads/2018/07/JUNIOR-SMALL-BREED-DETAILS.jpg' sizes='(max-width: 928px) 100vw, 928px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/JUNIOR-SMALL-BREED-DETAILS-300x191.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/JUNIOR-SMALL-BREED-DETAILS-768x489.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/JUNIOR-SMALL-BREED-DETAILS.jpg 928w' alt='JUNIOR SMALL BREED DETAILS' width='928' height='591' /></p>" 
+      },
+      {
+        "id":"Pet_Food-30",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Adult Medium Breed / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Medium Breed - Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Medium Breed - Chicken & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Adult Medium Breed / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-883' src='http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-details.jpg' sizes='(max-width: 924px) 100vw, 924px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-details-300x166.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-details-768x424.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-details.jpg 924w' alt='adult medium breed details' width='924' height='510' /></p>" 
+      },
+      {
+        "id":"Pet_Food-31",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Adult Medium Breed / Lamb & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Medium Breed - Lamb & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Medium Breed - Lamb & Rice.jpg'/></div><h5 class='text-center'>Calibra Dog Hypoallergenic Adult Medium Breed /Lamb & Rice</h5><p><img class='alignleft size-full wp-image-885' src='http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-lamb-details.jpg' sizes='(max-width: 925px) 100vw, 925px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-lamb-details-300x167.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-lamb-details-768x428.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/adult-medium-breed-lamb-details.jpg 925w' alt='adult medium breed lamb details' width='925' height='516' /></p>" 
+
+      },
+      {
+        "id":"Pet_Food-32",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Adult Large Breed / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Large Breed -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Large Breed -Chicken & Rice.jpg' /></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Adult Large Breed / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-887' src='http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-details.jpg' sizes='(max-width: 929px) 100vw, 929px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-details-300x167.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-details-768x427.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-details.jpg 929w' alt='adult large breed details' width='929' height='516' /></p>" 
+      },
+      {
+        "id":"Pet_Food-33",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Hypoallergenic Adult Large Breed / Lamb & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Large Breed - Lamb & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Hypoallergenic Adult Large Breed - Lamb & Rice.jpg'/></div> <h5 class='text-center'>Calibra Dog Hypoallergenic Adult Large Breed / Lamb & Rice</h5><p><img class='alignleft size-full wp-image-889' src='http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-lamb-details.jpg' sizes='(max-width: 925px) 100vw, 925px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-lamb-details-300x167.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-lamb-details-768x428.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/adult-large-breed-lamb-details.jpg 925w' alt='adult large breed lamb details' width='925' height='515' /></p>" 
+      },
+      {
+        "id":"Pet_Food-34",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Grain Free Senior Small Breed / Duck & Potato",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Grain Free Senior Small Breed - Duck & Potato.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Grain Free Senior Small Breed - Duck & Potato.jpg'/></div> <h5 class='text-center'>Calibra Dog Grain Free Senior Small Breed / Duck & Potato</h5><p><img class='alignleft size-full wp-image-891' src='http://www.vetina.com/wp-content/uploads/2018/07/senior-small-breed-details.jpg' sizes='(max-width: 922px) 100vw, 922px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/senior-small-breed-details-300x167.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/senior-small-breed-details-768x426.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/senior-small-breed-details.jpg 922w' alt='senior small breed details' width='922' height='512' /></p>"
+      },
+      {
+        "id":"Pet_Food-35",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Dog Adult Venison with Cranberries and Salmon Oil",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Adult Venison with Cranberries and Salmon Oil.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Dog Adult Venison with Cranberries and Salmon Oil.jpg'/></div> <h5 class='text-center'>Calibra Dog Adult Venison with Cranberries and Salmon Oil</h5><p><img class='alignleft size-full wp-image-893' src='http://www.vetina.com/wp-content/uploads/2018/07/adult-venison-with-cranberries-and-salmon-oil-details.jpg' sizes='(max-width: 921px) 100vw, 921px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/adult-venison-with-cranberries-and-salmon-oil-details-300x169.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/adult-venison-with-cranberries-and-salmon-oil-details-768x433.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/adult-venison-with-cranberries-and-salmon-oil-details.jpg 921w' alt='adult venison with cranberries and salmon oil details' width='921' height='519' /></p>" 
+      },
+      {
+        "id":"Pet_Food-36",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Hypoallergenic Kitten / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Hypoallergenic Kitten -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Hypoallergenic Kitten -Chicken & Rice.jpg'/></div><h5 class='text-center'>Calibra Cat Hypoallergenic Kitten / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-895' src='http://www.vetina.com/wp-content/uploads/2018/07/kitten-chicken-rice-details.jpg' sizes='(max-width: 925px) 100vw, 925px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/kitten-chicken-rice-details-300x167.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/kitten-chicken-rice-details-768x428.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/kitten-chicken-rice-details.jpg 925w' alt='kitten chicken &amp; rice details' width='925' height='515' /></p>" 
+      },
+      {
+        "id":"Pet_Food-37",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Hypoallergenic Adult / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Hypoallergenic Adult -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Hypoallergenic Adult -Chicken & Rice.jpg'/></div><h5 class='text-center'>Calibra Cat Hypoallergenic Adult / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-897' src='http://www.vetina.com/wp-content/uploads/2018/07/cat-adult-chicken-rice-details.jpg' sizes='(max-width: 926px) 100vw, 926px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cat-adult-chicken-rice-details-300x168.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cat-adult-chicken-rice-details-768x431.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cat-adult-chicken-rice-details.jpg 926w' alt='cat adult chicken &amp; rice details' width='926' height='520' /></p>" 
+      },
+      {
+        "id":"Pet_Food-38",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Hypoallergenic Senior & Light / Turkey & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Hypoallergenic Senior & Light-Turkey & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Hypoallergenic Senior & Light-Turkey & Rice.jpg'/></div> <h5 class='text-center'>Calibra Cat Hypoallergenic Senior & Light / Turkey & Rice</h5><p><img class='alignleft size-full wp-image-899' src='http://www.vetina.com/wp-content/uploads/2018/07/cat-senior-light-details.jpg' sizes='(max-width: 921px) 100vw, 921px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cat-senior-light-details-300x171.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cat-senior-light-details-768x438.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cat-senior-light-details.jpg 921w' alt='cat senior &amp; light details' width='921' height='525' /></p>" 
+      },
+      {
+        "id":"Pet_Food-39",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Expert Nutrition Sterilised / Chicken & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Expert Nutrition Sterilised -Chicken & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Expert Nutrition Sterilised -Chicken & Rice.jpg' /></div> <h5 class='text-center'>Calibra Cat Expert Nutrition Sterilised / Chicken & Rice</h5><p><img class='alignleft size-full wp-image-901' src='http://www.vetina.com/wp-content/uploads/2018/07/cat-sterilised-chicken-rice-details.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cat-sterilised-chicken-rice-details-300x168.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cat-sterilised-chicken-rice-details-768x430.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cat-sterilised-chicken-rice-details.jpg 920w' alt='cat sterilised chicken &amp; rice details' width='920' height='515' /></p>" 
+      },
+      {
+        "id":"Pet_Food-40",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Expert Nutrition House Cat / Duck & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Expert Nutrition House Cat -Duck & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Expert Nutrition House Cat -Duck & Rice.jpg'/></div> <h5 class='text-center'>Calibra Cat Expert Nutrition House Cat / Duck & Rice</h5><p><img class='alignleft size-full wp-image-903' src='http://www.vetina.com/wp-content/uploads/2018/07/cat-house-cat-duck-rice-details.jpg' sizes='(max-width: 908px) 100vw, 908px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cat-house-cat-duck-rice-details-300x169.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cat-house-cat-duck-rice-details-768x433.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cat-house-cat-duck-rice-details.jpg 908w' alt='cat house cat duck &amp; rice details' width='908' height='512' /></p>" 
+      },
+      {
+        "id":"Pet_Food-41",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Expert Nutrition Hair Care / Salmon & Rice",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Expert Nutrition Hair Care -Salmon & Rice.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Expert Nutrition Hair Care -Salmon & Rice.jpg'/></div> <h5 class='text-center'>Calibra Cat Expert Nutrition Hair Care / Salmon & Rice</h5><p><img class='alignleft size-full wp-image-905' src='http://www.vetina.com/wp-content/uploads/2018/07/cat-hair-care-salmon-rice-details.jpg' sizes='(max-width: 900px) 100vw, 900px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cat-hair-care-salmon-rice-details-300x171.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cat-hair-care-salmon-rice-details-768x438.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cat-hair-care-salmon-rice-details.jpg 900w' alt='cat hair care salmon &amp; rice details' width='900' height='513' /></p>" 
+      },
+      {
+        "id":"Pet_Food-42",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Kitten Chicken with Chicken Hearts and Salmon Oil",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Kitten Chicken with Chicken Hearts and Salmon Oil.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Kitten Chicken with Chicken Hearts and Salmon Oil.jpg'/></div> <h5 class='text-center'>Calibra Cat Kitten Chicken with Chicken Hearts and Salmon Oil</h5><p><img class='alignleft size-full wp-image-907' src='http://www.vetina.com/wp-content/uploads/2018/07/cat-kitten-chicken-canned-details.jpg' sizes='(max-width: 922px) 100vw, 922px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cat-kitten-chicken-canned-details-300x169.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cat-kitten-chicken-canned-details-768x431.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cat-kitten-chicken-canned-details.jpg 922w' alt='cat kitten chicken canned details' width='922' height='518' /></p>" 
+      },
+      {
+        "id":"Pet_Food-43",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Adult Chicken with Chicken Hearts and Salmon Oil",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Adult Chicken with Chicken Hearts and Salmon Oil.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Adult Chicken with Chicken Hearts and Salmon Oil.jpg'/></div><h5 class='text-center'>Calibra Cat Adult Chicken with Chicken Hearts and Salmon Oil</h5> <p><img class='alignleft size-full wp-image-909' src='http://www.vetina.com/wp-content/uploads/2018/07/cannedcatadultchickendetails.jpg' sizes='(max-width: 914px) 100vw, 914px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cannedcatadultchickendetails-300x170.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cannedcatadultchickendetails-768x435.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cannedcatadultchickendetails.jpg 914w' alt='cannedcatadultchickendetails' width='914' height='518' /></p>"
+      },
+      {
+        "id":"Pet_Food-44",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Sensitive Turkey with Salmon and Salmon Oil",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Sensitive Turkey with Salmon and Salmon Oil.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Sensitive Turkey with Salmon and Salmon Oil.jpg'/></div> <h5 class='text-center'>Calibra Cat Sensitive Turkey with Salmon and Salmon Oil</h5><p><img class='alignleft size-full wp-image-911' src='http://www.vetina.com/wp-content/uploads/2018/07/cannedcatsensitiveturkeydetails.jpg' sizes='(max-width: 918px) 100vw, 918px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/cannedcatsensitiveturkeydetails-300x168.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/cannedcatsensitiveturkeydetails-768x430.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/cannedcatsensitiveturkeydetails.jpg 918w' alt='cannedcatsensitiveturkeydetails' width='918' height='514' /></p>" 
+      },
+      {
+        "id":"Pet_Food-45",
+        "type":"pic",
+        "category":"Pet_Food",
+        "name":"Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil",
+        "imageUrl":"<img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil.jpg'/>",
+        "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/companion/Pet Food/Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil.jpg'/></div><h5 class='text-center'>Calibra Cat Sterilised Turkey with Cranberries and Salmon Oil</h5><p><img class='alignleft size-full wp-image-913' src='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg' sizes='(max-width: 920px) 100vw, 920px' srcset='http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-300x173.jpg 300w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails-768x442.jpg 768w, http://www.vetina.com/wp-content/uploads/2018/07/catsterilisedturkeydetails.jpg 920w' alt='catsterilisedturkeydetails' width='920' height='529' /></p>" 
       }
     ],
     "Medical_Devices": [
@@ -263,7 +600,7 @@
         "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Skin Care Range/vetramail-oinment.jpg'/></div> <h5 class='text-center'>Vetramail Oinment</h5><p><strong>Ointment: </strong></p><p>Petrolatum, Cetearyl alcohol, Sodium lauryl sulfate, Paraffin, Isopropyl myristate, Mel, Thymus serpyllum, Lavandula angustifolia, Melaleuca quinquenervia, Pogostemon cablin, Ocimum basilicum</p><p>10 g, 30 g and 180 g,</p><ul><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><p><strong>Uses</strong></p><ul><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul>"
       },
       {
-      "id":"Skin_Care_Range-5",
+        "id":"Skin_Care_Range-5",
         "type":"pic",
         "category":"Skin_Care_Range",
         "name":"Vetramail Spray",
@@ -291,18 +628,51 @@
         "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Urinary tract supplement/TRM-Furinaid-Plus-200ml-box_preview.jpeg'/></div><h5 class='text-center'>Furinaid Plus</h5><p><strong>Furinaid Plus</strong></p><p><strong>Nutritional support for Cats with Feline Idiopathic Cystitis</strong></p><p>With roast meat flavoring</p><p>Furinaid Plus is a complementary feeding stuff for cats containing N acetyl Glucosamine and L- Tryptophan in a palatable and convenient liquid form. Daily feeding will nutritionally support the Glycosaminoglycan levels in the mucosal barrier of the bladder wall and assist in the maintenance of normal nerve function</p><p>&nbsp;</p><ul><li>CIC is the result of multiple complex interactions between the bladder, nervous system, endocrine system, husbandry practices and the environments</li><li>Findings include Urothelial Ulceration with inflammation and fibrosis</li><li>CIC may result from alterations in the protective glycosaminoglycan (GAG) layer that lines the bladder</li></ul><p><strong>Composition</strong></p><ul><li>N-Acetyl Glucosamine (NAG, 6.25%) – helps replenish the protective Glycosaminoglycan (GAG) layer</li><li>L-tryptophan – is an amino acid and is the precursor to neurotransmitters serotonin and melatonin.</li><li>These play a role which may improve mood and relieve stress and anxiety in cats</li></ul><p><strong style='font-weight: bold;'>Dosage</strong></p><ul><ul><li><strong>Instructions for proper use</strong>: Mix FURINAID PLUS well into the feed. Feed each cat individually.</li><li><strong>Feeding Instructions first 14 days</strong>: 6 ml per day. Feeding Instructions thereafter for maintenance: 4 ml per day.</li></ul></ul><p>The dosing pump attached to this container dispenses 2ml.</p><p style='text-align: center;'><strong style='font-weight: bold; text-transform: uppercase;'>For Dogs</strong></p><div class='ezcol ezcol-one-half'><strong style='font-weight: bold;'>First 14 days</strong><br />Small dogs upto 10 kgs: 6 ml<br />Medium dogs from 10-25 kgs : 8 ml<br />Large dogs 25-40 kgs : 10 ml<br />Very Large Dogs over 40 kg : 12 ml</div><div class='ezcol ezcol-one-half ezcol-last'><strong style='font-weight: bold;'>Maintenance</strong><br />Small dogs upto 10 kg : 4 ml<br />Medium dogs from 10-25 kgs : 6 ml<br />Large dogs 25-40 kgs : 8 ml<br />Very Large Dogs over 40 kg : 10 ml</div><p></p><p style='padding-top: 30px;'><strong style='font-weight: bold;'>Clinical signs of Feline Idiopathic Cystitis (FIC) include:</strong></p><p>Signs of difficulty and pain when urinating (dysuria)</p><p>Increased frequency of urination (pollakiuria)</p><p>Blood in the urine (hematuria)</p><p>Urination outside litter box and urgency to urinate</p><p>Complete obstruction to urine outflow</p><p>Behavioral change</p><p>Loss of litter box training</p><p>Aggression</p><p><strong>What type of cats suffer from Feline Idiopathic Cystitis</strong></p><ul><li>FIC can affect cats of any age but mostly affects young to middle aged cats</li><li>Over weight cats</li><li>Neutered cats are more susceptible</li><li>Persian and Black &amp; White domestic cats are predisposed</li><li>Occurs equally in male and female cats</li><li>Stress- moving house or travelling, weather changes or when household routine is disrupted</li></ul><p><strong>Instructions for Proper use:</strong></p><p>Mix FURINAID PLUS well into the feed. Feed each individually</p><p>Feeding instructions first 14 days: 6 ml per day</p><p>Feeding Instructions thereafter for maintenance: 4 ml per day</p><p>Dosing pump attached to this container dispenses 2 ml</p><p><strong>Presentation: 200 ml</strong></p><p>&nbsp;</p>"
       },
       {
-      "id":"Urinary_tract_supplement-2",
-      "type":"pic",
-      "category":"Urinary_tract_supplement",
-      "name":"URO SUPPORT Tablets",
-      "imageUrl":"<img src='/assets/img/product/product-images/Companion/Urinary tract supplement/URO_SUPPORT_3D.jpg'/>",
-      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Urinary tract supplement/URO_SUPPORT_3D.jpg'/></div><h5 class='text-center'>URO SUPPORT Tablets</h5><p><strong>Uro Support for Dogs features an advanced combination of ingredients that work together to support normal bladder function and health<br /></strong></p><p><strong>Composition</strong></p><table style='height: 301px;' width='211'><tbody><tr><td width='151'>Pumpkin Seed Powder</td><td width='139'>100 mg</td></tr><tr><td width='151'>Rehmannia Root</td><td width='139'>120 mg</td></tr><tr><td width='151'>Wild Yam Extract</td><td width='139'>100 mg</td></tr><tr><td width='151'>Soy protein concentrate</td><td width='139'>40 mg</td></tr><tr><td width='151'>Saw Palmetto Extract</td><td width='139'>30 mg</td></tr><tr><td width='151'>Cranberry Extract</td><td width='139'>25 mg</td></tr><tr><td width='151'>Dandelion whole plant powder</td><td width='139'>50 mg</td></tr><tr><td width='151'>Vitamin C</td><td width='139'>25 mg</td></tr></tbody></table><p><strong>Helps to: </strong></p><ul><li>Strengthening of bladder muscles and supports urinary incontinence</li><li>Support bladder muscle tone</li><li>Cranberry ext. decreases bacterial growth and adhesion of bacteria to Urinary system</li><li>Synergistic natural ingredients to support overall urinary tract health<strong><br /></strong></li></ul><p><strong>Dosage &amp; Administrations:</strong></p><p><strong>For Dogs</strong></p><p>Up to 10 Kg – 1 Tab daily</p><p>If giving more than 1 tab, divide amount between AM and PM</p><p><strong>For Cats </strong></p><p>1- 5 Kg – 1/2 Tabs daily</p><p>Given orally or Mix in daily food.</p><p>Or</p><p>As advised by Veterinarian</p><p><strong>USP</strong></p><ul><li>Unique formulation with combination of Pumpkin seed powder, Rehmania root, Wild yam, soy protein concentrate, Cranberry extract and Dandleon.</li><li>Cranberry extract maintains healthy urinary tract and healthy bladder by blocking irritants</li><li>Dandleon has diuretic effect and supports liver and gall bladder and has anti-inflammatory properties</li></ul>"
+       "id":"Urinary_tract_supplement-2",
+       "type":"pic",
+       "category":"Urinary_tract_supplement",
+       "name":"URO SUPPORT Tablets",
+       "imageUrl":"<img src='/assets/img/product/product-images/Companion/Urinary tract supplement/URO_SUPPORT_3D.jpg'/>",
+       "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Urinary tract supplement/URO_SUPPORT_3D.jpg'/></div><h5 class='text-center'>URO SUPPORT Tablets</h5><p><strong>Uro Support for Dogs features an advanced combination of ingredients that work together to support normal bladder function and health<br /></strong></p><p><strong>Composition</strong></p><table style='height: 301px;' width='211'><tbody><tr><td width='151'>Pumpkin Seed Powder</td><td width='139'>100 mg</td></tr><tr><td width='151'>Rehmannia Root</td><td width='139'>120 mg</td></tr><tr><td width='151'>Wild Yam Extract</td><td width='139'>100 mg</td></tr><tr><td width='151'>Soy protein concentrate</td><td width='139'>40 mg</td></tr><tr><td width='151'>Saw Palmetto Extract</td><td width='139'>30 mg</td></tr><tr><td width='151'>Cranberry Extract</td><td width='139'>25 mg</td></tr><tr><td width='151'>Dandelion whole plant powder</td><td width='139'>50 mg</td></tr><tr><td width='151'>Vitamin C</td><td width='139'>25 mg</td></tr></tbody></table><p><strong>Helps to: </strong></p><ul><li>Strengthening of bladder muscles and supports urinary incontinence</li><li>Support bladder muscle tone</li><li>Cranberry ext. decreases bacterial growth and adhesion of bacteria to Urinary system</li><li>Synergistic natural ingredients to support overall urinary tract health<strong><br /></strong></li></ul><p><strong>Dosage &amp; Administrations:</strong></p><p><strong>For Dogs</strong></p><p>Up to 10 Kg – 1 Tab daily</p><p>If giving more than 1 tab, divide amount between AM and PM</p><p><strong>For Cats </strong></p><p>1- 5 Kg – 1/2 Tabs daily</p><p>Given orally or Mix in daily food.</p><p>Or</p><p>As advised by Veterinarian</p><p><strong>USP</strong></p><ul><li>Unique formulation with combination of Pumpkin seed powder, Rehmania root, Wild yam, soy protein concentrate, Cranberry extract and Dandleon.</li><li>Cranberry extract maintains healthy urinary tract and healthy bladder by blocking irritants</li><li>Dandleon has diuretic effect and supports liver and gall bladder and has anti-inflammatory properties</li></ul>"
     }
-   ] 
+   ],
+    "Antibiotic_Range": [
+     {
+       "id":"Antibiotic_Range-1",
+       "type":"pic",
+       "category":"Antibiotic_Range",
+       "name":"KEFODOXIME VET DT - 100, 200 mg",
+       "imageUrl":"<img src='/assets/img/product/product-images/Companion/Antibiotic Range/Kefodoxime-vet-dt-100-200-mg.png'/>",
+       "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Antibiotic Range/Kefodoxime-vet-dt-100-200-mg.png'/></div> <h5 class='text-center'>KEFODOXIME VET DT - 100, 200 mg</h5><p><strong>KEFODOXIME VET DT &#8211; 100, 200 mg</strong></p><p>Third-generation cephalosporin antibiotic</p><p><strong> </strong><strong>Composition:</strong></p><p>&nbsp;</p><p>Each uncoated dispersible tablet contains:</p><p>Cefpodoxime Proxetil IP eq. to</p><p>Cefpodoxime……………………100mg/200 mg</p><p>Excipients……………………………….q.s</p><p>In a flavored base</p><p>Color: Quinoline Yellow WS</p><p>&nbsp;</p><p><strong>Indications:</strong></p><ul><li>SSTI</li><li>Ear infections</li><li>Respiratory tract infections</li><li>Urinary tract infections</li></ul><p><strong>Dosage: </strong>5-10 mg per kg body weight, rest refer pack insert</p><p><strong>Presentation: </strong>100, 200 mg (1X10 tablets)</p>"
   },
-   
-
-"ruminant": {
+   {
+     "id":"Antibiotic_Range-2",
+     "type":"pic",
+     "category":"Antibiotic_Range",
+     "name":"KEFUROXIME VET Tablets- 250/500 mg",
+     "imageUrl":"<img src='/assets/img/product/product-images/Companion/Antibiotic Range/KEFUROXIME-VET-Tablets.png'/>",
+     "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Antibiotic Range/KEFUROXIME-VET-Tablets.png'/></div> <h5 class='text-center'>KEFUROXIME VET Tablets- 250/500 mg</h5><p><strong>KEFUROXIME VET Tablets- 250/500 mg</strong></p><p>Second generation Cephalosporin antibiotic</p><p><strong> </strong><strong>Composition:</strong></p><p>Each film coated tablet contains:</p><p>Cefuroxime Axetil IP</p><p>eq. to Anhydrous Cefuroxime……. 250 mg/500 mg</p><p>Excipients ……………………………q. s.</p><p>Colour: Titanium Dioxide IP</p><p><strong>Indications</strong></p><ul><li>SSTI</li><li>Wound infections</li><li>Urinary tract infections</li><li>Respiratory tract infections</li><li>Wound infections</li></ul><p><strong>Dosage</strong></p><p>5-10 mg/kg body weight,<br />rest refer pack insert</p><p><strong>Presentation: </strong>250,500 mg (1X4 tablets)</p>" 
+  },
+   {
+     "id":"Antibiotic_Range-3",
+     "type":"pic",
+     "category":"Antibiotic_Range",
+     "name":"KEPHELEXIN VET tablets - 300/600 gm",
+     "imageUrl":"<img src='/assets/img/product/product-images/Companion/Antibiotic Range/Kephelexin-Vet-300-600-gm.png'/>",
+     "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Antibiotic Range/Kephelexin-Vet-300-600-gm.png'/></div><h5 class='text-center'>KEPHELEXIN VET tablets - 300/600 gm</h5><p><strong>KEPHELEXIN VET tablets – 300/600 gm</strong></p><p><strong>Composition:</strong></p><p>Each uncoated tablet contains:</p><p>Cephalexin IP as Monohydrate</p><p>Equivalent to Anhydrous</p><p>Cephalexin…………..300/600 mg</p><p>Excipients…………… q. s.</p><p>&nbsp;</p><p><strong>Indications</strong></p><p>Variety of bacterial infections including: –</p><ul><li>SSTI</li><li>Wound infections</li><li>Urinary tract infections</li><li>Ear infections</li><li>Respiratory tract infections</li></ul><p><strong>Dosage: </strong>20-30 mg//kg body weight</p><p><strong>Presentation: </strong>300, 600 mg (1X10 tablets)</p>" 
+  },
+   {
+     "id":"Antibiotic_Range-4",
+     "type":"pic",
+     "category":"Antibiotic_Range",
+     "name":"VETCONAZOLE Capsules - 100/ 200 mg",
+     "imageUrl":"<img src='/assets/img/product/product-images/Companion/Antibiotic Range/VETCONAZOLE.png'/>",
+     "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Antibiotic Range/VETCONAZOLE.png'/></div> <h5 class='text-center'>VETCONAZOLE Capsules - 100/ 200 mg</h5><p><strong>Composition:</strong></p><p>Each hard gelatin capsule contains:</p><p>Itraconazole Pellets</p><p>Equivalent to Itraconazole BP 100mg</p><p>Approved colors used in hard gelatin capsule shell</p><p><strong>Composition:</strong></p><p>Each hard gelatin capsule contains:</p><p>Itraconazole Pellets</p><p>Equivalent to Itraconazole BP 100mg, 200 mg</p><p>Approved colors used in hard gelatin capsule shell<strong><br /></strong></p><p><strong>Indications:</strong></p><p>Fungal infection of skin</p><p>claws and bone infection</p><p>Respiratory infections</p><p><strong>Dosage: </strong>5-10 mg/kg body weight, rest refer pack insert</p><p><strong>Presentation: </strong>100, 200 mg (1X10 tablets)</p>" 
+  }
+ ]
+ 
+ },
+   "ruminant": {
   "Feed_Supplements": [
     {
       "id": "Feed_Supplements-1",
