@@ -670,359 +670,101 @@
      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Companion/Antibiotic Range/VETCONAZOLE.png'/></div> <h5 class='text-center'>VETCONAZOLE Capsules - 100/ 200 mg</h5><p><strong>Composition:</strong></p><p>Each hard gelatin capsule contains:</p><p>Itraconazole Pellets</p><p>Equivalent to Itraconazole BP 100mg</p><p>Approved colors used in hard gelatin capsule shell</p><p><strong>Composition:</strong></p><p>Each hard gelatin capsule contains:</p><p>Itraconazole Pellets</p><p>Equivalent to Itraconazole BP 100mg, 200 mg</p><p>Approved colors used in hard gelatin capsule shell<strong><br /></strong></p><p><strong>Indications:</strong></p><p>Fungal infection of skin</p><p>claws and bone infection</p><p>Respiratory infections</p><p><strong>Dosage: </strong>5-10 mg/kg body weight, rest refer pack insert</p><p><strong>Presentation: </strong>100, 200 mg (1X10 tablets)</p>" 
   }
  ]
- 
- },
+  },
    "ruminant": {
   "Feed_Supplements": [
     {
-      "id": "Feed_Supplements-1",
+      "id":"Feed_Supplements-1",
       "type":"pic",
       "category":"Feed_Supplements",
-      "name": "CALPHOS CHELATED 1 LIT – Chelated Ca and P Liq",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+      "name":"CALPHOS 5 LIT - Oral calcium with galactagogue",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/CALPHOS 5 LIT - Oral calcium with galactagogue.png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/CALPHOS 5 LIT - Oral calcium with galactagogue.png'/></div> <h5 class='text-center'>CALPHOS 5 LIT - Oral calcium with galactagogue</h5><p><strong>Composition : Each 100 ml Contains</strong></p><table class='table'><thead></thead><tbody><tr><td>Calcium</td><td>1750 mg</td></tr><tr><td>Phosphorus</td><td>850mg</td></tr><tr><td>Vitamin B12</td><td>100 mcg</td></tr><tr><td>Vitamin D3</td><td>8000 IU</td></tr><tr><td>Shatavari</td><td>1000 mg</td></tr><tr><td>Jivanti</td><td>1000 mg</td></tr><tr><td>Piper longum</td><td>400 mg</td></tr><tr><td>Enriched with Bioactive Chromium</td></tr><tr><td>permitted colour and flavour added</td></tr></tbody></table><p><em><span style='font-family: Arial,serif;'><b><strong><br /></strong></b></span></em><span style='font-family: Arial,serif;'><strong>Benefits :</strong></span></p><ul><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'><b>S</b></span><span style='font-family: Arial,serif;'>timulate overall growth and Milk production</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Helps to enhance fertility</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Helps to maintain normal health and reproduction status</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Helps to improve feed conversion</span></p></li></ul><p class='western' lang='en-US'><strong><span style='font-family: Arial,serif;'>Usages : </span></strong></p><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Large Animals: 100 ml per Day</span></p><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Small Animals: 50 Ml per Day</span></p><p class='western' lang='en-US'><strong><span style='font-family: Arial,serif;'>Presentation </span></strong></p><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>5 Litre</span></p><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>20 Litre</span></p>" 
     },
     {
-      "id": "Feed_Supplements-2",
+      "id":"Feed_Supplements-2",
       "type":"pic",
       "category":"Feed_Supplements",
-      "name": "MN VITA",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2017/11/MN-VITA.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/calphos-1-ltr.png' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+      "name":"CALPHOS CHELATED 1 LIT - Chelated Ca and P Liq",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/CALPHOS CHELATED 1 LIT - Chelated Ca and P Liq.png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/CALPHOS CHELATED 1 LIT - Chelated Ca and P Liq.png'/></div><h5 class='text-center'>CALPHOS CHELATED 1 LIT - Chelated Ca and P Liq</h5><p lang='en-US'><strong>CALPHOS – Chelated Ca and P Liq</strong></p><table style='width: 40%;' cellspacing='0' cellpadding='2' bgcolor='#ffffff'><colgroup><col width='40%' /><col width='40%' /> </colgroup><tbody><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Composition : Each 100 ml provides</span></span></span></p></td><td bgcolor='#ffffff' width='73'></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Calcium</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>6000 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Phosphorus</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>3000 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Vitamin B12</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>100mcg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Vitamin D3</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>12000 IU</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Vitamin A</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>12000 IU</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>vitamin E</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>150000mc</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Shatavari</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>1000 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>jivanti</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>1000 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Piper longum</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>400 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Silymarin</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>450 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Zinc</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>1500 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Copper</span></span></span></p></td><td bgcolor='#ffffff' width='73'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>500 mg</span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='314' height='15'><p lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: medium;'>Fortified with Bioactive Chromium &amp; silymarine</span></span></span></p></td><td bgcolor='#ffffff' width='73'></td></tr></tbody></table><p>&nbsp;</p><p lang='en-US'><strong><span style='font-family: Arial,serif;'><span style='font-size: large;'><u>Benefits :</u></span></span></strong></p><ul><li><p lang='en-US'><span style='font-family: Arial,serif;'>Helps to optimize milk production in Dairy cattle</span></p></li><li><p lang='en-US'><span style='font-family: Arial,serif;'>It provide calcium and phosphorus in right proportion</span></p></li><li><p lang='en-US'><span style='font-family: Arial,serif;'>Helps to regulate the normal reproductive cycle </span></p></li><li><p lang='en-US'><span style='font-family: Arial,serif;'>Helps to maintain normal reproductive health</span></p></li><li><p lang='en-US'><span style='font-family: Arial,serif;'>Enrich with silymarin </span></p></li><li><p lang='en-US'><span style='font-family: Arial,serif;'>Helps to minimize negative energy balance in high yielders.</span></p></li></ul><p lang='en-US'><strong><span style='font-family: Arial,serif;'><u>Dose rates:</u></span></strong></p><ul><li><span style='font-family: Arial,serif;'><span lang='en-US'>High Yielders Dairy Animal : 100 ml /Day</span></span></li></ul><ul><li><span style='font-family: Arial,serif;'><span lang='en-US'>Medium Yielders Dairy Animal : 50 ml /DAy</span></span></li></ul><ul><li><span style='font-family: Arial,serif;'><span lang='en-US'>Small Animals : 30 ml / Day</span></span></li></ul><p lang='en-US'><span style='font-family: Arial,serif;'><b>Presentation :</b></span></p><ul><li>1 litre , 5 litre and 20 litre</li></ul>" 
     },
     {
-      "id": "Feed_Supplements-3",
+      "id":"Feed_Supplements-3",
       "type":"pic",
       "category":"Feed_Supplements",
-      "name": "RUMEN PLUS",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+      "name":"FERTIMORE BOX",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/FERTIMORE BOX.png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/FERTIMORE BOX.png'/></div> <h5 class='text-center'>FERTIMORE BOX</h5><p><strong>Benefits</strong><br />1. Helps to reduce parasitic infestations<br />2. Helps to improve uterine health<br />3. Helps to improve fertility<br />4. Helps to improve uterine tone<br />5. Helps to bring anamal on proper heat</p><p><strong>Usage: One packet per day orally</strong><br />Day 1 Packet:<br />Single dose of 10g</p><p>Day 2 Packet:<br />Single dose of 20g</p><p>Day 3 Packet:<br />Single dose of 20g</p><p>Day 4 Packet:<br />Single dose of 20g</p><p>Day 5 Packet:<br />Single dose of 10g</p><p><strong>If animal is not coming into heat repeat the aforesaid dosage after 10 days</strong></p>" 
+    },
+    {
+      "id":"Feed_Supplements-4",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name":"FERTIPLUS",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/FERTIPLUS.png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/FERTIPLUS.png'/></div> <h5 class='text-center'>FERTIPLUS</h5><p><strong>Composition : Herbal Extract Of</strong></p><ul><li>Abroma augusta-</li><li>Rubia cordifolia</li><li>Cyperus rotundus</li><li>Bacopa monnieri</li><li>Terminalia chebula</li><li>Cynodon dactylon</li></ul><p><strong>Indications:</strong></p><ul><li>Helps to maintain normal sperm structure</li><li>Helps to increase the intra uterine life of Sperm</li><li>Helps to increase the probability of fertilization</li></ul><p><strong>Usage:</strong><br />225 ml orally AI or as directed by veterinarian</p><p><strong>Presentation : 225 ml </strong></p><p><strong>Benefits: </strong></p><ul><li>Improves Uterine health by increasing uterine secretions.</li><li>Helps in reducing uterine subclinical infections.</li><li>Improves uterine tone by improving uterine turgidity.</li><li>improves sperm longitivity in uterus</li></ul><p>&nbsp;</p>"
+    },
+    {
+      "id":"Feed_Supplements-5",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name":"MN VITA",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/MN VITA.jpg'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/MN VITA.jpg'/></div> <h5 class='text-center'>MN VITA</h5><p class='western' lang='en-US'><table><colgroup><col width='116' /><col width='70' /> </colgroup><tbody><tr><td bgcolor='#ffffff' width='116' height='14'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Composition / KG</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Vitamin A</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>700000 IU</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>vitamin D3</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>70,000 IU</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Nicotinamide</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>1000 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Copper</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>1200 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Iron </span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>1500 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Magnesium </span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>6000 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Maganese</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>1500 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Zinc</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>9600 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>iodine</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>325 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>cobalt</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>150 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Potassium</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>100 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Sodium</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>5.9 mg</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Sulphur</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>0.72 %%</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='15'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>calcium</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>25.5 %%</span></span></span></span></p></td></tr><tr><td bgcolor='#ffffff' width='116' height='14'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>Phosphorus</span></span></span></span></p></td><td bgcolor='#ffffff' width='70'><p class='western' lang='en-US' align='left'><span style='color: #000000;'><span style='font-family: Calibri,serif;'><span style='font-size: small;'><span lang='en-US'>12.75 %%</span></span></span></span></p></td></tr></tbody></table><p>&nbsp;</p><p class='western' lang='en-US'><strong>BENEFITS</strong></p><ul><li><p class='western' lang='en-US'>Help to enhance fertility</p></li><li><p class='western' lang='en-US'>Helps to promote growth and improves performance</p></li><li><p class='western' lang='en-US'>Helps to increase the milk production</p></li><li><p class='western' lang='en-US'>Helps to boost immunity and helps to overcome stress condition</p></li><li><p class='western' lang='en-US'>Promotes early recovery from stress condition</p></li><li><p class='western' lang='en-US'>Improves metabolic activity.</p></li><li><p class='western' lang='en-US'>Amino acids enhances faster absorption.</p></li></ul><p class='western' lang='en-US'><strong>Dose rate</strong></p><p class='western' lang='en-US'>Cattle Feed : 5 to 10 kg / Ton of feed</p><p class='western' lang='en-US'>Aqua : 10 Kg / Ton of Feed</p><p class='western' lang='en-US'>Regular Use : Large Animal – 100 gm daily, small Animal &#8211; 50 gm daily</p><p class='western' lang='en-US'><b>PRESENTATION</b></p><p class='western' lang='en-US'> 1 Kg, 5 Kg</p>" 
+    },
+    {
+      "id":"Feed_Supplements-6",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name":"RUMEN PLUS",	
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/RUMEN PLUS.jpg'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/RUMEN PLUS.jpg'/></div> <h5 class='text-center'>RUMEN PLUS</h5><p><strong>Composition : Each 100 gm Contains: </strong></p><table class='table'><thead></thead><tbody><tr><td>Saccharomyces cerevisiae</td><td>900 million CFU</td></tr><tr><td>Lactobacillus acidophilus</td><td>75 million CFU</td></tr><tr><td>Propionibacterium freudenreiich</td><td>75 million CFU</td></tr><tr><td>Aspergillus oryzae</td><td>75 million CFU</td></tr><tr><td>Biotin</td><td>50 mg</td></tr><tr><td>Niacin</td><td>60 mg</td></tr><tr><td>Piper longum</td><td>400 mg</td></tr><tr><td>DL Methionine</td><td>50 mg</td></tr><tr><td>Fructo – oligosaccharides</td><td>250 mg</td></tr></tbody></table><p class='western' lang='en-US'><strong>BENEFITS</strong></p><ul><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Helps</span><span style='font-family: Arial,serif;'> to maintain the normal pH of rumen</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Help to maintain the normal ruminal microflora</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Helps to improve optimum fibre digestion</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Improve the nutrients availability</span></p></li><li><p class='western' lang='en-US'><span style='font-family: Arial,serif;'>Helps to improve the productivity</span></p></li></ul><p><strong>Dose rates</strong></p><ul><li>Large Animals : 10 to 30 gm/ day</li><li>Small Animals : 5 to 10 gm/day</li><li>Horse : 20 to 30 gm/day</li></ul><p><strong>Presentation</strong>: 300 gm and 1 kg</p><p class='western' lang='en-US'>" 
+    },
+    {
+      "id":"Feed_Supplements-7",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name":"U CARE",	
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/U CARE.png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/U CARE.png'/></div> <h5 class='text-center'>U CARE</h5><p><strong>U CARE – Herbal Uterine Tonic</strong></p><p><strong>Composition: Each 10 ml Contains</strong></p><p>Mucona pruriens</p><p>Tribulus terrestris</p><p>Cyperus rotundus</p><p>Bryonia lanciniosa</p><p>Aristolochia indica</p><p>Asparagus racemosus</p><p>Withania somnifera</p><p>Calastrus paniculata</p><p>Peganum harmala</p><p>Ruta graveolens</p><p>Saraca indica</p><p>Nigella sativa</p><p>Pueraria tuberosa</p><p><strong>Indications:</strong></p><ul><li>Helps in involution of uterus</li><li>Helps to maintain to uterine tone.</li><li>Helps in early post partum heat</li><li>Helps in Retention of Placenta.</li><li>Helps to maintain the normal health of Uterus</li></ul><p><strong>Direction For Use :</strong></p><ul><li>Cattle &amp; Buffalo : 225 ml with drinking water</li><li>Sheep &amp; Goat : 50 ml with drinking water.</li></ul><p><strong>Presentation</strong>: 225 ml and 500ml</p><p>&nbsp;</p>" 
+    },
+    {
+      "id":"Feed_Supplements-8",
+      "type":"pic",
+      "category":"Feed_Supplements",
+      "name":"VITA - YEAST",	
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Feed Supplements/VITA-YEAST.jpg'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Feed Supplements/VITA-YEAST.jpg'/></div> <h5 class='text-center'>VITA - YEAST</h5><p class='western' lang='en-US'><strong>Features:</strong></p><ul><li class='western' lang='en-US'>Positively regulates rumen liquor pH</li><li class='western' lang='en-US'>Minimizes the incidences of acidosos</li><li class='western' lang='en-US'>Optimizes enzymatic &amp; cellulolytic activities, fiber digestion, anaerobiosos &amp; microbial biomass in rumen</li><li class='western' lang='en-US'>Axxelerates the process og rumen development in calves</li></ul><p class='western' lang='en-US'><span style='font-family: Arial,serif;'><b>Benefits:</b></span></p><ul><li><p class='western' lang='en-US'>Optimizes milk production &amp; disease resistance</p></li></ul><p class='western' lang='en-US'><span style='font-family: Arial,serif;'><b>Usages:</b></span></p><p class='western' lang='en-US'>10 g/Animal daily throughout lactation.</p><p class='western' lang='en-US'>Through Feed @ 2kg/ton of feed (Mash feed)</p><p class='western' lang='en-US'><strong>Presentaion</strong> : 1 kg &amp; 5 kg</p>" 
     }
   ],
-  "Dewormers": [
+  "Dewormers":[
     {
-      "id": "Dewormers-1",
+      "id":"Dewormers-1",
       "type":"pic",
       "category":"Dewormers",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Antibiotics": [
-    {
-      "id": "Antibiotics-1",
-      "type":"pic",
-      "category":"Antibiotics",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+      "name":"CANWORM SUSPENSION– (2.5 %)",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Dewormers/CANWORM SUSPENSION– (2.5 %).png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Dewormers/CANWORM SUSPENSION– (2.5 %).png'/></div> <h5 class='text-center'>CANWORM SUSPENSION– (2.5 %)</h5><p class='western' lang='en-US'><strong>Composition:</strong></p><p class='western' lang='en-US'>Fenbendazole 1 ml contains 2.5% w/v 25 mg of Fenbendazole.</p><p class='western' lang='en-US'><strong>Indications: </strong></p><p class='western' lang='en-US'>Infestation with gastrointestinal nematodes, lungworms<br />and tapeworms</p><p class='western' lang='en-US'><strong>Dosages</strong></p><p class='western' lang='en-US'>5 mg / kg body weight.<br />2ml per kg body wt</p><p class='western' lang='en-US'><strong>Withdrawal Period</strong> :</p><p class='western' lang='en-US'>Milk: NIL<br />Meat: 8 days</p><p class='western' lang='en-US'><strong><span style='font-family: Arial,serif;'>Presentation:</span></strong></p><p class='western' lang='en-US'>100 ml and 1 litre.</p><p>&nbsp;</p>"
     },
     {
-      "id": "Antibiotics-1",
+      "id":"Dewormers-2",
       "type":"pic",
-      "category":"Antibiotics",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Antihistaminic_drug": [
-    {
-      "id": "Antihistaminic_drug-1",
-      "type":"pic",
-      "category":"Antihistaminic_drug",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Non_Steroidal_Anti_Inflammatory_drugs": [
-    {
-      "id": "Non_Steroidal_Anti_Inflammatory_drugs-1",
-      "type":"pic",
-      "category":"Non_Steroidal_Anti_Inflammatory_drugs",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+      "category":"Dewormers",
+      "name":"OXYLEVA 90 ML BOX",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Dewormers/OXYLEVA 90 ML BOX.png'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Dewormers/OXYLEVA 90 ML BOX.png'/></div> <h5 class='text-center'>OXYLEVA 90 ML BOX</h5><p><strong>Composition:</strong></p><p>Each ml Contains</p><ul><li>Oxyclozanide 6.00%</li><li>Levamisole 3.00%</li></ul><p><strong>INDICATIONS:</strong></p><ul><li>Antihelminthic</li></ul><p><strong>Dose : </strong>Small and Large Animals — 1ml for 2 kg body weight.</p><p><strong>Administration</strong> : Oral Route</p><p><strong>Presentation: </strong>90 ml and 1 lit</p><p>&nbsp;</p>" 
     },
     {
-      "id": "Non_Steroidal_Anti_Inflammatory_drugs-2",
+      "id":"Dewormers-3",
       "type":"pic",
-      "category":"Non_Steroidal_Anti_Inflammatory_drugs",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Hormonal": [
-    {
-      "id": "Hormonal-1",
-      "type":"pic",
-      "category":"Hormonal",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Hormonal-2",
-      "type":"pic",
-      "category":"Hormonal",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Hormonal-3",
-      "type":"pic",
-      "category":"Hormonal",
-      "name": "OXYLEVA 90 ML BOX",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/06/OXYLEVA-90-ML-BOX.png'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2017/11/RUMEN-PLUS.jpg' /></div> <h5 class='text-center'>Vetramail Oinment</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
+      "category":"Dewormers",
+      "name":"WORMFIGHTER 1 LIT",
+      "imageUrl":"<img src='/assets/img/product/product-images/Ruminant/Dewormers/WORMGIGHTER-1-LIT.jpg'/>",
+      "body":"<div class='p-modal-image-holder'><img src='/assets/img/product/product-images/Ruminant/Dewormers/WORMGIGHTER-1-LIT.jpg'/></div> <h5 class='text-center'>WORMFIGHTER 1 LIT</h5>" 
     }
   ]
-},
-
-"poultry": {
-  "Emerald": [
-    {
-      "id": "Emerald-1",
-      "type":"pic",
-      "category":"Emerald",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Igusafe_WS": [
-    {
-      "id": "Igusafe_WS-1",
-      "type":"pic",
-      "category":"Igusafe_WS",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Igusafe": [
-    {
-      "id": "Igusafe-1",
-      "type":"pic",
-      "category":"Igusafe",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Solvance_Pro": [
-    {
-      "id": "Solvance_Pro-1",
-      "type":"pic",
-      "category":"Solvance_Pro",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Solvance_Bind": [
-    {
-      "id": "Solvance_Bind-1",
-      "type":"pic",
-      "category":"Solvance_Bind",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ]
-},
-
-"swine": {
-  "Pet_Food_swine": [
-    {
-      "id": "Pet_Food_swine-1",
-      "type":"pic",
-      "category":"Pet_Food_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Pet_Food_swine-2",
-      "type":"pic",
-      "category":"Pet_Food_swine",
-      "name": "Vetramail Sprayyyyyy",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Sprayyyyyyyy</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Pet_Food_swine-3",
-      "type":"pic",
-      "category":"Pet_Food_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Medical_Devices_swine": [
-    {
-      "id": "Medical_Devices_swine-1",
-      "type":"pic",
-      "category":"Medical_Devices_swine",
-      "name": "ppVetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Medical_Devices_swine-2",
-      "type":"pic",
-      "category":"Medical_Devices_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Medical_Devices_swine-3",
-      "type":"pic",
-      "category":"Medical_Devices_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Medical_Devices_swine-4",
-      "type":"pic",
-      "category":"Medical_Devices_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Skin_Care_Range_swine": [
-    {
-      "id": "Skin_Care_Range_swine-1",
-      "type":"pic",
-      "category":"Skin_Care_Range_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Skin_Care_Range_swine-2",
-      "type":"pic",
-      "category":"Skin_Care_Range_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Skin_Care_Range_swine-3",
-      "type":"pic",
-      "category":"Skin_Care_Range_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Skin_Care_Range_swine-4",
-      "type":"pic",
-      "category":"Skin_Care_Range_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Skin_Care_Range_swine-5",
-      "type":"pic",
-      "category":"Skin_Care_Range_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Nutritional_Supplements_swine": [
-    {
-      "id": "Nutritional_Supplements_swine-1",
-      "type":"pic",
-      "category":"Nutritional_Supplements_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Nutritional_Supplements_swine-2",
-      "type":"pic",
-      "category":"Nutritional_Supplements_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Nutritional_Supplements_swine-3",
-      "type":"pic",
-      "category":"Nutritional_Supplements_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Nutritional_Supplements_swine-4",
-      "type":"pic",
-      "category":"Nutritional_Supplements_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Nutritional_Supplements_swine-5",
-      "type":"pic",
-      "category":"Nutritional_Supplements_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ],
-  "Probiotic_swine": [
-    {
-      "id": "Probiotic_swine-1",
-      "type":"pic",
-      "category":"Probiotic_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Probiotic_swine-2",
-      "type":"pic",
-      "category":"Probiotic_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Probiotic_swine-3",
-      "type":"pic",
-      "category":"Probiotic_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Probiotic_swine-4",
-      "type":"pic",
-      "category":"Probiotic_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    },
-    {
-      "id": "Probiotic_swine-5",
-      "type":"pic",
-      "category":"Probiotic_swine",
-      "name": "Vetramail Spray",
-      "imageUrl": "<img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg'/>",
-      "body": "<div class='overlay' onclick='closeModal()'></div><a onclick='closeModal()' id='close-modal' title='Close' class='modal-close'><img src='assets/img/product/cross-icon.png'></a><div class='p-modal-details'><div class='p-modal-image-holder'><img src='http://www.vetina.com/wp-content/uploads/2019/05/vetramail-spray.jpg' /></div> <h5 class='text-center'>Vetramail Spray</h5><h5>Features</h5><ul class='pl-0 mb-12'><li>Bitter taste</li><li>Insect repellent</li><li>Anti-fungal and anti-bacterial</li><li>Promotes wound healing</li><li>Decreases wound infection</li></ul><div class='p-center-align'> <span></span> </div><h5>Benefits</h5><ul class='pl-0 mb-12'><li>Superficial and open wounds</li><li>Lacerations, abrasions and avulsions</li><li>Decubital ulcers</li><li>Chronic and infected wounds</li><li>Itchy skin and eczema</li><li>Abscesses</li><li>Wounds difficult to bandage</li></ul></div>"
-    }
-  ]
+  
  } 
 }
 
