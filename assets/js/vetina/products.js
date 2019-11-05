@@ -1,5 +1,5 @@
 
-var jsonPath = "/assets/js/products.php/";
+var jsonPath = "/vetina/assets/js/products.php/";
 var productdata = ''
 var companion = ''
 
@@ -182,7 +182,6 @@ function ruminant(){
     }
   }
   getProductsRuminian(prodArr)
-
 }
 
 
