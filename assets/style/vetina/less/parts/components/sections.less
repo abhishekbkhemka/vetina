@@ -496,6 +496,35 @@
       }
     }
   }
+  .left-icons-set-product {
+    .active-list-icon,
+    .disable-grid-icon {
+      display: none;
+    }
+  }
+
+  .active-grid {
+    .active-list-icon,
+    .disable-grid-icon {
+      display: none;
+    }
+    .disable-list-icon,
+    .active-grid-icon {
+      display: block;
+    }
+  }
+
+  .active-list {
+    .active-list-icon,
+    .disable-grid-icon {
+      display: block;
+    }
+    .disable-list-icon,
+    .active-grid-icon {
+      display: none;
+    }
+  }
+
   .prodSearch-empty-section {
     max-height: 200px;
     text-align: center;
@@ -505,7 +534,8 @@
       height: 100%;
     }
   }
-  #swineID,#poultryID{
+  #swineID,
+  #poultryID {
     max-height: 280px;
     margin-top: 0px;
   }
