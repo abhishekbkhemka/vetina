@@ -496,6 +496,35 @@
       }
     }
   }
+  .left-icons-set-product {
+    .active-list-icon,
+    .disable-grid-icon {
+      display: none;
+    }
+  }
+
+  .active-grid {
+    .active-list-icon,
+    .disable-grid-icon {
+      display: none;
+    }
+    .disable-list-icon,
+    .active-grid-icon {
+      display: block;
+    }
+  }
+
+  .active-list {
+    .active-list-icon,
+    .disable-grid-icon {
+      display: block;
+    }
+    .disable-list-icon,
+    .active-grid-icon {
+      display: none;
+    }
+  }
+
   .prodSearch-empty-section {
     max-height: 200px;
     text-align: center;
@@ -504,6 +533,11 @@
     img {
       height: 100%;
     }
+  }
+  #swineID,
+  #poultryID {
+    max-height: 280px;
+    margin-top: 0px;
   }
   .display-products {
     margin-top: @space + @space / 2;
@@ -603,7 +637,15 @@
 .u-list-layout-para {
   display: none;
 }
-
+.table {
+  margin-bottom: 20px;
+  th,
+  td {
+    text-align: left;
+    padding: 8px 16px;
+    border: 1px solid #d5d6d7;
+  }
+}
 // checkboxes
 
 .checkbox-wrapper {
@@ -800,8 +842,9 @@ textarea::placeholder {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url("images/pageLoader.gif") 50% 50% no-repeat #000;
+  background: url("/assets/img/pageLoader.webp") 50% 50% no-repeat #000;
   opacity: 0.9;
+  background-size: 85px;
 }
 
 //modal product details

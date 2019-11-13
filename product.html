@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <title></title>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=0"
+    />
     <!-- font awesome -->
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+    <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
     <!-- common style -->
     <link rel="stylesheet" href="assets/style/vetina/css/style.css" />
-</head>
+  </head>
 
-<body>
+  <body>
     <!-- header start -->
     <div id="header"></div>
     <!-- header end -->
@@ -21,154 +28,304 @@
     <!-- free sample end -->
 
     <div class="product-section mt-nav">
-        <div class="wrapper u-mob-padd-h-none">
-            <div class="vertical-tabs">
-                <ul class="tabs vertical padd-left-none" data-tab="">
-                    <li class="tab-title active">
-                        <a href="#panela1" aria-selected="true" tabindex="0" onclick="getCompanionData('companion')">
-                            <img src="assets/img/product/tab-images/dark-dog.svg" class="tab-dark-img" /><img src="assets/img/product/tab-images/light-dog.svg" class="tab-light-img" /><span>Companion</span>
-                        </a>
-                    </li>
-                    <li class="tab-title">
-                        <a href="#panelb1" aria-selected="false" tabindex="-1" onclick="ruminant('ruminant')">
-                            <img src="assets/img/product/tab-images/dark-cow.svg" class="tab-dark-img" />
-                            <img src="assets/img/product/tab-images/light-cow.svg" class="tab-light-img" /><span>Ruminant</span>
-                        </a>
-                    </li>
-                    <li class="tab-title">
-                        <a href="#panelc1" aria-selected="false" tabindex="-1" onclick="poultry('poultry')">
-                            <img src="assets/img/product/tab-images/dark-poultry.svg" class="tab-dark-img" /><img src="assets/img/product/tab-images/light-poultry.svg" class="tab-light-img" /><span>Poultry & Aqua</span>
-                        </a>
-                    </li>
-                    <li class="tab-title">
-                        <a href="#paneld1" aria-selected="false" tabindex="-1" onclick="swine('swine')">
-                            <img src="assets/img/product/tab-images/dark-swine.svg" class="tab-dark-img" />
-                            <img src="assets/img/product/tab-images/light-swine.svg" class="tab-light-img" />
-                            <span>Swine</span>
-                        </a>
-                    </li>
-                </ul>
-                <div class="tabs-content">
-                    <div class="content active" id="panela1" aria-hidden="false">
-                        <div class="tab-content u-mob-padd-h-none">
-                            <div class="wrapper padd-h-none">
-                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 u-mob-padd-h-none">
-                                    <div class="heading-of-product">
-                                        <div class="left-icons-set-product">
-                                            <span class="grid"><img
+      <div class="wrapper u-mob-padd-h-none">
+        <div class="vertical-tabs">
+          <ul class="tabs vertical padd-left-none" data-tab="">
+            <li class="tab-title active">
+              <a
+                href="#panela1"
+                aria-selected="true"
+                tabindex="0"
+                onclick="getCompanionData('companion')"
+              >
+                <img
+                  src="assets/img/product/tab-images/dark-dog.svg"
+                  class="tab-dark-img"
+                /><img
+                  src="assets/img/product/tab-images/light-dog.svg"
+                  class="tab-light-img"
+                /><span>Companion</span>
+              </a>
+            </li>
+            <li class="tab-title">
+              <a
+                href="#panelb1"
+                aria-selected="false"
+                tabindex="-1"
+                onclick="ruminant('ruminant')"
+              >
+                <img
+                  src="assets/img/product/tab-images/dark-cow.svg"
+                  class="tab-dark-img"
+                />
+                <img
+                  src="assets/img/product/tab-images/light-cow.svg"
+                  class="tab-light-img"
+                /><span>Ruminant</span>
+              </a>
+            </li>
+            <li class="tab-title">
+              <a
+                href="#panelc1"
+                aria-selected="false"
+                tabindex="-1"
+                onclick="poultry('poultry')"
+              >
+                <img
+                  src="assets/img/product/tab-images/dark-poultry.svg"
+                  class="tab-dark-img"
+                /><img
+                  src="assets/img/product/tab-images/light-poultry.svg"
+                  class="tab-light-img"
+                /><span>Poultry & Aqua</span>
+              </a>
+            </li>
+            <li class="tab-title">
+              <a
+                href="#paneld1"
+                aria-selected="false"
+                tabindex="-1"
+                onclick="swine('swine')"
+              >
+                <img
+                  src="assets/img/product/tab-images/dark-swine.svg"
+                  class="tab-dark-img"
+                />
+                <img
+                  src="assets/img/product/tab-images/light-swine.svg"
+                  class="tab-light-img"
+                />
+                <span>Swine</span>
+              </a>
+            </li>
+          </ul>
+          <div class="tabs-content">
+            <div class="content active" id="panela1" aria-hidden="false">
+              <div class="tab-content u-mob-padd-h-none">
+                <div class="wrapper padd-h-none">
+                  <div
+                    class="col-lg-9 col-md-9 col-sm-9 col-xs-12 u-mob-padd-h-none"
+                  >
+                    <div class="heading-of-product">
+                      <div class="left-icons-set-product">
+                        <span class="grid"
+                          ><img
+                            src="assets/img/product/active-grid-icon.svg"
+                            alt="grid_icon"
+                            class="active-grid-icon"
+                          />
+                          <img
                             src="assets/img/product/grid-icon.svg"
-                            alt="grid icon"
-                        /></span>
-                                            <span class="listing"><img
+                            alt="grid_icon"
+                            class="disable-grid-icon"
+                          />
+                        </span>
+                        <span class="listing"
+                          ><img
+                            src="assets/img/product/active-list-icon.svg"
+                            alt="list_icon"
+                            class="active-list-icon"
+                          />
+                          <img
                             src="assets/img/product/list-icon.svg"
-                            alt="List icon"
-                        /></span>
-                                        </div>
-                                        <!-- <div class="middle-pagination-product">
+                            alt="list_icon"
+                            class="disable-list-icon"
+                          />
+                        </span>
+                      </div>
+                      <!-- <div class="middle-pagination-product">
                         <label>9 0f 12</label>
                       </div> -->
-                                        <div class="right-search-product">
-                                            <div class="relative main-header-search-box">
-                                                <input type="text" placeholder="Search" oninput="searchCompanion(this)" />
-                                                <i class="fa fa-search absolute right-center mr-12" aria-hidden="true"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 display-products u-mob-padd-h-none clearfix">
-                                        <div class="prodSearch-empty-section" id="companionID">
-                                            <img src="assets/img/product/vetina-search-not-found.png" />
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 display-products u-mob-padd-h-none clearfix" id="productId"></div>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section">
-                                    <h4 class="pt-8 pb-20">Sub Categories</h4>
-                                    <div class="product-list-wrapper">
-                                        <div class="visible-xs u-mob-filter-overlay overlay"></div>
-                                        <ul id="product-subcategory-list" class="pl-0 u-mob-category-list sub-category-list"></ul>
-                                    </div>
-                                </div>
-                            </div>
+                      <div class="right-search-product">
+                        <div class="relative main-header-search-box">
+                          <input
+                            type="text"
+                            placeholder="Search"
+                            oninput="searchCompanion(this)"
+                          />
+                          <i
+                            class="fa fa-search absolute right-center mr-12"
+                            aria-hidden="true"
+                          ></i>
                         </div>
+                      </div>
                     </div>
+                    <div
+                      class="col-md-12 display-products u-mob-padd-h-none clearfix"
+                    >
+                      <div class="prodSearch-empty-section" id="companionID">
+                        <img
+                          src="assets/img/product/vetina-search-not-found.png"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      class="col-md-12 display-products u-mob-padd-h-none clearfix"
+                      id="productId"
+                    ></div>
+                  </div>
 
-                    <div class="content" id="panelb1" aria-hidden="true" tabindex="-1">
-                        <div class="tab-content u-mob-padd-nonone">
-                            <div class="wrapper padd-h-none">
-                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 u-mob-padd-h-none">
-                                    <div class="heading-of-product">
-                                        <div class="left-icons-set-product">
-                                            <span class="grid"><img
+                  <div
+                    class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section"
+                  >
+                    <h4 class="pt-8 pb-20">Sub Categories</h4>
+                    <div class="product-list-wrapper">
+                      <div
+                        class="visible-xs u-mob-filter-overlay overlay"
+                      ></div>
+                      <ul
+                        id="product-subcategory-list"
+                        class="pl-0 u-mob-category-list sub-category-list"
+                      ></ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="content" id="panelb1" aria-hidden="true" tabindex="-1">
+              <div class="tab-content u-mob-padd-nonone">
+                <div class="wrapper padd-h-none">
+                  <div
+                    class="col-lg-9 col-md-9 col-sm-9 col-xs-12 u-mob-padd-h-none"
+                  >
+                    <div class="heading-of-product">
+                      <div class="left-icons-set-product">
+                        <span class="grid"
+                          ><img
+                            src="assets/img/product/active-grid-icon.svg"
+                            alt="grid_icon"
+                            class="active-grid-icon"
+                          />
+                          <img
                             src="assets/img/product/grid-icon.svg"
-                            alt="grid icon"
-                        /></span>
-                                            <span class="listing"><img
+                            alt="grid_icon"
+                            class="disable-grid-icon"
+                          />
+                        </span>
+                        <span class="listing"
+                          ><img
+                            src="assets/img/product/active-list-icon.svg"
+                            alt="list_icon"
+                            class="active-list-icon"
+                          />
+                          <img
                             src="assets/img/product/list-icon.svg"
-                            alt="List icon"
-                        /></span>
-                                        </div>
-                                        <div class="right-search-product">
-                                            <div class="relative main-header-search-box">
-                                                <input type="text" placeholder="Search" oninput="searchRuminion(this)" />
-                                                <i class="fa fa-search absolute right-center mr-12" aria-hidden="true"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 display-products u-mob-padd-h-none clearfix">
-                                        <div class="prodSearch-empty-section" id="ruminantID">
-                                            <img src="assets/img/product/vetina-search-not-found.png" />
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 display-products padd-h-none clearfix" id="ruminantId"></div>
-                                </div>
-
-                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section">
-                                    <h4 class="pt-8 pb-20">Sub Categories</h4>
-                                    <div class="product-list-wrapper">
-                                        <div class="u-mob-filter-overlay overlay">
-                                            <ul id="ruminant-subcategory-list" class="pl-0 u-mob-category-list sub-category-list"></ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            alt="list_icon"
+                            class="disable-list-icon"
+                          />
+                        </span>
+                      </div>
+                      <div class="right-search-product">
+                        <div class="relative main-header-search-box">
+                          <input
+                            type="text"
+                            placeholder="Search"
+                            oninput="searchRuminion(this)"
+                          />
+                          <i
+                            class="fa fa-search absolute right-center mr-12"
+                            aria-hidden="true"
+                          ></i>
                         </div>
+                      </div>
                     </div>
+                    <div
+                      class="col-md-12 display-products u-mob-padd-h-none clearfix"
+                    >
+                      <div class="prodSearch-empty-section" id="ruminantID">
+                        <img
+                          src="assets/img/product/vetina-search-not-found.png"
+                        />
+                      </div>
+                    </div>
+                    <div
+                      class="col-md-12 display-products padd-h-none clearfix"
+                      id="ruminantId"
+                    ></div>
+                  </div>
 
-                    <div class="content" id="panelc1" aria-hidden="true" tabindex="-1">
-                        <div class="tab-content u-mob-padd-h-none">
-                            <div class="wrapper padd-h-none">
-                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 u-mob-padd-h-none">
-                                    <!-- <div class="heading-of-product">
-                                        <div class="left-icons-set-product">
-                                            <span class="grid"><img
+                  <div
+                    class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section"
+                  >
+                    <h4 class="pt-8 pb-20">Sub Categories</h4>
+                    <div class="product-list-wrapper">
+                      <div class="u-mob-filter-overlay overlay">
+                        <ul
+                          id="ruminant-subcategory-list"
+                          class="pl-0 u-mob-category-list sub-category-list"
+                        ></ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="content" id="panelc1" aria-hidden="true" tabindex="-1">
+              <div class="tab-content u-mob-padd-h-none">
+                <div class="wrapper padd-h-none">
+                  <div
+                    class="col-lg-12 col-md-12 col-sm-12 col-xs-12 u-mob-padd-h-none"
+                  >
+                    <!-- <div class="heading-of-product">
+                      <div class="left-icons-set-product">
+                        <span class="grid"
+                          ><img
+                            src="assets/img/product/active-grid-icon.svg"
+                            alt="grid_icon"
+                            class="active-grid-icon"
+                          />
+                          <img
                             src="assets/img/product/grid-icon.svg"
-                            alt="grid icon"
-                        /></span>
-                                            <span class="listing"><img
+                            alt="grid_icon"
+                            class="disable-grid-icon"
+                          />
+                        </span>
+                        <span class="listing"
+                          ><img
+                            src="assets/img/product/active-list-icon.svg"
+                            alt="list_icon"
+                            class="active-list-icon"
+                          />
+                          <img
                             src="assets/img/product/list-icon.svg"
-                            alt="List icon"
-                        /></span>
-                                        </div>
-                                        <!-- <div class="middle-pagination-product">
+                            alt="list_icon"
+                            class="disable-list-icon"
+                          />
+                        </span>
+                      </div>
+                      <div class="middle-pagination-product">
                         <label>9 0f 12</label>
-                      </div> -->
-                                    <!-- <div class="right-search-product">
-                                            <div class="relative main-header-search-box">
-                                                <input type="text" placeholder="Search" oninput="searchPoultry(this)" />
-                                                <i class="fa fa-search absolute right-center mr-12" aria-hidden="true"></i>
-                                            </div>
-                                        </div> 
-                                    </div> -->
-                                    <div class="col-md-12 display-products u-mob-padd-h-none clearfix">
-                                        <div class="prodSearch-empty-section" id="poultryID">
-                                            <img src="assets/img/product/coming soon-01.png" />
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 display-products padd-h-none" id="poultryId"></div>
-                                </div>
+                      </div>
+                      <div class="right-search-product">
+                        <div class="relative main-header-search-box">
+                          <input
+                            type="text"
+                            placeholder="Search"
+                            oninput="searchPoultry(this)"
+                          />
+                          <i
+                            class="fa fa-search absolute right-center mr-12"
+                            aria-hidden="true"
+                          ></i>
+                        </div>
+                      </div>
+                    </div> -->
+                    <div
+                      class="col-md-12 display-products u-mob-padd-h-none clearfix"
+                    >
+                      <div class="prodSearch-empty-section" id="poultryID">
+                        <img src="assets/img/product/coming soon-01.png" />
+                      </div>
+                    </div>
+                    <div
+                      class="col-md-12 display-products padd-h-none"
+                      id="poultryId"
+                    ></div>
+                  </div>
 
-                                <!-- <div
+                  <!-- <div
                     class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section"
                   >
                     <h4 class="pt-8 pb-20">Sub Categories</h4>
@@ -181,42 +338,72 @@
                       </div>
                     </div>
                   </div> -->
-                            </div>
-                        </div>
-                    </div>
+                </div>
+              </div>
+            </div>
 
-                    <div class="content" id="paneld1" aria-hidden="true" tabindex="-1">
-                        <div class="tab-content">
-                            <div class="wrapper padd-h-none">
-                                <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 u-mob-padd-h-none">
-                                    <!-- <div class="heading-of-product">
-                                        <div class="left-icons-set-product">
-                                            <span class="grid"><img
+            <div class="content" id="paneld1" aria-hidden="true" tabindex="-1">
+              <div class="tab-content">
+                <div class="wrapper padd-h-none">
+                  <div
+                    class="col-lg-12 col-md-12 col-sm-12 col-xs-12 u-mob-padd-h-none"
+                  >
+                    <!-- <div class="heading-of-product">
+                      <div class="left-icons-set-product">
+                        <span class="grid"
+                          ><img
+                            src="assets/img/product/active-grid-icon.svg"
+                            alt="grid_icon"
+                            class="active-grid-icon"
+                          />
+                          <img
                             src="assets/img/product/grid-icon.svg"
-                            alt="grid icon"
-                        /></span>
-                                            <span class="listing"><img
+                            alt="grid_icon"
+                            class="disable-grid-icon"
+                          />
+                        </span>
+                        <span class="listing"
+                          ><img
+                            src="assets/img/product/active-list-icon.svg"
+                            alt="list_icon"
+                            class="active-list-icon"
+                          />
+                          <img
                             src="assets/img/product/list-icon.svg"
-                            alt="List icon"
-                        /></span>
-                                        </div>
-                                       
-                                        <div class="right-search-product">
-                                            <div class="relative main-header-search-box">
-                                                <input type="text" placeholder="Search" oninput="searchSwine(this)" />
-                                                <i class="fa fa-search absolute right-center mr-12" aria-hidden="true"></i>
-                                            </div>
-                                        </div>
-                                    </div> -->
-                                    <div class="col-md-12 display-products u-mob-padd-h-none clearfix">
-                                        <div class="prodSearch-empty-section" id="swineID">
-                                            <img src="assets/img/product/coming soon-01.png" />
-                                        </div>
-                                    </div>
-                                    <div class="col-md-12 display-products padd-h-none" id="swineId"></div>
-                                </div>
+                            alt="list_icon"
+                            class="disable-list-icon"
+                          />
+                        </span>
+                      </div>
 
-                                <!-- <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section">
+                      <div class="right-search-product">
+                        <div class="relative main-header-search-box">
+                          <input
+                            type="text"
+                            placeholder="Search"
+                            oninput="searchSwine(this)"
+                          />
+                          <i
+                            class="fa fa-search absolute right-center mr-12"
+                            aria-hidden="true"
+                          ></i>
+                        </div>
+                      </div>
+                    </div> -->
+                    <div
+                      class="col-md-12 display-products u-mob-padd-h-none clearfix"
+                    >
+                      <div class="prodSearch-empty-section" id="swineID">
+                        <img src="assets/img/product/coming soon-01.png" />
+                      </div>
+                    </div>
+                    <div
+                      class="col-md-12 display-products padd-h-none"
+                      id="swineId"
+                    ></div>
+                  </div>
+
+                  <!-- <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 u-mob-padd-h-none u-mob-category-section">
                                     <h4 class="pt-8 pb-20">Sub Categories</h4>
                                     <div class="product-list-wrapper">
                                         <div class="u-mob-filter-overlay overlay">
@@ -224,12 +411,12 @@
                                         </div>
                                     </div>
                                 </div> -->
-                            </div>
-                        </div>
-                    </div>
                 </div>
+              </div>
             </div>
+          </div>
         </div>
+      </div>
     </div>
     <!-- footer start -->
     <div id="footer"></div>
@@ -237,12 +424,16 @@
     <!---  modal -->
 
     <div id="open-modal" class="modal modal-window">
-        <div class="modal-backdrop" onclick="closeModal()"></div>
-        <a onclick="closeModal()" id="close-modal" title="Close" class="modal-close"><img src="assets/img/product/cross-icon.png" /><span>Close</span></a>
-        <div class="p-modal-details" id="product-modal-content"></div>
+      <div class="modal-backdrop" onclick="closeModal()"></div>
+      <a
+        onclick="closeModal()"
+        id="close-modal"
+        title="Close"
+        class="modal-close"
+        ><img src="assets/img/product/cross-icon.png" /><span>Close</span></a
+      >
+      <div class="p-modal-details" id="product-modal-content"></div>
     </div>
-
-
 
     <!-- owl carousel js link -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
@@ -251,73 +442,79 @@
     <script src="assets/js/vendor/owl.carousel.js"></script>
 
     <script>
-        $(document).ready(function() {
-            $(".u-mob-category-section h4").click(function() {
-                $(".u-mob-category-section").toggleClass("open-mob-filter-section");
-            });
-            $(".u-mob-filter-overlay").click(function() {
-                $(".u-mob-category-section").removeClass("open-mob-filter-section");
-            });
+      $(document).ready(function() {
+        $(".u-mob-category-section h4").click(function() {
+          $(".u-mob-category-section").toggleClass("open-mob-filter-section");
         });
-    </script>
-
-    <script>
-        $(document).ready(function() {
-            $(".grid").click(function() {
-                $(".display-products").removeClass("listLayout");
-            });
-
-            $(".listing").click(function() {
-                $(".display-products").addClass("listLayout");
-            });
+        $(".u-mob-filter-overlay").click(function() {
+          $(".u-mob-category-section").removeClass("open-mob-filter-section");
         });
+      });
     </script>
 
     <script>
-        $(document).ready(function() {
-            $(".tab-title>a").click(function(e) {
-                e.preventDefault();
-                var index = $(this)
-                    .parent()
-                    .index();
-                $(this)
-                    .parent()
-                    .addClass("active")
-                    .siblings()
-                    .removeClass("active")
-                    .parent("ul.tabs")
-                    .siblings(".tabs-content")
-                    .children(".content")
-                    .removeClass("active")
-                    .eq(index)
-                    .addClass("active");
-            });
+      $(document).ready(function() {
+        $(".grid").click(function() {
+          $(".display-products").removeClass("listLayout");
+          $(".heading-of-product").addClass("active-grid");
+          $(".heading-of-product").removeClass("active-list");
         });
+
+        $(".listing").click(function() {
+          $(".display-products").addClass("listLayout");
+          $(".heading-of-product").addClass("active-list");
+          $(".heading-of-product").removeClass("active-grid");
+        });
+      });
     </script>
 
     <script>
-        function closeModal() {
-            var element = document.getElementById("open-modal");
-            element.classList.remove("open");
-        }
+      $(document).ready(function() {
+        $(".tab-title>a").click(function(e) {
+          e.preventDefault();
+          var index = $(this)
+            .parent()
+            .index();
+          $(this)
+            .parent()
+            .addClass("active")
+            .siblings()
+            .removeClass("active")
+            .parent("ul.tabs")
+            .siblings(".tabs-content")
+            .children(".content")
+            .removeClass("active")
+            .eq(index)
+            .addClass("active");
+        });
+      });
     </script>
 
     <script>
-        function vetninIframeModal() {
-            alert();
-            var element = document.getElementById("vetina-iframe-modal");
-            element.classList.add("open");
-        }
+      function closeModal() {
+        var element = document.getElementById("open-modal");
+        element.classList.remove("open");
+      }
     </script>
 
     <script>
-        function closeFrameModal() {
-            var element = document.getElementById("vetina-product-iframe-modal");
-            element.classList.remove("modal-open");
-        }
+      function vetninIframeModal() {
+<<<<<<< HEAD
+=======
+        alert();
+>>>>>>> bf928be65562f8df8c5a23e1a55598247f3d77ae
+        var element = document.getElementById("vetina-iframe-modal");
+        element.classList.add("open");
+      }
+    </script>
+
+    <script>
+      function closeFrameModal() {
+        var element = document.getElementById("vetina-product-iframe-modal");
+        element.classList.remove("modal-open");
+      }
     </script>
 
     <!-- Modal -->
-</body>
-
+  </body>
 </html>
