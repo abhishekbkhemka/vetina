@@ -142,6 +142,24 @@
   .main-header-list-pro-pic {
     .circle(20px);
   }
+  .sub-header-left-list {
+    padding-left: 28px;
+    padding-top: @space / 2;
+    li {
+      margin-left: 0px;
+      font-size: 16px;
+      margin-bottom: 8px;
+      a {
+        color: #4c4947;
+        span {
+          padding-left: @space / 2;
+        }
+        .fa-mobile {
+          font-size: 22px;
+        }
+      }
+    }
+  }
   //header mobile responsive end
 
   //footer mobile responsive start
@@ -713,7 +731,8 @@
       .u-mob-category-list {
         background: #fff;
         z-index: 1;
-        position: relative;
+        position: absolute;
+        top: 0px;
         width: 60%;
         border: 1px solid rgba(0, 0, 0, 0.09);
         padding: @space;
@@ -723,6 +742,9 @@
         background-color: rgba(0, 0, 0, 0.8);
       }
     }
+  }
+  .sub-category-list input[type="checkbox"]:checked + label:after {
+    top: 5px;
   }
   .product-list-wrapper {
     display: none;
