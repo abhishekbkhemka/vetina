@@ -1,6 +1,6 @@
 // loader js start
 $(window).load(function() {
-  $(".loader").fadeOut(5500);
+  $(".loader").fadeOut(4900);
 });
 // loader js end
 

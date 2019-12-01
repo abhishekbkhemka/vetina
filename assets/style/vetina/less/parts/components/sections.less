@@ -1,5 +1,8 @@
 //------------------------------- index page css start
 
+.mt-40{
+  margin-top: @space * 3;
+}
 .mt-nav {
   margin-top: (@space * 7) - 5;
 }
@@ -258,7 +261,9 @@
 } //i-products-carousel-col-details
 
 .i-products-carousel-col-img {
-  max-width: 240px;
+  height: 172px !important;
+  padding-top: 20px;
+  width: auto !important;
   margin-left: auto;
   margin-right: auto;
 } //i-products-carousel-col-img
@@ -843,7 +848,13 @@ textarea::placeholder {
   width: 100%;
   height: 100%;
   z-index: 9999;
-  background: url("/assets/img/loaderImage.gif") 50% 50% no-repeat #000;
+  background: url('/assets/img/loaderImage.gif');
+  background-repeat: no-repeat;
+  background-size: 66%;
+  background-position: center;
+  opacity: 1 !important;
+  background-color: #7f8083;
+
 
   background-size: contain;
 }
@@ -1054,3 +1065,31 @@ textarea::placeholder {
 //faq page css start
 
 //faq page css end
+
+.iframe-360-icon {
+  position: absolute;
+  height: auto !important;
+  top: 10px;
+  right: 10px;
+  width:20px !important;
+}
+
+.modal-iframe-img{
+  background: rgba(4, 4, 4, 0.7294117647058823);
+}
+
+.modal-iframe-img .modal-dialog{
+  width: 70% !important;
+}
+
+.modal-iframe-img .modal-dialog .modal-header button{
+  background: transparent;
+    border: 0px solid !important;
+    float: right;
+    font-size: 22px;
+    z-index: 99;
+}
+
+.modal-iframe-img .modal-dialog .modal-header{
+  height: 35px !important;
+}
