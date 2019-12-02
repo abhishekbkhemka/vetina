@@ -10,6 +10,12 @@
       min-width: @space;
     }
   } // tab head secondary
+  .mobile-view-img{
+    display: block;
+  }
+  .web-view-img{
+    display: none !important;
+  }
   .btn {
     .button-size(8px; 12px; @font-size; 1.3; 3px);
     .min-width(120px);
@@ -166,6 +172,15 @@
       }
     }
   }
+  .top-mobile-view-text{
+    color: #000000 !important;
+  }
+  .top-fold-slider-content{
+    ul{
+      font-size: 12px !important;
+      margin-top: 0px;
+    }
+  }
   //header mobile responsive end
 
   //footer mobile responsive start
@@ -244,18 +259,26 @@
   }
 
   .top-fold-slider-bg-img {
-    height: 260px;
+    height: 165px;
+    object-fit: fill;
   }
   .top-fold-slider-content {
-    margin-top: 52px !important;
+    margin-top: 0px !important;
+    max-width: 59%;
+    p {
+      font-size: @font-size - @font-size / 4;
+    }
+  }
+  .top-fold-slider-content.last-child-fold-slider{
+    max-width: 61%;
   }
   .top-fold-slider-info {
+    padding-bottom: 0px;
+    margin-bottom: 6px;
     span {
       font-size: @font-size;
     }
-    p {
-      font-size: @font-size - @font-size / 8;
-    }
+    
   }
 
   .i-products-carousel-col-details {
@@ -942,9 +965,15 @@
   }
   .top-fold-slider-content {
     margin-top: @space * 3 !important;
+    ul{
+      font-size: @font-size - @font-size/4;
+      margin-top: 0px !important;
+    }
   }
+
+
   .top-fold-slider-bg-img {
-    height: 340px;
+    height: 170px;
   }
 
   .i-what-we-do-right-cont {
