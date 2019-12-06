@@ -41,6 +41,7 @@
       >
     <div class="item">
           <div class="relative">
+              <a href="product.html?tab=companion" target="_blank">
             <img
               src="assets/img/index/top-carousel/companion.jpg"
               class="top-fold-slider-bg-img web-view-img"
@@ -63,10 +64,12 @@
                </ul>
 
             </div>
+            </a>
           </div>
         </div>
       <div class="item">
           <div class="relative">
+              <a href="product.html?tab=poultry" class="custom-button">
             <img
               src="assets/img/index/top-carousel/poultry.jpg"
               class="top-fold-slider-bg-img web-view-img"
@@ -87,10 +90,12 @@
                 </ul>
                 </p>
              </div>
+             </a>
           </div>
         </div> 
         <div class="item">
           <div class="relative">
+              <a href="product.html?tab=ruminant" target="_blank">
             <img
               src="assets/img/index/top-carousel/ruminant.jpg"
               class="top-fold-slider-bg-img web-view-img"
@@ -107,13 +112,15 @@
               </p>
               <ul>
                 <li> 1. Pharmaceuticals</li>
-                 <li>  2. Nuetraeuticals</li>
+                 <li> 2. Nuetraeuticals</li>
               </ul>
               </div>
+              </a>
           </div>
         </div>
         <div class="item">
           <div class="">
+              <a href="vetbuddy.html" target="_blank">
             <img
               src="assets/img/index/top-carousel/pawtect.jpg"
               class="top-fold-slider-bg-img slider-vetcpoin-img web-view-img"
@@ -128,10 +135,12 @@
                 </h2>
                
             </div>
+            </a>
           </div>
         </div>
         <div class="item">
-          <div class="">
+          <div>
+            <a href="vetbuddy.html" target="_blank">
             <img
               src="assets/img/index/top-carousel/vet-buddy.jpg"
               class="top-fold-slider-bg-img web-view-img"
@@ -148,10 +157,12 @@
               <p class="margin-v-none top-mobile-view-text">A clinic management software for Pet Practitioners</p>
              
             </div>
+          </a>
           </div>
         </div>
         <div class="item">
           <div class="relative">
+              <a href="vetcoins.html" target="_blank">
             <img
               src="assets/img/index/top-carousel/vetcoin.jpg"
               class="top-fold-slider-bg-img slider-vetcpoin-img"
@@ -164,6 +175,7 @@
                   Veterinary professionals , Retailers and Wholesalers and many others</p>
               <!-- <button class="btn btn-xs btn-primary">Know More</button> -->
             </div>
+            </a>  
           </div>
         </div>
       </div>
@@ -171,7 +183,7 @@
     <!-- top fold slider end -->
 
     <!-- what we do section start -->
-    <div class="i-what-we-do-section pt-80 pb-48">
+    <!-- <div class="i-what-we-do-section pt-80 pb-48">
       <div class="container">
         <div class="section-heading text-center u-mob-margin-bottom-none">
           <div class="section-heading-img-wrap ">
@@ -206,7 +218,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> 
     <!-- what we do section end -->
 
     <!-- products type section start -->
@@ -443,7 +455,29 @@
             <div class="i-assoc-part-carousel-col">
               <a href="https://covetrus.com/" target="_blank">
               <img
-                src="assets/img/index/partner-img/henry-schein.jpg"
+                src="assets/img/index/partner-img/covetrus.jpg"
+                class="i-assoc-part-carousel-col-img"
+              />
+            </a>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="i-assoc-part-carousel-col">
+              <a href="http://igusol.com/en/home" target="_blank">
+              <img
+                src="assets/img/index/partner-img/igusol.png"
+                class="i-assoc-part-carousel-col-img"
+              />
+            </a>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="i-assoc-part-carousel-col">
+              <a href="https://www.dechra.com/" target="_blank">
+              <img
+                src="assets/img/index/partner-img/dechra.png"
                 class="i-assoc-part-carousel-col-img"
               />
             </a>
@@ -655,8 +689,10 @@
     <script src="assets/js/vetina/bootstrap.min.js"></script>
     <!-- owl carousel js start -->
     <script type="text/javascript">
+  
       $(document).ready(function() {
-        var owl1 = $("#owl-carousel1");
+       
+       var owl1 = $("#owl-carousel1");
         var owl2 = $("#owl-carousel2");
         var owl3 = $("#owl-carousel3");
         var owl4 = $("#owl-carousel4");
@@ -664,8 +700,12 @@
           items: 1,
           loop: true,
           autoplay: true,
-          nav: false
+          nav: false,
+          autoplayTimeout:5000,
+          autoplayHoverPause:true
+          
         });
+       
         owl2.owlCarousel({
           items: 3,
           loop: false,
@@ -688,6 +728,7 @@
             }
           }
         });
+
         owl3.owlCarousel({
           items: 4,
           loop: false,
@@ -697,6 +738,7 @@
           dots: false,
           stagePadding: 30
         });
+
         owl4.owlCarousel({
           items: 2,
           loop: false,
@@ -717,10 +759,11 @@
             }
           }
         });
+
       });
     </script>
-    <!-- owl carousel js end -->
 
+    <!-- owl carousel js end -->
     <script type="text/javascript">
       $(document).ready(function(e) {
         function t(t) {

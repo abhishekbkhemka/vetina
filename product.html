@@ -27,16 +27,16 @@
     <div id="freeSample"></div>
     <!-- free sample end -->
 
-    <div class="product-section mt-nav">
+    <div class="product-section mt-nav pt-20">
       <div class="wrapper u-mob-padd-h-none">
         <div class="vertical-tabs">
           <ul
             class="tabs vertical padd-left-none col-lg-9 u-mob-padd-h-none"
             data-tab=""
           >
-            <li class="tab-title active" onclick="companionFunc()">
-              <a
-                href="#panela1"
+            <li class="tab-title active" id="companion-tab" class="panel-companion"  onclick="companionFunc()">
+              <a 
+                href="#panela1" 
                 aria-selected="true"
                 tabindex="0"
                 onclick="getCompanionData('companion')"
@@ -50,9 +50,9 @@
                 /><span>Companion</span>
               </a>
             </li>
-            <li class="tab-title" onclick="ruminantFunc()">
-              <a
-                href="#panelb1"
+            <li class="tab-title" id="ruminant-tab"  onclick="ruminantFunc()">
+              <a class=""
+                href="#panelb1" 
                 aria-selected="false"
                 tabindex="-1"
                 onclick="ruminant('ruminant')"
@@ -67,9 +67,9 @@
                 /><span>Ruminant</span>
               </a>
             </li>
-            <li class="tab-title">
-              <a
-                href="#panelc1"
+            <li class="tab-title" id="poultry-tab">
+              <a 
+                href="#panelc1" 
                 aria-selected="false"
                 tabindex="-1"
                 onclick="poultry('poultry')"
@@ -92,7 +92,7 @@
                     </li> -->
           </ul>
           <div class="tabs-content">
-            <div class="content active" id="panela1" aria-hidden="false">
+            <div class="content panel active" id="panela1" aria-hidden="false">
               <div class="tab-content u-mob-padd-h-none">
                 <div class="wrapper padd-h-none">
                   <div
@@ -175,7 +175,7 @@
               </div>
             </div>
 
-            <div class="content" id="panelb1" aria-hidden="true" tabindex="-1">
+            <div class="content panel" id="panelb1" aria-hidden="true" tabindex="-1">
               <div class="tab-content u-mob-padd-none">
                 <div class="wrapper padd-h-none">
                   <div
@@ -254,7 +254,7 @@
               </div>
             </div>
 
-            <div class="content" id="panelc1" aria-hidden="true" tabindex="-1">
+            <div class="content panel" id="panelc1" aria-hidden="true" tabindex="-1">
               <div class="tab-content u-mob-padd-h-none">
                 <div class="wrapper padd-h-none">
                   <div
@@ -432,9 +432,51 @@
     <script src="assets/js/vetina/main.js"></script>
     <script src="assets/js/vetina/products.js"></script>
     <script src="assets/js/vendor/owl.carousel.js"></script>
-
+   
     <script>
       $(document).ready(function() {
+        setTimeout(function(){
+          var url = document.location.search.substring(1)
+       var params = url.split('tab=')
+       if(params.length>1){
+         var tab = params[1]
+         if(tab == 'companion'){
+          $('.tab-title').removeClass('active')
+           $('.panel').removeClass('active')
+
+          $('#companion-tab').addClass('active')
+          $('#panela1').addClass('active')
+          companionFunc()
+          getCompanionData('companion')
+         
+         }else if(tab == 'ruminant'){
+           
+           $('.tab-title').removeClass('active')
+           $('.panel').removeClass('active')
+
+          $('#ruminant-tab').addClass('active')
+          $('#panelb1').addClass('active')
+          ruminant('ruminant')
+          ruminantFunc()
+          
+         }else if(tab =='poultry'){
+          $('.tab-title').removeClass('active')
+           $('.panel').removeClass('active')
+
+          $('#poultry-tab').addClass('active')
+          $('#panelc1').addClass('active')
+          poultry('poultry')
+        
+         }
+       }else{
+         alert('sfsd')
+       }
+        },1000)
+      
+
+       
+        
+
         $(".u-mob-category-section h4").click(function() {
           $(".u-mob-category-section").toggleClass("open-mob-filter-section");
         });
@@ -462,6 +504,7 @@
 
     <script>
       $(document).ready(function() {
+        var params = 
         $(".tab-title>a").click(function(e) {
           e.preventDefault();
           var index = $(this)
@@ -490,18 +533,7 @@
     </script>
 
     <script>
-      function vetninIframeModal() { <<
-          <<
-          <<
-          <
-          HEAD
-              ===
-              ===
-              =
-              alert(); >>>
-          >>>
-          >
-          bf928be65562f8df8c5a23e1a55598247f3d77ae
+      function vetninIframeModal() { 
           var element = document.getElementById("vetina-iframe-modal");
           element.classList.add("open");
       }
