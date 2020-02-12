@@ -438,12 +438,19 @@
       }
       .t-block {
         border: solid 1px #979797;
-        span {
+        position: relative;
+        margin-bottom: @space;
+        img {
           display: block;
-          background: #eee;
-          .size(100%; 260px);
+          .size(100%; 300px);
+          .object-fit();
         }
         .team-details {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          background-color: @light-color;
+          width: 100%;
           h5 {
             font-size: @font-size - @font-size / 4;
             color: #424242;
@@ -1075,7 +1082,7 @@ textarea::placeholder {
 .privacy-policy-section {
   p {
     font-size: @font-size-small;
-    color: #3b3937;
+    color: lighten(@light-dark-color, 20%);
     margin-top: @space + 4;
     margin-bottom: @space + 4;
   }

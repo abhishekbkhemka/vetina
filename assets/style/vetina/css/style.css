@@ -3537,12 +3537,24 @@ textarea.form-control {
 }
 .i-teammember-section .teamm-member-blocks .col-md-3 .t-block {
   border: solid 1px #979797;
+  position: relative;
+  margin-bottom: 16px;
 }
-.i-teammember-section .teamm-member-blocks .col-md-3 .t-block span {
+.i-teammember-section .teamm-member-blocks .col-md-3 .t-block img {
   display: block;
-  background: #eee;
   width: 100%;
-  height: 260px;
+  height: 300px;
+  -webkit-object-fit: cover;
+  -moz-object-fit: cover;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+.i-teammember-section .teamm-member-blocks .col-md-3 .t-block .team-details {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  width: 100%;
 }
 .i-teammember-section .teamm-member-blocks .col-md-3 .t-block .team-details h5 {
   font-size: 12px;
@@ -4082,7 +4094,7 @@ textarea::placeholder {
 }
 .privacy-policy-section p {
   font-size: 14px;
-  color: #3b3937;
+  color: #757575;
   margin-top: 20px;
   margin-bottom: 20px;
 }
