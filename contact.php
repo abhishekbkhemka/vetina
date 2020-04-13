@@ -27,10 +27,10 @@
         $username = "info@rikoouu.com";
         $password = "Medicokare@84";
 		
-		$recipient = "abhishekbkhemka@gmail.com";
+		$recipient = "customerservice@vetina.com";
 		$subject = "Enquiry from Vetina Contact.";
 		$mailheader = "From: $email \r\n";
-		$from ="abhishekbkhemka@gmail.com";
+		$from ="customerservice@vetina.com";
 
 		$headers = array ('From' => $from,'MIME-Version'=>'1.0\r\n','Content-Type'=> 'text/html; charset=ISO-8859-1\r\n',
            'To' => $recipient,
