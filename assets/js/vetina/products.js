@@ -399,6 +399,7 @@ function getProductsPoultry(prod) {
 
 function listCategoriesPoultry(category) {
   const result = {};
+  if(!category){return}
   Object.keys(category).forEach(function(key) {
     result[key.replace(/_/g, " ")] = category[key];
   });

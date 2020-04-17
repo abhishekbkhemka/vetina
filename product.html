@@ -35,8 +35,8 @@
             data-tab=""
           >
             <li class="tab-title active" id="companion-tab" class="panel-companion"  onclick="companionFunc()">
-              <a 
-                href="#panela1" 
+              <a
+                href="#panela1"
                 aria-selected="true"
                 tabindex="0"
                 onclick="getCompanionData('companion')"
@@ -52,7 +52,7 @@
             </li>
             <li class="tab-title" id="ruminant-tab"  onclick="ruminantFunc()">
               <a class=""
-                href="#panelb1" 
+                href="#panelb1"
                 aria-selected="false"
                 tabindex="-1"
                 onclick="ruminant('ruminant')"
@@ -68,11 +68,11 @@
               </a>
             </li>
             <li class="tab-title" id="poultry-tab">
-              <a 
-                href="#panelc1" 
+              <a
+                href="#panelc1"
                 aria-selected="false"
                 tabindex="-1"
-                onclick="poultry('poultry')"
+                onclick="poultry('poultary')"
               >
                 <img
                   src="assets/img/product/tab-images/dark-poultry.svg"
@@ -80,7 +80,7 @@
                 /><img
                   src="assets/img/product/tab-images/light-poultry.svg"
                   class="tab-light-img"
-                /><span>Poultry & Aqua</span>
+                /><span>Poultary & Aqua</span>
               </a>
             </li>
             <!-- <li class="tab-title">
@@ -456,13 +456,13 @@
           ruminant('ruminant')
           ruminantFunc()
           
-         }else if(tab =='poultry'){
+         }else if(tab =='poultary'){
           $('.tab-title').removeClass('active')
            $('.panel').removeClass('active')
 
           $('#poultry-tab').addClass('active')
           $('#panelc1').addClass('active')
-          poultry('poultry')
+          poultry('poultary')
         
          }
        }else{
