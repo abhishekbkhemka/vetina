@@ -7,7 +7,7 @@ require("sendgrid-php/sendgrid-php.php");
 // replacing <PATH TO> with the path to the sendgrid-php.php file,
 // which is included in the download:
 // https://github.com/sendgrid/sendgrid-php/releases
-$name = '';
+$name = $_GET["name"];;
 if(isset($_GET["name"])){
 	$name = $_GET["name"];
 } 
