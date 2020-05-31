@@ -7,13 +7,13 @@ require("sendgrid-php/sendgrid-php.php");
 // replacing <PATH TO> with the path to the sendgrid-php.php file,
 // which is included in the download:
 // https://github.com/sendgrid/sendgrid-php/releases
-$name = '';
+//$name = '';
 // if(isset($_POST['name'])){
 // 	$name = $_POST['name'];
 // } 
 $email = new \SendGrid\Mail\Mail(); 
 $email->setFrom("abhi@rikoouu.com", "Example User");
-$email->setSubject("Sample reques from ".$name);
+$email->setSubject("Sample reques from nn ");
 $email->addTo("abhishekbkhemka@gmail.com", "Example User");
 $email->addContent("text/plain", "and easy to do anywhere, even with PHP");
 $email->addContent(
