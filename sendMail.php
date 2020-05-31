@@ -22,7 +22,7 @@ $email->addContent(
 $sendgrid = new \SendGrid(getenv('SENDGRID_API_KEY'));
 try {
     $response = $sendgrid->send($email);
-     echo json_encode($response);
+     echo json_encode($response->body());
      // echo('{"status":json_encode(response)}');
 } catch (Exception $e) {
     echo 'Caught exception: '. $e->getMessage() ."\n";
