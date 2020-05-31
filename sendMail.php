@@ -22,7 +22,7 @@ $email->addContent(
 $sendgrid = new \SendGrid(getenv('SENDGRID_API_KEY'));
 try {
     $response = $sendgrid->send($email);
-     echo('{"status":"success"}');
+     echo('{"status":"succesxxxxs"}');
 } catch (Exception $e) {
     echo 'Caught exception: '. $e->getMessage() ."\n";
 }
