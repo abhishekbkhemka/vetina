@@ -8,9 +8,9 @@ require("sendgrid-php/sendgrid-php.php");
 // which is included in the download:
 // https://github.com/sendgrid/sendgrid-php/releases
 $name = '';
-if(isset($_POST['name'])){
-	$name = $_POST['name'];
-} 
+// if(isset($_POST['name'])){
+// 	$name = $_POST['name'];
+// } 
 $email = new \SendGrid\Mail\Mail(); 
 $email->setFrom("abhi@rikoouu.com", "Example User");
 $email->setSubject("Sample reques from ".$name);
