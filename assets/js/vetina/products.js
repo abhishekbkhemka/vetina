@@ -374,6 +374,7 @@ function getProductsPoultry(prod) {
   } else {
     $("#poultryID").hide();
   }
+  console.log(prod)
   for (var i of prod) {
     $("#poultryId").append(
       '<div class="col-md-4 product-blocks" ><div class="img-product-blocks" onclick="getSingleProductPoultry(this)">' +
