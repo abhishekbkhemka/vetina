@@ -16,7 +16,6 @@ $email->setFrom("abhi@rikoouu.com", "Example User");
 $email->setSubject("Sample reques from nn ");
 $email->addTo("abhishekbkhemka@gmail.com", "Example User");
 $email->addContent("text/plain", "and easy to do anywhere, even with PHP");
-var_dump($_POST);
 $email->addContent(
     "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
 );
