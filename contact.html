@@ -105,7 +105,8 @@
     <script src="assets/js/vetina/validation.js"></script>
 
     <script>
-        $("#contact_submit").click(() => {
+        $("#contact_submit").click((e) => {
+            e.preventDefault();
             $.ajax({
                 url: 'sendMail.php',
                 type: 'POST',

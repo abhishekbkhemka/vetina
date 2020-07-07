@@ -16,20 +16,7 @@ $email->setFrom("abhi@rikoouu.com", "Example User");
 $email->setSubject("Sample reques from nn ");
 $email->addTo("abhishekbkhemka@gmail.com", "Example User");
 $email->addContent("text/plain", "and easy to do anywhere, even with PHP");
-$fname = $_POST['fname'];
-$lname = $_POST['lname'];
-$mobileNo = $_POST['mobileNo'];
-$city = $_POST['city'];
-$email = $_POST['email'];
-$postal = $_POST['postal'];
-$message = $_POST['message'];
-$formcontent=" From: Website Contact Form $email \n
-		Name: $fname\n
-        Mobile Number: $mobileNo \n
-        City: $city \n
-        Email Address: $email \n
-        Postal Code: $postal \n
-		Message: $message";
+var_dump($_POST);
 $email->addContent(
     "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
 );
