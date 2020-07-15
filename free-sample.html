@@ -2,7 +2,7 @@
 <div class="i-free-sample fixed absolute left-center m-tb-auto">
   <div class="overlay absolute center"></div>
   <div class="i-free-sample-block">
-    <form class="i-free-sample-form">
+    <form class="i-free-sample-form" action="sendMail.php" method="POST">
       <input
         type="text"
         name="name"
@@ -17,13 +17,13 @@
       />
       <input
         type="text"
-        name="contact"
+        name="mobileNo"
         placeholder="Contact"
         class="i-free-sample-sm-inp pull-left"
       />
       <input
         type="text"
-        name="pincode"
+        name="postal"
         placeholder="Pincode"
         class="i-free-sample-sm-inp pull-right"
       />
@@ -40,7 +40,7 @@
         classs="i-free-sample-lg-inp pull-left"
       />
       <div class=" text-center">
-        <button class="btn btn-send mt-4">Send Message</button>
+        <button class="btn btn-send mt-4" id="send-message">Send Message</button>
       </div>
     </form>
     <span class="i-free-ask-sample-btn">Ask for Free Sample</span>
@@ -59,4 +59,30 @@
     });
   });
 </script>
-<!-- form open js end -->
+
+<script>
+    $("#send-message").click((e) => {
+        e.preventDefault();
+        $.ajax({
+            url: 'sendMail.php',
+            type: 'POST',
+            data: {
+                source: "sample",
+                name: $('#name').val(),
+                mobileNo: $('#mobileNo').val(),
+                postal: $('#postal').val(),
+                email: $('#email').val(),
+                city: $('#address').val(),
+                message: $('#sample_req').val()
+            },
+            success: function() {
+
+            },
+            error: function() {
+
+
+            }
+        });
+    })
+
+    <!-- form open js end -->

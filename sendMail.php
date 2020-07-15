@@ -17,6 +17,11 @@ if(isset($_POST['lname'])){
  	$lname = $_POST['lname'];
 }
 
+$name = '';
+if(isset($_POST['name'])){
+ 	$name = $_POST['name'];
+}
+
 $mobileNo = '';
 if(isset($_POST['mobileNo'])){
  	$mobileNo = $_POST['mobileNo'];
@@ -31,6 +36,18 @@ $city = '';
 if(isset($_POST['city'])){
  	$city = $_POST['city'];
 }
+
+$address = '';
+if(isset($_POST['address'])){
+ 	$address = $_POST['address'];
+}
+
+$sample_req = '';
+if(isset($_POST['sample_req'])){
+ 	$sample_req = $_POST['sample_req'];
+}
+
+
 
 $postal = '';
 if(isset($_POST['postal'])){
@@ -49,15 +66,22 @@ if(isset($_POST['source'])){
 
 if($source == 'contact'){
 $formcontent=" <p>From: Website Contact Form</p> <br>
-        <p> Email: $email </p><br>
-		<p> Name: $fname  $lname  </p> <br>
-        <p> Mobile Number: $mobileNo </p><br>
-        <p> City: $city </p><br>
-        <p> Email Address: $email </p><br>
-        <p> Postal Code: $postal </p><br>
+        <p> Email: $email </p>
+		<p> Name: $fname  $lname  </p>
+        <p> Mobile Number: $mobileNo </p>
+        <p> City: $city </p>
+        <p> Email Address: $email </p>
+        <p> Postal Code: $postal </p>
 		<p> Message: $message </p>";
 }else{
-
+$formcontent=" <p>From: Sample Requested </p> <br>
+        <p> Email: $email </p>
+		<p> Name: $name  </p>
+        <p> Mobile Number: $mobileNo </p>
+        <p> Address: $address </p>
+        <p> Email Address: $email </p>
+        <p> Postal Code: $postal </p>
+		<p> Sample Requested: $sample_req </p>";
 }
 
 $email = new \SendGrid\Mail\Mail();
