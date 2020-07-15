@@ -43,7 +43,7 @@ if(isset($_POST['message'])){
 }
 
 $source = '';
-if(isset($_POST['message'])){
+if(isset($_POST['source'])){
  	$source = $_POST['source'];
 }
 
