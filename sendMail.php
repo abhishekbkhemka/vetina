@@ -11,6 +11,7 @@ require("sendgrid-php/sendgrid-php.php");
 // if(isset($_POST['name'])){
 // 	$name = $_POST['name'];
 // }
+
 $email = new \SendGrid\Mail\Mail();
 $email->setFrom("abhi@rikoouu.com", "Example User");
 $email->setSubject("Sample reques from nn ");
@@ -19,11 +20,14 @@ $email->addContent("text/plain", "and easy to do anywhere, even with PHP");
 $email->addContent(
     "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
 );
-$sendgrid = new \SendGrid('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');
+//echo getenv('SENDGRID_API_KEY');
+//exit(0);
+$sendgrid = new \SendGrid(getenv('SENDGRID_API_KEY'));
 try {
     $response = $sendgrid->send($email);
      echo json_encode($response->body());
-     // echo('{"status":json_encode(response)}');
+    // echo('{"status":json_encode(response)}');
 } catch (Exception $e) {
     echo 'Caught exception: '. $e->getMessage() ."\n";
 }
+?>
