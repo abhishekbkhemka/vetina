@@ -46,18 +46,18 @@
                </div>
 
                <div class="col-sm-6">
-                  <input type="text" name="mobileNo" id="mobileNo"
+                  <input type="text" name="mobileNo" id="mobileNoC"
                 minlength="10" maxlength="13" placeholder="Mobile No" >
                </div>
               <div class="col-sm-6">
-                <input type="email" name="email" id="email" placeholder="Email ID" >
+                <input type="email" name="email" id="emailC" placeholder="Email ID" >
                </div>
 
                <div class="col-sm-6">
                   <input type="text" name="city" id="city"  placeholder="City" >
                </div>
               <div class="col-sm-6">
-                <input type="text" name="postal" id="postal"
+                <input type="text" name="postal" id="postalC"
                 minlength="6" maxlength="8" placeholder="Postal Code" >
                </div>
 
@@ -114,9 +114,9 @@
                     source: "contact",
                     fname: $('#fname').val(),
                     lname: $('#lname').val(),
-                    mobileNo: $('#mobileNo').val(),
-                    postal: $('#postal').val(),
-                    email: $('#email').val(),
+                    mobileNo: $('#mobileNoC').val(),
+                    postal: $('#postalC').val(),
+                    email: $('#emailC').val(),
                     city: $('#city').val(),
                     message: $('#message').val()
                 },
