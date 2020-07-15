@@ -46,7 +46,7 @@
                </div>
 
                <div class="col-sm-6">
-                  <input type="text" name="mobileNo" id="mobileNoC"
+                  <input type="text" name="mobileNo" id="mobileNoC"  onkeypress=" return isNumber(event)"
                 minlength="10" maxlength="13" placeholder="Mobile No" >
                </div>
               <div class="col-sm-6">
@@ -106,22 +106,34 @@
 
     <script>
         $("#contact_submit").click((e) => {
+            var data = {
+                source: "contact",
+                fname: $('#fname').val(),
+                lname: $('#lname').val(),
+                mobileNo: $('#mobileNoC').val(),
+                postal: $('#postalC').val(),
+                email: $('#emailC').val(),
+                city: $('#city').val(),
+                message: $('#message').val()
+            }
+
+
             e.preventDefault();
+            if(!data.fname && !data.lname){
+                swal("Error!", "Name can not be blank!", "error");
+                return
+            }
+
+            if(!data.mobileNo){
+                swal("Error!", "Mobile No can not be blank!", "error");
+                return
+            }
             $.ajax({
                 url: 'sendMail.php',
                 type: 'POST',
-                data: {
-                    source: "contact",
-                    fname: $('#fname').val(),
-                    lname: $('#lname').val(),
-                    mobileNo: $('#mobileNoC').val(),
-                    postal: $('#postalC').val(),
-                    email: $('#emailC').val(),
-                    city: $('#city').val(),
-                    message: $('#message').val()
-                },
+                data: data,
                 success: function() {
-
+                    swal("Thank you for contacting Vetina");
                 },
                 error: function() {
 

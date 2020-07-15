@@ -1,4 +1,6 @@
 <!-- ask for free sample start -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="assets/js/vetina/validation.js"></script>
 <div class="i-free-sample fixed absolute left-center m-tb-auto">
   <div class="overlay absolute center"></div>
   <div class="i-free-sample-block">
@@ -21,6 +23,7 @@
         type="text"
         name="mobileNo"
         id="mobileNo"
+      onkeypress=" return isNumber(event)"
         placeholder="Contact"
         class="i-free-sample-sm-inp pull-left"
       />
@@ -68,21 +71,37 @@
 
 <script>
     $("#send-message").click((e) => {
+
         e.preventDefault();
+        var data = {
+            source: "sample",
+            name: $('#name').val(),
+            mobileNo: $('#mobileNo').val(),
+            postal: $('#postal').val(),
+            email: $('#email').val(),
+            address: $('#address').val(),
+            sample_req: $('#sample_req').val()
+        }
+        if(!data.name){
+            swal("Error!", "Name can not be blank!", "error");
+            return
+        }
+
+        if(!data.mobileNo){
+            swal("Error!", "Mobile No can not be blank!", "error");
+            return
+        }
+        if(data.mobileNo.length < 10 || data.mobileNo.length >13){
+            swal("Error!", "Please enter valid mobile number!", "error");
+            return
+        }
         $.ajax({
             url: 'sendMail.php',
             type: 'POST',
-            data: {
-                source: "sample",
-                name: $('#name').val(),
-                mobileNo: $('#mobileNo').val(),
-                postal: $('#postal').val(),
-                email: $('#email').val(),
-                address: $('#address').val(),
-                sample_req: $('#sample_req').val()
-            },
-            success: function() {
+            data: data,
 
+            success: function() {
+                swal("We have received your sample request, someone from team will contact you soon");
             },
             error: function() {
 
