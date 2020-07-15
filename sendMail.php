@@ -7,18 +7,58 @@ require("sendgrid-php/sendgrid-php.php");
 // replacing <PATH TO> with the path to the sendgrid-php.php file,
 // which is included in the download:
 // https://github.com/sendgrid/sendgrid-php/releases
-//$name = '';
-// if(isset($_POST['name'])){
-// 	$name = $_POST['name'];
-// }
+$fname = '';
+if(isset($_POST['fname'])){
+ 	$fname = $_POST['fname'];
+}
+
+$lname = '';
+if(isset($_POST['lname'])){
+ 	$lname = $_POST['lname'];
+}
+
+$mobileNo = '';
+if(isset($_POST['mobileNo'])){
+ 	$mobileNo = $_POST['mobileNo'];
+}
+
+$email = '';
+if(isset($_POST['email'])){
+ 	$email = $_POST['email'];
+}
+
+$city = '';
+if(isset($_POST['city'])){
+ 	$city = $_POST['city'];
+}
+
+$postal = '';
+if(isset($_POST['postal'])){
+ 	$postal = $_POST['postal'];
+}
+
+$message = '';
+if(isset($_POST['message'])){
+ 	$message = $_POST['message'];
+}
+
+
+$formcontent=" From: Website Contact Form $email \n
+		Name: $fname  $lname\n
+        Mobile Number: $mobileNo \n
+        City: $city \n
+        Email Address: $email \n
+        Postal Code: $postal \n
+		Message: $message";
+
 
 $email = new \SendGrid\Mail\Mail();
-$email->setFrom("abhi@rikoouu.com", "Example User");
-$email->setSubject("Sample reques from nn ");
-$email->addTo("abhishekbkhemka@gmail.com", "Example User");
-$email->addContent("text/plain", "and easy to do anywhere, even with PHP");
+$email->setFrom("abhi@rikoouu.com", "Vetina");
+$email->setSubject("Someone contacted from vetina.com");
+$email->addTo("abhishekbkhemka@gmail.com", "Vetina");
+$email->addContent("text/plain", $formcontent);
 $email->addContent(
-    "text/html", "<strong>and easy to do anywhere, even with PHP</strong>"
+    "text/html", $formcontent
 );
 //echo getenv('SENDGRID_API_KEY');
 //exit(0);
