@@ -42,16 +42,23 @@ if(isset($_POST['message'])){
  	$message = $_POST['message'];
 }
 
+$source = '';
+if(isset($_POST['message'])){
+ 	$source = $_POST['source'];
+}
 
-$formcontent=" From: Website Contact Form <br>
-        $email \n <br>
-		Name: $fname  $lname\n <br>
-        Mobile Number: $mobileNo \n<br>
-        City: $city \n<br>
-        Email Address: $email \n<br>
-        Postal Code: $postal \n<br>
-		Message: $message <br>";
+if($source == 'contact'){
+$formcontent=" <p>From: Website Contact Form</p> <br>
+        <p> Email: $email </p><br>
+		<p> Name: $fname  $lname  </p> <br>
+        <p> Mobile Number: $mobileNo </p><br>
+        <p> City: $city </p><br>
+        <p> Email Address: $email </p><br>
+        <p> Postal Code: $postal </p><br>
+		<p> Message: $message </p>";
+}else{
 
+}
 
 $email = new \SendGrid\Mail\Mail();
 $email->setFrom("abhi@rikoouu.com", "Vetina");
