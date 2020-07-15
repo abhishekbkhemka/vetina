@@ -43,13 +43,14 @@ if(isset($_POST['message'])){
 }
 
 
-$formcontent=" From: Website Contact Form $email \n
-		Name: $fname  $lname\n
-        Mobile Number: $mobileNo \n
-        City: $city \n
-        Email Address: $email \n
-        Postal Code: $postal \n
-		Message: $message";
+$formcontent=" From: Website Contact Form <br>
+        $email \n <br>
+		Name: $fname  $lname\n <br>
+        Mobile Number: $mobileNo \n<br>
+        City: $city \n<br>
+        Email Address: $email \n<br>
+        Postal Code: $postal \n<br>
+		Message: $message <br>";
 
 
 $email = new \SendGrid\Mail\Mail();
