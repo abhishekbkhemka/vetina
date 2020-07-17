@@ -85,7 +85,7 @@ $formcontent=" <p>From: Sample Requested </p> <br>
 }
 
 $email = new \SendGrid\Mail\Mail();
-$email->setFrom("abhi@rikoouu.com", "Vetina");
+$email->setFrom("customerservice@vetina.com", "Vetina");
 $email->setSubject("Someone contacted from vetina.com");
 $email->addTo("customerservice@vetina.com", "Vetina");
 $email->addContent("text/plain", $formcontent);
